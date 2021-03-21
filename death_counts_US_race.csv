@@ -1,0 +1,2041 @@
+State,County Name,Indicator,Total deaths,COVID-19 Deaths,Non-Hispanic White,Non-Hispanic Black,Non-Hispanic American Indian or Alaska Native,Non-Hispanic Asian,Non-Hispanic Native Hawaiian or Other Pacific Islander,Hispanic,Other
+AK,Anchorage Municipality,Distribution of all-cause deaths (%),2478,170,0.579,0.044,0.211,0.056,0.029,0.033,0.047
+AK,Anchorage Municipality,Distribution of COVID-19 deaths (%),2478,170,0.318,,0.335,0.147,0.088,,
+AK,Anchorage Municipality,Distribution of population (%),2478,170,0.556,0.052,0.081,0.095,0.026,0.091,0.099
+AL,Baldwin County,Distribution of all-cause deaths (%),2569,200,0.9,0.079,,,,0.013,
+AL,Baldwin County,Distribution of COVID-19 deaths (%),2569,200,0.86,0.115,,,,,
+AL,Baldwin County,Distribution of population (%),2569,200,0.832,0.086,0.007,0.011,0.001,0.047,0.017
+AL,Calhoun County,Distribution of all-cause deaths (%),1856,237,0.832,0.154,,,,0.008,
+AL,Calhoun County,Distribution of COVID-19 deaths (%),1856,237,0.81,0.177,,,,,
+AL,Calhoun County,Distribution of population (%),1856,237,0.716,0.21,0.004,0.009,0.001,0.041,0.019
+AL,Colbert County,Distribution of all-cause deaths (%),829,151,0.813,0.175,,,,0.012,
+AL,Colbert County,Distribution of COVID-19 deaths (%),829,151,0.795,0.159,,,,,
+AL,Colbert County,Distribution of population (%),829,151,0.777,0.16,0.006,0.007,0.001,0.032,0.018
+AL,Cullman County,Distribution of all-cause deaths (%),1340,185,0.98,0.009,,,,0.007,
+AL,Cullman County,Distribution of COVID-19 deaths (%),1340,185,0.978,,,,,,
+AL,Cullman County,Distribution of population (%),1340,185,0.916,0.012,0.006,0.007,0.001,0.045,0.013
+AL,Dallas County,Distribution of all-cause deaths (%),614,101,0.345,0.651,,,,,
+AL,Dallas County,Distribution of COVID-19 deaths (%),614,101,0.307,0.683,,,,,
+AL,Dallas County,Distribution of population (%),614,101,0.27,0.703,0.002,0.004,0,0.012,0.009
+AL,Etowah County,Distribution of all-cause deaths (%),1981,319,0.857,0.132,,,,0.008,
+AL,Etowah County,Distribution of COVID-19 deaths (%),1981,319,0.862,0.132,,,,,
+AL,Etowah County,Distribution of population (%),1981,319,0.774,0.155,0.004,0.008,0,0.041,0.017
+AL,Houston County,Distribution of all-cause deaths (%),2411,487,0.742,0.242,,,,0.008,
+AL,Houston County,Distribution of COVID-19 deaths (%),2411,487,0.69,0.283,,,,0.021,
+AL,Houston County,Distribution of population (%),2411,487,0.66,0.271,0.004,0.01,0.001,0.034,0.02
+AL,Jefferson County,Distribution of all-cause deaths (%),12337,1693,0.625,0.354,,0.005,,0.011,0.004
+AL,Jefferson County,Distribution of COVID-19 deaths (%),12337,1693,0.622,0.348,,0.006,,0.019,
+AL,Jefferson County,Distribution of population (%),12337,1693,0.495,0.431,0.002,0.018,0,0.041,0.013
+AL,Lauderdale County,Distribution of all-cause deaths (%),1800,229,0.901,0.092,,,,,
+AL,Lauderdale County,Distribution of COVID-19 deaths (%),1800,229,0.856,0.127,,,,,
+AL,Lauderdale County,Distribution of population (%),1800,229,0.845,0.099,0.004,0.008,0,0.029,0.016
+AL,Lee County,Distribution of all-cause deaths (%),1496,243,0.691,0.295,,,,,
+AL,Lee County,Distribution of COVID-19 deaths (%),1496,243,0.58,0.391,,,,,
+AL,Lee County,Distribution of population (%),1496,243,0.676,0.226,0.002,0.041,0.001,0.037,0.016
+AL,Madison County,Distribution of all-cause deaths (%),5061,528,0.783,0.186,,0.01,,0.016,0.003
+AL,Madison County,Distribution of COVID-19 deaths (%),5061,528,0.782,0.172,,,,0.036,
+AL,Madison County,Distribution of population (%),5061,528,0.644,0.244,0.007,0.026,0.001,0.052,0.026
+AL,Marshall County,Distribution of all-cause deaths (%),1467,172,0.954,0.016,,,,0.028,
+AL,Marshall County,Distribution of COVID-19 deaths (%),1467,172,0.895,,,,,0.087,
+AL,Marshall County,Distribution of population (%),1467,172,0.797,0.026,0.006,0.006,0.001,0.147,0.016
+AL,Mobile County,Distribution of all-cause deaths (%),6416,748,0.637,0.339,0.008,0.006,,0.007,0.003
+AL,Mobile County,Distribution of COVID-19 deaths (%),6416,748,0.547,0.42,,,,,
+AL,Mobile County,Distribution of population (%),6416,748,0.565,0.359,0.009,0.021,0,0.03,0.016
+AL,Montgomery County,Distribution of all-cause deaths (%),3911,678,0.47,0.512,,0.006,,0.006,0.004
+AL,Montgomery County,Distribution of COVID-19 deaths (%),3911,678,0.407,0.572,,,,,
+AL,Montgomery County,Distribution of population (%),3911,678,0.327,0.588,0.002,0.032,0,0.037,0.013
+AL,Morgan County,Distribution of all-cause deaths (%),1688,200,0.86,0.115,,,,0.023,
+AL,Morgan County,Distribution of COVID-19 deaths (%),1688,200,0.775,0.185,,,,,
+AL,Morgan County,Distribution of population (%),1688,200,0.75,0.127,0.008,0.006,0.001,0.087,0.021
+AL,Shelby County,Distribution of all-cause deaths (%),1671,148,0.868,0.108,,0.008,,0.014,
+AL,Shelby County,Distribution of COVID-19 deaths (%),1671,148,0.804,0.162,,,,,
+AL,Shelby County,Distribution of population (%),1671,148,0.772,0.131,0.003,0.022,0,0.058,0.014
+AL,Talladega County,Distribution of all-cause deaths (%),1060,104,0.721,0.272,,,,,
+AL,Talladega County,Distribution of COVID-19 deaths (%),1060,104,0.663,0.317,,,,,
+AL,Talladega County,Distribution of population (%),1060,104,0.623,0.327,0.003,0.007,0,0.024,0.016
+AL,Tallapoosa County,Distribution of all-cause deaths (%),659,101,0.768,0.229,,,,,
+AL,Tallapoosa County,Distribution of COVID-19 deaths (%),659,101,0.713,0.287,,,,,
+AL,Tallapoosa County,Distribution of population (%),659,101,0.687,0.266,0.004,0.005,0,0.025,0.012
+AL,Tuscaloosa County,Distribution of all-cause deaths (%),2937,516,0.647,0.336,,,,0.013,
+AL,Tuscaloosa County,Distribution of COVID-19 deaths (%),2937,516,0.564,0.413,,,,0.021,
+AL,Tuscaloosa County,Distribution of population (%),2937,516,0.608,0.322,0.002,0.016,0,0.04,0.012
+AL,Walker County,Distribution of all-cause deaths (%),1221,168,0.94,0.052,,,,,
+AL,Walker County,Distribution of COVID-19 deaths (%),1221,168,0.935,,,,,,
+AL,Walker County,Distribution of population (%),1221,168,0.888,0.061,0.004,0.005,0,0.026,0.015
+AR,Baxter County,Distribution of all-cause deaths (%),1097,127,0.989,,,,,,
+AR,Baxter County,Distribution of COVID-19 deaths (%),1097,127,0.992,,,,,,
+AR,Baxter County,Distribution of population (%),1097,127,0.942,0.004,0.007,0.005,0.001,0.026,0.015
+AR,Benton County,Distribution of all-cause deaths (%),2427,406,0.911,0.008,0.01,0.008,0.012,0.048,
+AR,Benton County,Distribution of COVID-19 deaths (%),2427,406,0.786,,,,0.059,0.121,
+AR,Benton County,Distribution of population (%),2427,406,0.721,0.018,0.014,0.04,0.007,0.17,0.03
+AR,Craighead County,Distribution of all-cause deaths (%),2678,479,0.877,0.11,,,,0.008,
+AR,Craighead County,Distribution of COVID-19 deaths (%),2678,479,0.839,0.144,,,,,
+AR,Craighead County,Distribution of population (%),2678,479,0.748,0.165,0.003,0.012,0,0.052,0.018
+AR,Faulkner County,Distribution of all-cause deaths (%),1352,183,0.902,0.072,,,,0.011,
+AR,Faulkner County,Distribution of COVID-19 deaths (%),1352,183,0.896,0.087,,,,,
+AR,Faulkner County,Distribution of population (%),1352,183,0.799,0.12,0.005,0.012,0.001,0.042,0.021
+AR,Garland County,Distribution of all-cause deaths (%),2239,312,0.901,0.072,,,,0.013,0.01
+AR,Garland County,Distribution of COVID-19 deaths (%),2239,312,0.846,0.115,,,,,
+AR,Garland County,Distribution of population (%),2239,312,0.816,0.085,0.006,0.008,0.001,0.059,0.024
+AR,Independence County,Distribution of all-cause deaths (%),715,152,0.962,0.015,,,,0.015,
+AR,Independence County,Distribution of COVID-19 deaths (%),715,152,0.941,,,,,,
+AR,Independence County,Distribution of population (%),715,152,0.88,0.023,0.005,0.008,0.001,0.066,0.017
+AR,Jefferson County,Distribution of all-cause deaths (%),1098,156,0.515,0.464,,,,0.014,
+AR,Jefferson County,Distribution of COVID-19 deaths (%),1098,156,0.487,0.462,,,,,
+AR,Jefferson County,Distribution of population (%),1098,156,0.382,0.57,0.003,0.008,0.001,0.022,0.014
+AR,Pulaski County,Distribution of all-cause deaths (%),7848,958,0.705,0.268,,0.006,,0.016,0.004
+AR,Pulaski County,Distribution of COVID-19 deaths (%),7848,958,0.652,0.296,,0.01,,0.039,
+AR,Pulaski County,Distribution of population (%),7848,958,0.516,0.375,0.003,0.022,0,0.062,0.021
+AR,Saline County,Distribution of all-cause deaths (%),1141,123,0.93,0.053,,,,,
+AR,Saline County,Distribution of COVID-19 deaths (%),1141,123,0.878,0.098,,,,,
+AR,Saline County,Distribution of population (%),1141,123,0.834,0.082,0.005,0.013,0,0.051,0.015
+AR,Sebastian County,Distribution of all-cause deaths (%),2820,414,0.88,0.041,0.016,0.016,,0.026,0.02
+AR,Sebastian County,Distribution of COVID-19 deaths (%),2820,414,0.819,0.027,0.034,,,0.065,0.031
+AR,Sebastian County,Distribution of population (%),2820,414,0.686,0.067,0.019,0.046,0.001,0.147,0.034
+AR,Washington County,Distribution of all-cause deaths (%),2865,416,0.893,0.021,0.012,0.01,0.022,0.039,
+AR,Washington County,Distribution of COVID-19 deaths (%),2865,416,0.788,,0.029,,0.062,0.091,
+AR,Washington County,Distribution of population (%),2865,416,0.686,0.033,0.011,0.025,0.027,0.167,0.052
+AR,White County,Distribution of all-cause deaths (%),1179,137,0.946,0.044,,,,,
+AR,White County,Distribution of COVID-19 deaths (%),1179,137,0.92,0.073,,,,,
+AR,White County,Distribution of population (%),1179,137,0.877,0.045,0.006,0.008,0.001,0.044,0.019
+AZ,Cochise County,Distribution of all-cause deaths (%),1311,114,0.719,0.023,,0.011,,0.214,0.027
+AZ,Cochise County,Distribution of COVID-19 deaths (%),1311,114,0.553,,,,,0.342,
+AZ,Cochise County,Distribution of population (%),1311,114,0.546,0.038,0.008,0.02,0.003,0.356,0.028
+AZ,Coconino County,Distribution of all-cause deaths (%),1447,227,0.452,0.013,0.418,,,0.095,0.017
+AZ,Coconino County,Distribution of COVID-19 deaths (%),1447,227,0.115,,0.78,,,0.093,
+AZ,Coconino County,Distribution of population (%),1447,227,0.54,0.013,0.258,0.019,0.001,0.143,0.026
+AZ,Maricopa County,Distribution of all-cause deaths (%),51232,8325,0.702,0.049,0.035,0.018,0.002,0.168,0.025
+AZ,Maricopa County,Distribution of COVID-19 deaths (%),51232,8325,0.52,0.04,0.097,0.026,0.003,0.292,0.022
+AZ,Maricopa County,Distribution of population (%),51232,8325,0.544,0.056,0.017,0.043,0.002,0.313,0.024
+AZ,Mohave County,Distribution of all-cause deaths (%),4220,506,0.873,0.009,0.013,0.008,,0.069,0.027
+AZ,Mohave County,Distribution of COVID-19 deaths (%),4220,506,0.789,,0.032,,,0.123,0.028
+AZ,Mohave County,Distribution of population (%),4220,506,0.766,0.011,0.021,0.011,0.002,0.169,0.02
+AZ,Navajo County,Distribution of all-cause deaths (%),1273,156,0.559,,0.343,,,0.068,0.022
+AZ,Navajo County,Distribution of COVID-19 deaths (%),1273,156,0.327,,0.558,,,0.09,
+AZ,Navajo County,Distribution of population (%),1273,156,0.416,0.008,0.436,0.006,0.001,0.115,0.018
+AZ,Pima County,Distribution of all-cause deaths (%),15154,2239,0.681,0.028,0.026,0.012,0.001,0.235,0.016
+AZ,Pima County,Distribution of COVID-19 deaths (%),15154,2239,0.5,0.024,0.047,0.014,,0.401,0.012
+AZ,Pima County,Distribution of population (%),15154,2239,0.511,0.034,0.024,0.03,0.002,0.377,0.021
+AZ,Pinal County,Distribution of all-cause deaths (%),3196,273,0.724,0.038,0.043,0.006,,0.169,0.018
+AZ,Pinal County,Distribution of COVID-19 deaths (%),3196,273,0.542,,0.07,,,0.33,
+AZ,Pinal County,Distribution of population (%),3196,273,0.559,0.047,0.044,0.016,0.004,0.306,0.024
+AZ,Yavapai County,Distribution of all-cause deaths (%),3854,357,0.899,0.003,0.017,0.005,,0.058,0.017
+AZ,Yavapai County,Distribution of COVID-19 deaths (%),3854,357,0.81,,0.062,,,0.092,
+AZ,Yavapai County,Distribution of population (%),3854,357,0.801,0.007,0.014,0.011,0.001,0.147,0.019
+AZ,Yuma County,Distribution of all-cause deaths (%),2648,630,0.526,0.013,0.022,,,0.418,0.019
+AZ,Yuma County,Distribution of COVID-19 deaths (%),2648,630,0.275,,0.027,,,0.678,
+AZ,Yuma County,Distribution of population (%),2648,630,0.301,0.019,0.009,0.012,0.001,0.645,0.013
+CA,Alameda County,Distribution of all-cause deaths (%),12608,1064,0.445,0.19,0.003,0.201,0.009,0.136,0.016
+CA,Alameda County,Distribution of COVID-19 deaths (%),12608,1064,0.3,0.173,,0.231,0.015,0.264,0.012
+CA,Alameda County,Distribution of population (%),12608,1064,0.304,0.101,0.002,0.314,0.008,0.221,0.049
+CA,Butte County,Distribution of all-cause deaths (%),2701,211,0.86,0.02,0.016,0.021,,0.067,0.013
+CA,Butte County,Distribution of COVID-19 deaths (%),2701,211,0.754,,,0.057,,0.128,
+CA,Butte County,Distribution of population (%),2701,211,0.708,0.016,0.015,0.048,0.002,0.172,0.039
+CA,Contra Costa County,Distribution of all-cause deaths (%),9442,616,0.625,0.117,0.003,0.107,0.006,0.125,0.018
+CA,Contra Costa County,Distribution of COVID-19 deaths (%),9442,616,0.506,0.123,,0.128,,0.221,
+CA,Contra Costa County,Distribution of population (%),9442,616,0.425,0.087,0.003,0.176,0.005,0.259,0.046
+CA,El Dorado County,Distribution of all-cause deaths (%),1662,103,0.898,0.01,,0.029,,0.048,0.008
+CA,El Dorado County,Distribution of COVID-19 deaths (%),1662,103,0.854,,,,,,
+CA,El Dorado County,Distribution of population (%),1662,103,0.771,0.009,0.008,0.046,0.002,0.131,0.033
+CA,Fresno County,Distribution of all-cause deaths (%),10169,1351,0.504,0.06,0.008,0.085,0.001,0.333,0.008
+CA,Fresno County,Distribution of COVID-19 deaths (%),10169,1351,0.357,0.043,0.01,0.1,,0.486,
+CA,Fresno County,Distribution of population (%),10169,1351,0.286,0.046,0.006,0.103,0.001,0.537,0.02
+CA,Imperial County,Distribution of all-cause deaths (%),1600,468,0.186,0.015,0.009,0.012,,0.776,
+CA,Imperial County,Distribution of COVID-19 deaths (%),1600,468,0.064,,,,,0.919,
+CA,Imperial County,Distribution of population (%),1600,468,0.1,0.024,0.007,0.012,0.001,0.85,0.006
+CA,Kern County,Distribution of all-cause deaths (%),8094,1027,0.568,0.065,0.007,0.032,,0.316,0.01
+CA,Kern County,Distribution of COVID-19 deaths (%),8094,1027,0.294,0.048,0.01,0.041,,0.599,
+CA,Kern County,Distribution of population (%),8094,1027,0.328,0.052,0.006,0.047,0.001,0.545,0.02
+CA,Kings County,Distribution of all-cause deaths (%),1232,269,0.464,0.049,0.013,0.031,,0.433,0.01
+CA,Kings County,Distribution of COVID-19 deaths (%),1232,269,0.212,,,,,0.717,
+CA,Kings County,Distribution of population (%),1232,269,0.313,0.063,0.009,0.038,0.002,0.551,0.024
+CA,Los Angeles County,Distribution of all-cause deaths (%),91672,15956,0.39,0.123,0.003,0.135,0.003,0.337,0.009
+CA,Los Angeles County,Distribution of COVID-19 deaths (%),91672,15956,0.237,0.083,0.002,0.145,0.004,0.523,0.005
+CA,Los Angeles County,Distribution of population (%),91672,15956,0.26,0.079,0.002,0.148,0.002,0.485,0.024
+CA,Madera County,Distribution of all-cause deaths (%),1174,167,0.504,0.036,0.014,0.022,,0.41,0.014
+CA,Madera County,Distribution of COVID-19 deaths (%),1174,167,0.192,,,,,0.749,
+CA,Madera County,Distribution of population (%),1174,167,0.331,0.032,0.011,0.021,0.001,0.587,0.017
+CA,Marin County,Distribution of all-cause deaths (%),2358,169,0.835,0.029,,0.043,,0.071,0.019
+CA,Marin County,Distribution of COVID-19 deaths (%),2358,169,0.704,,,0.071,,0.148,
+CA,Marin County,Distribution of population (%),2358,169,0.71,0.025,0.002,0.064,0.002,0.163,0.034
+CA,Merced County,Distribution of all-cause deaths (%),1878,231,0.514,0.061,0.007,0.059,,0.35,
+CA,Merced County,Distribution of COVID-19 deaths (%),1878,231,0.333,,,0.061,,0.545,
+CA,Merced County,Distribution of population (%),1878,231,0.264,0.029,0.004,0.071,0.002,0.609,0.02
+CA,Monterey County,Distribution of all-cause deaths (%),3399,452,0.558,0.034,0.003,0.075,0.006,0.315,0.01
+CA,Monterey County,Distribution of COVID-19 deaths (%),3399,452,0.285,0.035,,0.086,,0.575,
+CA,Monterey County,Distribution of population (%),3399,452,0.292,0.025,0.003,0.057,0.004,0.591,0.027
+CA,Orange County,Distribution of all-cause deaths (%),28083,4433,0.582,0.018,0.002,0.172,0.003,0.215,0.007
+CA,Orange County,Distribution of COVID-19 deaths (%),28083,4433,0.331,0.015,,0.214,0.007,0.426,0.005
+CA,Orange County,Distribution of population (%),28083,4433,0.397,0.017,0.002,0.212,0.003,0.339,0.03
+CA,Placer County,Distribution of all-cause deaths (%),4693,357,0.838,0.024,0.007,0.05,,0.07,0.01
+CA,Placer County,Distribution of COVID-19 deaths (%),4693,357,0.737,0.05,,0.056,,0.137,
+CA,Placer County,Distribution of population (%),4693,357,0.714,0.017,0.006,0.079,0.002,0.144,0.039
+CA,Riverside County,Distribution of all-cause deaths (%),23464,3841,0.583,0.071,0.005,0.043,0.003,0.282,0.013
+CA,Riverside County,Distribution of COVID-19 deaths (%),23464,3841,0.37,0.054,0.005,0.051,0.005,0.505,0.01
+CA,Riverside County,Distribution of population (%),23464,3841,0.34,0.062,0.005,0.065,0.003,0.499,0.026
+CA,Sacramento County,Distribution of all-cause deaths (%),15106,1290,0.623,0.11,0.005,0.115,0.009,0.121,0.017
+CA,Sacramento County,Distribution of COVID-19 deaths (%),15106,1290,0.51,0.099,,0.161,0.026,0.184,0.015
+CA,Sacramento County,Distribution of population (%),15106,1290,0.433,0.097,0.005,0.161,0.011,0.234,0.06
+CA,San Bernardino County,Distribution of all-cause deaths (%),21434,3939,0.459,0.11,0.005,0.052,0.004,0.357,0.012
+CA,San Bernardino County,Distribution of COVID-19 deaths (%),21434,3939,0.285,0.084,0.006,0.059,0.005,0.552,0.009
+CA,San Bernardino County,Distribution of population (%),21434,3939,0.272,0.081,0.004,0.073,0.003,0.543,0.024
+CA,San Diego County,Distribution of all-cause deaths (%),28771,3208,0.614,0.051,0.004,0.086,0.006,0.222,0.016
+CA,San Diego County,Distribution of COVID-19 deaths (%),28771,3208,0.365,0.037,0.004,0.101,0.008,0.471,0.013
+CA,San Diego County,Distribution of population (%),28771,3208,0.448,0.047,0.004,0.119,0.004,0.34,0.038
+CA,San Francisco County,Distribution of all-cause deaths (%),7341,382,0.395,0.104,0.003,0.308,0.005,0.126,0.058
+CA,San Francisco County,Distribution of COVID-19 deaths (%),7341,382,0.283,0.079,,0.361,,0.251,
+CA,San Francisco County,Distribution of population (%),7341,382,0.4,0.05,0.002,0.353,0.004,0.152,0.039
+CA,San Joaquin County,Distribution of all-cause deaths (%),7426,1108,0.524,0.096,0.006,0.116,0.007,0.233,0.018
+CA,San Joaquin County,Distribution of COVID-19 deaths (%),7426,1108,0.387,0.086,,0.152,,0.352,0.014
+CA,San Joaquin County,Distribution of population (%),7426,1108,0.303,0.071,0.004,0.158,0.006,0.418,0.041
+CA,San Luis Obispo County,Distribution of all-cause deaths (%),2691,178,0.873,0.007,,0.018,,0.087,0.01
+CA,San Luis Obispo County,Distribution of COVID-19 deaths (%),2691,178,0.798,,,,,0.135,
+CA,San Luis Obispo County,Distribution of population (%),2691,178,0.684,0.017,0.005,0.036,0.001,0.229,0.027
+CA,San Mateo County,Distribution of all-cause deaths (%),5598,479,0.568,0.043,,0.229,0.014,0.135,0.01
+CA,San Mateo County,Distribution of COVID-19 deaths (%),5598,479,0.392,0.042,,0.296,,0.238,
+CA,San Mateo County,Distribution of population (%),5598,479,0.382,0.022,0.001,0.294,0.013,0.237,0.05
+CA,Santa Barbara County,Distribution of all-cause deaths (%),4077,413,0.695,0.023,0.005,0.031,,0.235,0.01
+CA,Santa Barbara County,Distribution of COVID-19 deaths (%),4077,413,0.431,,,0.053,,0.482,
+CA,Santa Barbara County,Distribution of population (%),4077,413,0.437,0.018,0.004,0.054,0.002,0.46,0.025
+CA,Santa Clara County,Distribution of all-cause deaths (%),13465,1356,0.51,0.034,0.003,0.242,0.007,0.196,0.009
+CA,Santa Clara County,Distribution of COVID-19 deaths (%),13465,1356,0.353,0.033,,0.267,0.008,0.329,
+CA,Santa Clara County,Distribution of population (%),13465,1356,0.305,0.024,0.002,0.382,0.003,0.249,0.035
+CA,Santa Cruz County,Distribution of all-cause deaths (%),2068,212,0.746,0.011,0.005,0.038,,0.188,0.01
+CA,Santa Cruz County,Distribution of COVID-19 deaths (%),2068,212,0.561,,,0.057,,0.363,
+CA,Santa Cruz County,Distribution of population (%),2068,212,0.567,0.01,0.004,0.047,0.001,0.34,0.031
+CA,Shasta County,Distribution of all-cause deaths (%),2926,183,0.89,0.006,0.021,0.017,,0.043,0.022
+CA,Shasta County,Distribution of COVID-19 deaths (%),2926,183,0.847,,,,,0.082,
+CA,Shasta County,Distribution of population (%),2926,183,0.79,0.011,0.023,0.03,0.002,0.105,0.039
+CA,Solano County,Distribution of all-cause deaths (%),4109,317,0.55,0.165,0.004,0.126,0.01,0.122,0.022
+CA,Solano County,Distribution of COVID-19 deaths (%),4109,317,0.416,0.164,,0.183,,0.196,
+CA,Solano County,Distribution of population (%),4109,317,0.369,0.136,0.004,0.152,0.008,0.27,0.061
+CA,Sonoma County,Distribution of all-cause deaths (%),4919,322,0.825,0.015,0.009,0.026,0.004,0.102,0.019
+CA,Sonoma County,Distribution of COVID-19 deaths (%),4919,322,0.627,,,0.043,,0.267,
+CA,Sonoma County,Distribution of population (%),4919,322,0.627,0.016,0.007,0.043,0.003,0.272,0.032
+CA,Stanislaus County,Distribution of all-cause deaths (%),6855,1113,0.648,0.037,0.006,0.047,0.006,0.246,0.011
+CA,Stanislaus County,Distribution of COVID-19 deaths (%),6855,1113,0.475,0.028,,0.058,,0.42,
+CA,Stanislaus County,Distribution of population (%),6855,1113,0.401,0.027,0.005,0.054,0.007,0.473,0.033
+CA,Tulare County,Distribution of all-cause deaths (%),4114,692,0.555,0.018,0.011,0.031,,0.377,0.005
+CA,Tulare County,Distribution of COVID-19 deaths (%),4114,692,0.341,,,0.036,,0.595,
+CA,Tulare County,Distribution of population (%),4114,692,0.276,0.012,0.007,0.033,0.001,0.655,0.015
+CA,Ventura County,Distribution of all-cause deaths (%),7294,770,0.673,0.019,0.002,0.051,0.002,0.244,0.009
+CA,Ventura County,Distribution of COVID-19 deaths (%),7294,770,0.439,0.013,,0.078,,0.458,
+CA,Ventura County,Distribution of population (%),7294,770,0.446,0.018,0.003,0.074,0.002,0.432,0.026
+CA,Yolo County,Distribution of all-cause deaths (%),1429,146,0.696,0.024,,0.06,,0.204,0.009
+CA,Yolo County,Distribution of COVID-19 deaths (%),1429,146,0.479,,,0.089,,0.425,
+CA,Yolo County,Distribution of population (%),1429,146,0.458,0.024,0.005,0.145,0.004,0.318,0.046
+CO,Adams County,Distribution of all-cause deaths (%),4682,674,0.636,0.061,0.009,0.031,0.002,0.248,0.012
+CO,Adams County,Distribution of COVID-19 deaths (%),4682,674,0.45,0.064,,0.042,,0.423,
+CO,Adams County,Distribution of population (%),4682,674,0.49,0.033,0.006,0.042,0.001,0.408,0.021
+CO,Arapahoe County,Distribution of all-cause deaths (%),5464,714,0.773,0.08,0.006,0.031,0.002,0.1,0.007
+CO,Arapahoe County,Distribution of COVID-19 deaths (%),5464,714,0.676,0.076,,0.06,,0.161,
+CO,Arapahoe County,Distribution of population (%),5464,714,0.592,0.106,0.004,0.063,0.002,0.197,0.034
+CO,Boulder County,Distribution of all-cause deaths (%),2858,289,0.876,0.012,,0.017,,0.087,0.006
+CO,Boulder County,Distribution of COVID-19 deaths (%),2858,289,0.709,,,0.052,,0.211,
+CO,Boulder County,Distribution of population (%),2858,289,0.774,0.01,0.004,0.049,0,0.14,0.024
+CO,Denver County,Distribution of all-cause deaths (%),6308,647,0.605,0.132,0.01,0.024,,0.213,0.014
+CO,Denver County,Distribution of COVID-19 deaths (%),6308,647,0.468,0.128,0.019,0.048,,0.326,
+CO,Denver County,Distribution of population (%),6308,647,0.548,0.089,0.005,0.039,0.001,0.292,0.025
+CO,Douglas County,Distribution of all-cause deaths (%),2059,232,0.89,0.017,,0.026,,0.057,0.007
+CO,Douglas County,Distribution of COVID-19 deaths (%),2059,232,0.832,,,,,0.121,
+CO,Douglas County,Distribution of population (%),2059,232,0.813,0.015,0.003,0.053,0.001,0.091,0.025
+CO,El Paso County,Distribution of all-cause deaths (%),6700,748,0.783,0.059,0.007,0.017,0.002,0.113,0.018
+CO,El Paso County,Distribution of COVID-19 deaths (%),6700,748,0.714,0.056,,0.025,,0.182,0.013
+CO,El Paso County,Distribution of population (%),6700,748,0.684,0.06,0.006,0.029,0.003,0.177,0.041
+CO,Jefferson County,Distribution of all-cause deaths (%),6074,697,0.822,0.014,0.005,0.019,,0.134,0.006
+CO,Jefferson County,Distribution of COVID-19 deaths (%),6074,697,0.727,0.017,,0.033,,0.208,
+CO,Jefferson County,Distribution of population (%),6074,697,0.777,0.012,0.005,0.03,0.001,0.156,0.02
+CO,Larimer County,Distribution of all-cause deaths (%),3262,249,0.901,0.008,0.004,0.01,,0.073,0.003
+CO,Larimer County,Distribution of COVID-19 deaths (%),3262,249,0.723,,,,,0.233,
+CO,Larimer County,Distribution of population (%),3262,249,0.821,0.01,0.004,0.023,0.001,0.119,0.022
+CO,Mesa County,Distribution of all-cause deaths (%),2242,204,0.9,,0.015,,,0.079,
+CO,Mesa County,Distribution of COVID-19 deaths (%),2242,204,0.789,,0.049,,,0.157,
+CO,Mesa County,Distribution of population (%),2242,204,0.81,0.007,0.007,0.009,0.001,0.148,0.018
+CO,Pueblo County,Distribution of all-cause deaths (%),2678,346,0.606,0.021,0.006,0.004,,0.356,0.006
+CO,Pueblo County,Distribution of COVID-19 deaths (%),2678,346,0.535,,,,,0.413,
+CO,Pueblo County,Distribution of population (%),2678,346,0.517,0.019,0.007,0.009,0.001,0.431,0.017
+CO,Weld County,Distribution of all-cause deaths (%),2070,267,0.782,0.007,,0.01,,0.191,
+CO,Weld County,Distribution of COVID-19 deaths (%),2070,267,0.61,,,,,0.345,
+CO,Weld County,Distribution of population (%),2070,267,0.648,0.012,0.006,0.017,0.001,0.3,0.017
+CT,Fairfield County,Distribution of all-cause deaths (%),8937,1881,0.777,0.106,,0.02,,0.092,0.006
+CT,Fairfield County,Distribution of COVID-19 deaths (%),8937,1881,0.718,0.13,,0.023,,0.122,0.007
+CT,Fairfield County,Distribution of population (%),8937,1881,0.609,0.111,0.001,0.057,0,0.205,0.015
+CT,Hartford County,Distribution of all-cause deaths (%),10872,2025,0.783,0.112,,0.014,,0.087,0.004
+CT,Hartford County,Distribution of COVID-19 deaths (%),10872,2025,0.72,0.156,,0.011,,0.107,0.005
+CT,Hartford County,Distribution of population (%),10872,2025,0.599,0.134,0.002,0.059,0,0.188,0.018
+CT,Litchfield County,Distribution of all-cause deaths (%),1725,189,0.958,0.013,,0.006,,0.019,
+CT,Litchfield County,Distribution of COVID-19 deaths (%),1725,189,0.926,,,,,,
+CT,Litchfield County,Distribution of population (%),1725,189,0.874,0.018,0.002,0.021,0,0.071,0.014
+CT,Middlesex County,Distribution of all-cause deaths (%),1695,282,0.919,0.043,,0.006,,0.022,0.008
+CT,Middlesex County,Distribution of COVID-19 deaths (%),1695,282,0.883,0.06,,,,0.035,
+CT,Middlesex County,Distribution of population (%),1695,282,0.833,0.049,0.002,0.032,0,0.066,0.018
+CT,New Haven County,Distribution of all-cause deaths (%),10610,1751,0.79,0.117,,0.011,,0.077,0.003
+CT,New Haven County,Distribution of COVID-19 deaths (%),10610,1751,0.732,0.155,,0.011,,0.094,0.007
+CT,New Haven County,Distribution of population (%),10610,1751,0.616,0.13,0.002,0.042,0,0.191,0.018
+CT,New London County,Distribution of all-cause deaths (%),2772,344,0.895,0.038,0.006,0.015,,0.038,0.006
+CT,New London County,Distribution of COVID-19 deaths (%),2772,344,0.881,0.038,,,,0.061,
+CT,New London County,Distribution of population (%),2772,344,0.751,0.057,0.008,0.042,0.001,0.111,0.031
+DC,District of Columbia,Distribution of all-cause deaths (%),7989,1135,0.217,0.696,0.002,0.021,,0.059,0.005
+DC,District of Columbia,Distribution of COVID-19 deaths (%),7989,1135,0.138,0.685,,0.019,,0.152,
+DC,District of Columbia,Distribution of population (%),7989,1135,0.374,0.444,0.002,0.043,0,0.113,0.024
+DE,Kent County,Distribution of all-cause deaths (%),2169,224,0.74,0.224,,0.009,,0.021,0.005
+DE,Kent County,Distribution of COVID-19 deaths (%),2169,224,0.652,0.304,,,,,
+DE,Kent County,Distribution of population (%),2169,224,0.604,0.26,0.005,0.023,0.001,0.074,0.034
+DE,New Castle County,Distribution of all-cause deaths (%),6340,600,0.732,0.22,,0.015,,0.032,0.002
+DE,New Castle County,Distribution of COVID-19 deaths (%),6340,600,0.745,0.2,,,,0.043,
+DE,New Castle County,Distribution of population (%),6340,600,0.563,0.251,0.002,0.057,0,0.104,0.023
+DE,Sussex County,Distribution of all-cause deaths (%),3190,362,0.869,0.103,0.004,0.006,,0.018,
+DE,Sussex County,Distribution of COVID-19 deaths (%),3190,362,0.762,0.174,,,,0.047,
+DE,Sussex County,Distribution of population (%),3190,362,0.753,0.117,0.004,0.013,0,0.093,0.019
+FL,Alachua County,Distribution of all-cause deaths (%),4486,516,0.753,0.184,,0.016,,0.039,0.007
+FL,Alachua County,Distribution of COVID-19 deaths (%),4486,516,0.657,0.295,,,,0.037,
+FL,Alachua County,Distribution of population (%),4486,516,0.606,0.2,0.003,0.06,0.001,0.105,0.026
+FL,Bay County,Distribution of all-cause deaths (%),2426,293,0.871,0.087,,0.011,,0.022,0.007
+FL,Bay County,Distribution of COVID-19 deaths (%),2426,293,0.809,0.116,,,,0.051,
+FL,Bay County,Distribution of population (%),2426,293,0.765,0.108,0.006,0.023,0.001,0.067,0.03
+FL,Brevard County,Distribution of all-cause deaths (%),9095,642,0.852,0.082,0.001,0.011,,0.05,0.003
+FL,Brevard County,Distribution of COVID-19 deaths (%),9095,642,0.757,0.143,,0.017,,0.079,
+FL,Brevard County,Distribution of population (%),9095,642,0.738,0.1,0.003,0.025,0.001,0.109,0.024
+FL,Broward County,Distribution of all-cause deaths (%),19671,2281,0.556,0.235,0.001,0.018,,0.184,0.006
+FL,Broward County,Distribution of COVID-19 deaths (%),19671,2281,0.349,0.329,,0.021,,0.294,
+FL,Broward County,Distribution of population (%),19671,2281,0.348,0.284,0.002,0.037,0.001,0.311,0.017
+FL,Charlotte County,Distribution of all-cause deaths (%),3619,311,0.924,0.036,,0.004,,0.032,
+FL,Charlotte County,Distribution of COVID-19 deaths (%),3619,311,0.887,0.048,,,,0.055,
+FL,Charlotte County,Distribution of population (%),3619,311,0.838,0.054,0.003,0.014,0,0.077,0.014
+FL,Citrus County,Distribution of all-cause deaths (%),3324,266,0.938,0.022,,0.004,,0.032,0.003
+FL,Citrus County,Distribution of COVID-19 deaths (%),3324,266,0.914,,,,,0.053,
+FL,Citrus County,Distribution of population (%),3324,266,0.875,0.029,0.004,0.016,0,0.061,0.015
+FL,Clay County,Distribution of all-cause deaths (%),2740,267,0.803,0.128,,0.022,,0.038,0.007
+FL,Clay County,Distribution of COVID-19 deaths (%),2740,267,0.678,0.195,,0.052,,0.064,
+FL,Clay County,Distribution of population (%),2740,267,0.716,0.116,0.004,0.03,0.001,0.104,0.029
+FL,Collier County,Distribution of all-cause deaths (%),4558,456,0.85,0.033,,0.007,,0.106,0.002
+FL,Collier County,Distribution of COVID-19 deaths (%),4558,456,0.719,0.066,,,,0.206,
+FL,Collier County,Distribution of population (%),4558,456,0.622,0.066,0.002,0.015,0,0.286,0.009
+FL,Columbia County,Distribution of all-cause deaths (%),1248,142,0.846,0.108,,0.009,,0.03,
+FL,Columbia County,Distribution of COVID-19 deaths (%),1248,142,0.824,0.127,,,,,
+FL,Columbia County,Distribution of population (%),1248,142,0.718,0.182,0.005,0.01,0.001,0.067,0.018
+FL,Duval County,Distribution of all-cause deaths (%),12726,1272,0.683,0.251,,0.019,,0.041,0.005
+FL,Duval County,Distribution of COVID-19 deaths (%),12726,1272,0.641,0.276,,0.031,,0.047,
+FL,Duval County,Distribution of population (%),12726,1272,0.52,0.296,0.003,0.049,0.001,0.105,0.026
+FL,Escambia County,Distribution of all-cause deaths (%),6045,686,0.769,0.196,0.003,0.013,,0.014,0.004
+FL,Escambia County,Distribution of COVID-19 deaths (%),6045,686,0.681,0.284,,0.015,,,
+FL,Escambia County,Distribution of population (%),6045,686,0.639,0.227,0.008,0.032,0.002,0.059,0.033
+FL,Hernando County,Distribution of all-cause deaths (%),3560,302,0.892,0.037,,0.004,,0.062,0.005
+FL,Hernando County,Distribution of COVID-19 deaths (%),3560,302,0.858,0.043,,,,0.083,
+FL,Hernando County,Distribution of population (%),3560,302,0.764,0.052,0.003,0.013,0.001,0.148,0.018
+FL,Highlands County,Distribution of all-cause deaths (%),2251,268,0.831,0.068,,,,0.089,0.005
+FL,Highlands County,Distribution of COVID-19 deaths (%),2251,268,0.724,0.112,,,,0.157,
+FL,Highlands County,Distribution of population (%),2251,268,0.661,0.096,0.004,0.014,0,0.211,0.014
+FL,Hillsborough County,Distribution of all-cause deaths (%),15147,1376,0.642,0.148,0.001,0.017,,0.186,0.005
+FL,Hillsborough County,Distribution of COVID-19 deaths (%),15147,1376,0.544,0.157,,0.015,,0.281,
+FL,Hillsborough County,Distribution of population (%),15147,1376,0.476,0.16,0.002,0.043,0.001,0.297,0.021
+FL,Indian River County,Distribution of all-cause deaths (%),2649,181,0.895,0.061,,0.004,,0.035,
+FL,Indian River County,Distribution of COVID-19 deaths (%),2649,181,0.751,0.138,,,,0.088,
+FL,Indian River County,Distribution of population (%),2649,181,0.75,0.091,0.002,0.016,0,0.127,0.014
+FL,Lake County,Distribution of all-cause deaths (%),5230,451,0.842,0.078,,0.009,,0.067,0.003
+FL,Lake County,Distribution of COVID-19 deaths (%),5230,451,0.749,0.109,,,,0.124,
+FL,Lake County,Distribution of population (%),5230,451,0.686,0.104,0.003,0.021,0.001,0.167,0.018
+FL,Lee County,Distribution of all-cause deaths (%),9387,755,0.847,0.053,,0.007,,0.09,0.003
+FL,Lee County,Distribution of COVID-19 deaths (%),9387,755,0.735,0.09,,,,0.171,
+FL,Lee County,Distribution of population (%),9387,755,0.662,0.081,0.002,0.017,0,0.225,0.013
+FL,Leon County,Distribution of all-cause deaths (%),3870,481,0.677,0.289,,0.007,,0.022,0.003
+FL,Leon County,Distribution of COVID-19 deaths (%),3870,481,0.59,0.37,,,,0.031,
+FL,Leon County,Distribution of population (%),3870,481,0.559,0.314,0.002,0.036,0,0.067,0.022
+FL,Manatee County,Distribution of all-cause deaths (%),5454,502,0.864,0.07,,0.006,,0.056,0.002
+FL,Manatee County,Distribution of COVID-19 deaths (%),5454,502,0.725,0.124,,,,0.137,
+FL,Manatee County,Distribution of population (%),5454,502,0.706,0.085,0.002,0.022,0.001,0.169,0.016
+FL,Marion County,Distribution of all-cause deaths (%),6587,631,0.835,0.088,0.002,0.007,,0.064,0.004
+FL,Marion County,Distribution of COVID-19 deaths (%),6587,631,0.761,0.132,,,,0.097,
+FL,Marion County,Distribution of population (%),6587,631,0.696,0.125,0.003,0.017,0.001,0.141,0.017
+FL,Martin County,Distribution of all-cause deaths (%),2517,344,0.912,0.037,,0.006,,0.042,
+FL,Martin County,Distribution of COVID-19 deaths (%),2517,344,0.808,0.09,,,,0.087,
+FL,Martin County,Distribution of population (%),2517,344,0.777,0.052,0.002,0.014,0.001,0.142,0.013
+FL,Miami-Dade County,Distribution of all-cause deaths (%),28536,4585,0.176,0.171,0.001,0.009,,0.64,0.003
+FL,Miami-Dade County,Distribution of COVID-19 deaths (%),28536,4585,0.108,0.147,,0.007,,0.735,0.003
+FL,Miami-Dade County,Distribution of population (%),28536,4585,0.129,0.153,0.001,0.015,0,0.694,0.007
+FL,Okaloosa County,Distribution of all-cause deaths (%),2529,260,0.866,0.072,,0.019,,0.03,0.009
+FL,Okaloosa County,Distribution of COVID-19 deaths (%),2529,260,0.788,0.092,,0.046,,0.065,
+FL,Okaloosa County,Distribution of population (%),2529,260,0.729,0.097,0.006,0.03,0.002,0.097,0.039
+FL,Orange County,Distribution of all-cause deaths (%),12586,1208,0.56,0.194,0.001,0.028,,0.211,0.004
+FL,Orange County,Distribution of COVID-19 deaths (%),12586,1208,0.43,0.221,,0.033,,0.31,
+FL,Orange County,Distribution of population (%),12586,1208,0.393,0.202,0.002,0.055,0.001,0.326,0.02
+FL,Osceola County,Distribution of all-cause deaths (%),3249,393,0.478,0.108,,0.023,,0.388,
+FL,Osceola County,Distribution of COVID-19 deaths (%),3249,393,0.275,0.099,,,,0.606,
+FL,Osceola County,Distribution of population (%),3249,393,0.301,0.097,0.002,0.027,0.001,0.558,0.015
+FL,Palm Beach County,Distribution of all-cause deaths (%),19739,2291,0.76,0.124,0.001,0.009,,0.103,0.003
+FL,Palm Beach County,Distribution of COVID-19 deaths (%),19739,2291,0.614,0.19,,0.008,,0.185,
+FL,Palm Beach County,Distribution of population (%),19739,2291,0.535,0.187,0.002,0.028,0,0.233,0.014
+FL,Pasco County,Distribution of all-cause deaths (%),7677,534,0.886,0.032,0.002,0.01,,0.066,0.004
+FL,Pasco County,Distribution of COVID-19 deaths (%),7677,534,0.82,0.045,,,,0.114,
+FL,Pasco County,Distribution of population (%),7677,534,0.727,0.058,0.003,0.027,0.001,0.165,0.02
+FL,Pinellas County,Distribution of all-cause deaths (%),15595,1256,0.859,0.078,0.001,0.014,,0.043,0.004
+FL,Pinellas County,Distribution of COVID-19 deaths (%),15595,1256,0.802,0.111,,0.025,,0.056,
+FL,Pinellas County,Distribution of population (%),15595,1256,0.736,0.105,0.002,0.035,0.001,0.102,0.02
+FL,Polk County,Distribution of all-cause deaths (%),8941,908,0.774,0.12,,0.006,,0.095,0.003
+FL,Polk County,Distribution of COVID-19 deaths (%),8941,908,0.654,0.178,,,,0.153,
+FL,Polk County,Distribution of population (%),8941,908,0.569,0.146,0.003,0.018,0.001,0.246,0.017
+FL,St. Lucie County,Distribution of all-cause deaths (%),4154,328,0.751,0.149,,0.008,,0.086,0.005
+FL,St. Lucie County,Distribution of COVID-19 deaths (%),4154,328,0.564,0.232,,,,0.177,
+FL,St. Lucie County,Distribution of population (%),4154,328,0.558,0.202,0.002,0.019,0.001,0.199,0.019
+FL,Sarasota County,Distribution of all-cause deaths (%),7441,694,0.923,0.034,,0.006,,0.033,0.003
+FL,Sarasota County,Distribution of COVID-19 deaths (%),7441,694,0.876,0.043,,,,0.069,
+FL,Sarasota County,Distribution of population (%),7441,694,0.827,0.043,0.002,0.018,0,0.096,0.014
+FL,Seminole County,Distribution of all-cause deaths (%),4179,260,0.735,0.115,,0.021,,0.122,0.005
+FL,Seminole County,Distribution of COVID-19 deaths (%),4179,260,0.654,0.15,,0.038,,0.154,
+FL,Seminole County,Distribution of population (%),4179,260,0.588,0.115,0.002,0.048,0.001,0.224,0.022
+FL,Sumter County,Distribution of all-cause deaths (%),2828,198,0.932,0.036,,0.006,,0.021,
+FL,Sumter County,Distribution of COVID-19 deaths (%),2828,198,0.859,,,,,0.076,
+FL,Sumter County,Distribution of population (%),2828,198,0.85,0.069,0.003,0.009,0.001,0.059,0.009
+FL,Volusia County,Distribution of all-cause deaths (%),9147,560,0.856,0.072,,0.006,,0.063,0.003
+FL,Volusia County,Distribution of COVID-19 deaths (%),9147,560,0.746,0.125,,,,0.114,
+FL,Volusia County,Distribution of population (%),9147,560,0.706,0.104,0.003,0.019,0,0.15,0.018
+GA,Bartow County,Distribution of all-cause deaths (%),1225,110,0.883,0.096,,,,0.016,
+GA,Bartow County,Distribution of COVID-19 deaths (%),1225,110,0.9,,,,,,
+GA,Bartow County,Distribution of population (%),1225,110,0.769,0.108,0.003,0.01,0.001,0.092,0.018
+GA,Bibb County,Distribution of all-cause deaths (%),3563,470,0.528,0.456,,0.006,,0.008,
+GA,Bibb County,Distribution of COVID-19 deaths (%),3563,470,0.47,0.513,,,,,
+GA,Bibb County,Distribution of population (%),3563,470,0.374,0.552,0.002,0.021,0.001,0.035,0.015
+GA,Carroll County,Distribution of all-cause deaths (%),1632,248,0.848,0.137,,,,0.012,
+GA,Carroll County,Distribution of COVID-19 deaths (%),1632,248,0.847,0.125,,,,,
+GA,Carroll County,Distribution of population (%),1632,248,0.704,0.191,0.003,0.009,0,0.072,0.021
+GA,Chatham County,Distribution of all-cause deaths (%),4406,477,0.619,0.347,,0.01,,0.022,
+GA,Chatham County,Distribution of COVID-19 deaths (%),4406,477,0.57,0.382,,,,0.031,
+GA,Chatham County,Distribution of population (%),4406,477,0.478,0.402,0.002,0.029,0.001,0.067,0.021
+GA,Cherokee County,Distribution of all-cause deaths (%),1722,146,0.905,0.05,,0.007,,0.035,
+GA,Cherokee County,Distribution of COVID-19 deaths (%),1722,146,0.911,,,,,,
+GA,Cherokee County,Distribution of population (%),1722,146,0.778,0.07,0.002,0.02,0.001,0.11,0.019
+GA,Clarke County,Distribution of all-cause deaths (%),2086,323,0.719,0.248,,0.007,,0.024,
+GA,Clarke County,Distribution of COVID-19 deaths (%),2086,323,0.653,0.288,,,,0.05,
+GA,Clarke County,Distribution of population (%),2086,323,0.551,0.277,0.002,0.04,0,0.11,0.02
+GA,Clayton County,Distribution of all-cause deaths (%),1613,123,0.282,0.632,,0.035,,0.049,
+GA,Clayton County,Distribution of COVID-19 deaths (%),1613,123,0.195,0.675,,,,,
+GA,Clayton County,Distribution of population (%),1613,123,0.091,0.704,0.002,0.049,0.001,0.134,0.02
+GA,Cobb County,Distribution of all-cause deaths (%),6864,806,0.718,0.215,,0.018,,0.046,0.002
+GA,Cobb County,Distribution of COVID-19 deaths (%),6864,806,0.607,0.239,,0.02,,0.132,
+GA,Cobb County,Distribution of population (%),6864,806,0.511,0.276,0.002,0.055,0,0.133,0.023
+GA,Coffee County,Distribution of all-cause deaths (%),548,115,0.726,0.243,,,,0.031,
+GA,Coffee County,Distribution of COVID-19 deaths (%),548,115,0.609,0.33,,,,,
+GA,Coffee County,Distribution of population (%),548,115,0.573,0.283,0.002,0.008,0,0.121,0.013
+GA,Coweta County,Distribution of all-cause deaths (%),1301,139,0.759,0.206,,,,0.028,
+GA,Coweta County,Distribution of COVID-19 deaths (%),1301,139,0.655,0.273,,,,0.072,
+GA,Coweta County,Distribution of population (%),1301,139,0.705,0.179,0.003,0.021,0.001,0.073,0.018
+GA,DeKalb County,Distribution of all-cause deaths (%),6060,534,0.392,0.54,,0.032,,0.031,0.003
+GA,DeKalb County,Distribution of COVID-19 deaths (%),6060,534,0.318,0.575,,0.051,,0.045,
+GA,DeKalb County,Distribution of population (%),6060,534,0.293,0.536,0.001,0.064,0,0.085,0.019
+GA,Dougherty County,Distribution of all-cause deaths (%),1754,321,0.429,0.557,,,,0.009,
+GA,Dougherty County,Distribution of COVID-19 deaths (%),1754,321,0.327,0.654,,,,,
+GA,Dougherty County,Distribution of population (%),1754,321,0.242,0.703,0.002,0.009,0.001,0.031,0.013
+GA,Fayette County,Distribution of all-cause deaths (%),1345,204,0.623,0.335,,0.015,,0.023,
+GA,Fayette County,Distribution of COVID-19 deaths (%),1345,204,0.471,0.485,,,,,
+GA,Fayette County,Distribution of population (%),1345,204,0.605,0.246,0.002,0.05,0.001,0.075,0.021
+GA,Floyd County,Distribution of all-cause deaths (%),2147,343,0.868,0.107,,,,0.02,
+GA,Floyd County,Distribution of COVID-19 deaths (%),2147,343,0.854,0.102,,,,0.041,
+GA,Floyd County,Distribution of population (%),2147,343,0.705,0.144,0.002,0.014,0.001,0.116,0.017
+GA,Forsyth County,Distribution of all-cause deaths (%),1932,194,0.875,0.042,,0.041,,0.04,
+GA,Forsyth County,Distribution of COVID-19 deaths (%),1932,194,0.778,,,0.067,,0.108,
+GA,Forsyth County,Distribution of population (%),1932,194,0.69,0.04,0.002,0.154,0,0.097,0.017
+GA,Fulton County,Distribution of all-cause deaths (%),11024,1210,0.437,0.503,,0.021,,0.036,0.002
+GA,Fulton County,Distribution of COVID-19 deaths (%),11024,1210,0.351,0.537,,0.021,,0.085,
+GA,Fulton County,Distribution of population (%),11024,1210,0.396,0.435,0.001,0.076,0,0.072,0.02
+GA,Glynn County,Distribution of all-cause deaths (%),1363,172,0.763,0.209,,0.012,,0.015,
+GA,Glynn County,Distribution of COVID-19 deaths (%),1363,172,0.657,0.297,,,,,
+GA,Glynn County,Distribution of population (%),1363,172,0.635,0.259,0.002,0.015,0.001,0.068,0.018
+GA,Gwinnett County,Distribution of all-cause deaths (%),5290,619,0.589,0.224,,0.091,,0.091,0.003
+GA,Gwinnett County,Distribution of COVID-19 deaths (%),5290,619,0.42,0.228,,0.103,,0.241,
+GA,Gwinnett County,Distribution of population (%),5290,619,0.354,0.28,0.002,0.124,0,0.217,0.024
+GA,Hall County,Distribution of all-cause deaths (%),3498,609,0.861,0.07,,0.015,,0.052,
+GA,Hall County,Distribution of COVID-19 deaths (%),3498,609,0.798,0.074,,0.021,,0.105,
+GA,Hall County,Distribution of population (%),3498,609,0.601,0.073,0.002,0.02,0,0.291,0.013
+GA,Henry County,Distribution of all-cause deaths (%),2346,242,0.536,0.409,,0.022,,0.029,
+GA,Henry County,Distribution of COVID-19 deaths (%),2346,242,0.43,0.471,,,,0.074,
+GA,Henry County,Distribution of population (%),2346,242,0.4,0.47,0.002,0.033,0.001,0.072,0.023
+GA,Houston County,Distribution of all-cause deaths (%),1645,165,0.669,0.29,,0.019,,0.018,
+GA,Houston County,Distribution of COVID-19 deaths (%),1645,165,0.558,0.4,,,,,
+GA,Houston County,Distribution of population (%),1645,165,0.549,0.323,0.003,0.033,0.001,0.066,0.027
+GA,Laurens County,Distribution of all-cause deaths (%),1001,168,0.673,0.318,,,,,
+GA,Laurens County,Distribution of COVID-19 deaths (%),1001,168,0.655,0.339,,,,,
+GA,Laurens County,Distribution of population (%),1001,168,0.574,0.372,0.002,0.011,0,0.029,0.012
+GA,Lowndes County,Distribution of all-cause deaths (%),1493,249,0.63,0.346,,,,0.018,
+GA,Lowndes County,Distribution of COVID-19 deaths (%),1493,249,0.586,0.382,,,,,
+GA,Lowndes County,Distribution of population (%),1493,249,0.529,0.367,0.003,0.021,0.001,0.06,0.02
+GA,Muscogee County,Distribution of all-cause deaths (%),3537,489,0.554,0.415,,0.011,,0.016,
+GA,Muscogee County,Distribution of COVID-19 deaths (%),3537,489,0.499,0.454,,,,0.025,
+GA,Muscogee County,Distribution of population (%),3537,489,0.396,0.465,0.004,0.028,0.002,0.077,0.029
+GA,Newton County,Distribution of all-cause deaths (%),930,101,0.63,0.353,,,,0.013,
+GA,Newton County,Distribution of COVID-19 deaths (%),930,101,0.683,0.287,,,,,
+GA,Newton County,Distribution of population (%),930,101,0.439,0.465,0.002,0.011,0.001,0.061,0.02
+GA,Paulding County,Distribution of all-cause deaths (%),965,101,0.84,0.126,,,,0.019,
+GA,Paulding County,Distribution of COVID-19 deaths (%),965,101,0.851,0.109,,,,,
+GA,Paulding County,Distribution of population (%),965,101,0.684,0.21,0.002,0.012,0.001,0.071,0.021
+GA,Richmond County,Distribution of all-cause deaths (%),4784,775,0.53,0.438,,0.012,,0.018,
+GA,Richmond County,Distribution of COVID-19 deaths (%),4784,775,0.507,0.449,,0.014,,0.028,
+GA,Richmond County,Distribution of population (%),4784,775,0.337,0.565,0.003,0.017,0.002,0.051,0.026
+GA,Rockdale County,Distribution of all-cause deaths (%),1005,122,0.525,0.439,,0.01,,0.023,
+GA,Rockdale County,Distribution of COVID-19 deaths (%),1005,122,0.434,0.533,,,,,
+GA,Rockdale County,Distribution of population (%),1005,122,0.289,0.564,0.002,0.018,0.001,0.105,0.021
+GA,Spalding County,Distribution of all-cause deaths (%),1408,171,0.733,0.249,,,,0.014,
+GA,Spalding County,Distribution of COVID-19 deaths (%),1408,171,0.649,0.304,,,,,
+GA,Spalding County,Distribution of population (%),1408,171,0.575,0.345,0.003,0.01,0.001,0.05,0.018
+GA,Thomas County,Distribution of all-cause deaths (%),894,170,0.634,0.353,,,,0.011,
+GA,Thomas County,Distribution of COVID-19 deaths (%),894,170,0.571,0.394,,,,,
+GA,Thomas County,Distribution of population (%),894,170,0.575,0.358,0.004,0.01,0,0.039,0.013
+GA,Tift County,Distribution of all-cause deaths (%),812,196,0.682,0.278,,,,0.034,
+GA,Tift County,Distribution of COVID-19 deaths (%),812,196,0.587,0.342,,,,0.071,
+GA,Tift County,Distribution of population (%),812,196,0.551,0.299,0.002,0.014,0,0.122,0.012
+GA,Toombs County,Distribution of all-cause deaths (%),627,111,0.748,0.228,,,,0.022,
+GA,Toombs County,Distribution of COVID-19 deaths (%),627,111,0.73,0.234,,,,,
+GA,Toombs County,Distribution of population (%),627,111,0.601,0.257,0.002,0.007,0.001,0.118,0.014
+GA,Troup County,Distribution of all-cause deaths (%),1040,181,0.679,0.308,,,,,
+GA,Troup County,Distribution of COVID-19 deaths (%),1040,181,0.641,0.343,,,,,
+GA,Troup County,Distribution of population (%),1040,181,0.558,0.362,0.002,0.023,0.001,0.037,0.017
+GA,Upson County,Distribution of all-cause deaths (%),669,127,0.709,0.281,,,,,
+GA,Upson County,Distribution of COVID-19 deaths (%),669,127,0.614,0.378,,,,,
+GA,Upson County,Distribution of population (%),669,127,0.671,0.28,0.003,0.006,0,0.024,0.016
+GA,Walton County,Distribution of all-cause deaths (%),1063,142,0.85,0.133,,,,,
+GA,Walton County,Distribution of COVID-19 deaths (%),1063,142,0.803,0.183,,,,,
+GA,Walton County,Distribution of population (%),1063,142,0.731,0.184,0.002,0.016,0.001,0.049,0.016
+GA,Ware County,Distribution of all-cause deaths (%),781,148,0.789,0.202,,,,,
+GA,Ware County,Distribution of COVID-19 deaths (%),781,148,0.75,0.243,,,,,
+GA,Ware County,Distribution of population (%),781,148,0.629,0.297,0.004,0.009,0,0.044,0.017
+GA,Whitfield County,Distribution of all-cause deaths (%),1167,192,0.872,0.042,,,,0.08,
+GA,Whitfield County,Distribution of COVID-19 deaths (%),1167,192,0.74,0.052,,,,0.198,
+GA,Whitfield County,Distribution of population (%),1167,192,0.571,0.036,0.002,0.015,0.001,0.363,0.013
+HI,Honolulu County,Distribution of all-cause deaths (%),9193,314,0.169,0.01,,0.512,0.075,0.05,0.183
+HI,Honolulu County,Distribution of COVID-19 deaths (%),9193,314,0.048,,,0.516,0.258,0.054,0.118
+HI,Honolulu County,Distribution of population (%),9193,314,0.164,0.023,0.002,0.384,0.082,0.092,0.254
+IA,Black Hawk County,Distribution of all-cause deaths (%),1831,330,0.91,0.065,,0.005,,0.013,
+IA,Black Hawk County,Distribution of COVID-19 deaths (%),1831,330,0.861,0.073,,,,0.039,
+IA,Black Hawk County,Distribution of population (%),1831,330,0.803,0.094,0.002,0.025,0.004,0.046,0.027
+IA,Cerro Gordo County,Distribution of all-cause deaths (%),881,133,0.973,,,,,0.018,
+IA,Cerro Gordo County,Distribution of COVID-19 deaths (%),881,133,0.962,,,,,,
+IA,Cerro Gordo County,Distribution of population (%),881,133,0.898,0.019,0.003,0.011,0.002,0.051,0.018
+IA,Dubuque County,Distribution of all-cause deaths (%),1215,221,0.974,0.012,,,,,
+IA,Dubuque County,Distribution of COVID-19 deaths (%),1215,221,0.959,,,,,,
+IA,Dubuque County,Distribution of population (%),1215,221,0.898,0.035,0.002,0.012,0.006,0.026,0.021
+IA,Johnson County,Distribution of all-cause deaths (%),2211,259,0.913,0.043,,0.01,,0.026,
+IA,Johnson County,Distribution of COVID-19 deaths (%),2211,259,0.853,0.046,,,,0.085,
+IA,Johnson County,Distribution of population (%),2211,259,0.779,0.073,0.002,0.065,0,0.058,0.024
+IA,Linn County,Distribution of all-cause deaths (%),2533,363,0.943,0.036,,0.006,,0.011,
+IA,Linn County,Distribution of COVID-19 deaths (%),2533,363,0.942,0.033,,,,,
+IA,Linn County,Distribution of population (%),2533,363,0.851,0.059,0.002,0.025,0.001,0.034,0.027
+IA,Polk County,Distribution of all-cause deaths (%),6145,809,0.906,0.046,0.002,0.018,,0.025,0.003
+IA,Polk County,Distribution of COVID-19 deaths (%),6145,809,0.865,0.051,,0.028,,0.049,
+IA,Polk County,Distribution of population (%),6145,809,0.769,0.07,0.002,0.049,0,0.087,0.023
+IA,Pottawattamie County,Distribution of all-cause deaths (%),1195,150,0.972,0.012,,,,0.013,
+IA,Pottawattamie County,Distribution of COVID-19 deaths (%),1195,150,0.96,,,,,,
+IA,Pottawattamie County,Distribution of population (%),1195,150,0.873,0.016,0.004,0.009,0.001,0.079,0.018
+IA,Scott County,Distribution of all-cause deaths (%),2247,242,0.904,0.068,,0.008,,0.018,
+IA,Scott County,Distribution of COVID-19 deaths (%),2247,242,0.847,0.095,,,,0.045,
+IA,Scott County,Distribution of population (%),2247,242,0.795,0.076,0.002,0.028,0,0.07,0.028
+IA,Webster County,Distribution of all-cause deaths (%),674,105,0.963,,,,,0.015,
+IA,Webster County,Distribution of COVID-19 deaths (%),674,105,0.905,,,,,,
+IA,Webster County,Distribution of population (%),674,105,0.865,0.045,0.004,0.012,0,0.055,0.019
+IA,Woodbury County,Distribution of all-cause deaths (%),1632,342,0.879,0.019,0.041,0.018,,0.037,
+IA,Woodbury County,Distribution of COVID-19 deaths (%),1632,342,0.769,0.029,0.07,0.047,,0.076,
+IA,Woodbury County,Distribution of population (%),1632,342,0.708,0.043,0.015,0.028,0.004,0.173,0.028
+ID,Ada County,Distribution of all-cause deaths (%),4847,584,0.93,0.006,0.004,0.011,,0.041,0.007
+ID,Ada County,Distribution of COVID-19 deaths (%),4847,584,0.858,,,0.022,,0.103,
+ID,Ada County,Distribution of population (%),4847,584,0.841,0.013,0.005,0.027,0.002,0.085,0.027
+ID,Bannock County,Distribution of all-cause deaths (%),971,102,0.885,,0.044,,,0.046,
+ID,Bannock County,Distribution of COVID-19 deaths (%),971,102,0.725,,,,,0.108,
+ID,Bannock County,Distribution of population (%),971,102,0.831,0.009,0.029,0.015,0.003,0.089,0.024
+ID,Bonneville County,Distribution of all-cause deaths (%),1464,198,0.921,,0.008,0.008,,0.051,0.007
+ID,Bonneville County,Distribution of COVID-19 deaths (%),1464,198,0.848,,,,,0.111,
+ID,Bonneville County,Distribution of population (%),1464,198,0.824,0.006,0.006,0.01,0.001,0.134,0.019
+ID,Canyon County,Distribution of all-cause deaths (%),1856,216,0.878,,,0.009,,0.101,
+ID,Canyon County,Distribution of COVID-19 deaths (%),1856,216,0.745,,,,,0.231,
+ID,Canyon County,Distribution of population (%),1856,216,0.698,0.006,0.006,0.009,0.003,0.256,0.023
+ID,Kootenai County,Distribution of all-cause deaths (%),2097,178,0.953,,0.011,0.006,,0.017,0.009
+ID,Kootenai County,Distribution of COVID-19 deaths (%),2097,178,0.949,,,,,,
+ID,Kootenai County,Distribution of population (%),2097,178,0.902,0.004,0.011,0.009,0.001,0.049,0.024
+ID,Twin Falls County,Distribution of all-cause deaths (%),1165,176,0.911,,,0.009,,0.069,
+ID,Twin Falls County,Distribution of COVID-19 deaths (%),1165,176,0.841,,,,,0.131,
+ID,Twin Falls County,Distribution of population (%),1165,176,0.78,0.007,0.006,0.016,0.002,0.17,0.017
+IL,Adams County,Distribution of all-cause deaths (%),1268,189,0.968,0.024,,,,,
+IL,Adams County,Distribution of COVID-19 deaths (%),1268,189,0.958,,,,,,
+IL,Adams County,Distribution of population (%),1268,189,0.914,0.038,0.002,0.009,0,0.018,0.02
+IL,Champaign County,Distribution of all-cause deaths (%),2198,212,0.847,0.116,,0.013,,0.022,
+IL,Champaign County,Distribution of COVID-19 deaths (%),2198,212,0.811,0.113,,,,0.061,
+IL,Champaign County,Distribution of population (%),2198,212,0.665,0.134,0.002,0.108,0.001,0.063,0.028
+IL,Cook County,Distribution of all-cause deaths (%),57052,9029,0.501,0.32,0.001,0.041,0,0.13,0.008
+IL,Cook County,Distribution of COVID-19 deaths (%),57052,9029,0.397,0.276,0.001,0.058,,0.259,0.008
+IL,Cook County,Distribution of population (%),57052,9029,0.42,0.23,0.001,0.077,0,0.256,0.016
+IL,DeKalb County,Distribution of all-cause deaths (%),979,104,0.894,0.051,,,,0.043,
+IL,DeKalb County,Distribution of COVID-19 deaths (%),979,104,0.788,,,,,0.144,
+IL,DeKalb County,Distribution of population (%),979,104,0.758,0.08,0.002,0.025,0,0.116,0.018
+IL,DuPage County,Distribution of all-cause deaths (%),9051,1075,0.819,0.062,,0.056,,0.06,0.003
+IL,DuPage County,Distribution of COVID-19 deaths (%),9051,1075,0.72,0.073,,0.078,,0.124,
+IL,DuPage County,Distribution of population (%),9051,1075,0.66,0.05,0.001,0.126,0,0.146,0.018
+IL,Jackson County,Distribution of all-cause deaths (%),751,113,0.891,0.091,,,,0.013,
+IL,Jackson County,Distribution of COVID-19 deaths (%),751,113,0.858,0.115,,,,,
+IL,Jackson County,Distribution of population (%),751,113,0.74,0.148,0.004,0.035,0.001,0.047,0.027
+IL,Jefferson County,Distribution of all-cause deaths (%),717,115,0.937,0.056,,,,,
+IL,Jefferson County,Distribution of COVID-19 deaths (%),717,115,0.913,,,,,,
+IL,Jefferson County,Distribution of population (%),717,115,0.853,0.085,0.002,0.012,0,0.029,0.019
+IL,Kane County,Distribution of all-cause deaths (%),4532,656,0.767,0.064,,0.025,,0.137,0.005
+IL,Kane County,Distribution of COVID-19 deaths (%),4532,656,0.601,0.052,,0.035,,0.308,
+IL,Kane County,Distribution of population (%),4532,656,0.566,0.053,0.001,0.042,0,0.324,0.014
+IL,Kankakee County,Distribution of all-cause deaths (%),1558,168,0.822,0.132,,,,0.04,
+IL,Kankakee County,Distribution of COVID-19 deaths (%),1558,168,0.756,0.161,,,,0.077,
+IL,Kankakee County,Distribution of population (%),1558,168,0.716,0.146,0.002,0.01,0,0.108,0.018
+IL,Knox County,Distribution of all-cause deaths (%),851,139,0.921,0.053,,,,0.019,
+IL,Knox County,Distribution of COVID-19 deaths (%),851,139,0.935,,,,,,
+IL,Knox County,Distribution of population (%),851,139,0.824,0.08,0.002,0.009,0,0.06,0.024
+IL,Lake County,Distribution of all-cause deaths (%),6766,764,0.8,0.078,,0.03,,0.087,0.004
+IL,Lake County,Distribution of COVID-19 deaths (%),6766,764,0.651,0.09,,0.038,,0.219,
+IL,Lake County,Distribution of population (%),6766,764,0.605,0.068,0.001,0.083,0,0.224,0.018
+IL,La Salle County,Distribution of all-cause deaths (%),1293,173,0.968,0.01,,,,0.022,
+IL,La Salle County,Distribution of COVID-19 deaths (%),1293,173,0.977,,,,,,
+IL,La Salle County,Distribution of population (%),1293,173,0.847,0.026,0.002,0.009,0,0.103,0.012
+IL,McHenry County,Distribution of all-cause deaths (%),2079,193,0.932,0.009,,0.018,,0.038,
+IL,McHenry County,Distribution of COVID-19 deaths (%),2079,193,0.907,,,,,0.062,
+IL,McHenry County,Distribution of population (%),2079,193,0.801,0.016,0.002,0.029,0,0.139,0.014
+IL,McLean County,Distribution of all-cause deaths (%),1677,204,0.919,0.063,,,,0.011,
+IL,McLean County,Distribution of COVID-19 deaths (%),1677,204,0.868,0.108,,,,,
+IL,McLean County,Distribution of population (%),1677,204,0.792,0.081,0.002,0.05,0,0.052,0.023
+IL,Macon County,Distribution of all-cause deaths (%),1570,169,0.851,0.139,,,,,
+IL,Macon County,Distribution of COVID-19 deaths (%),1570,169,0.876,0.124,,,,,
+IL,Macon County,Distribution of population (%),1570,169,0.758,0.175,0.002,0.011,0,0.024,0.029
+IL,Madison County,Distribution of all-cause deaths (%),3326,368,0.904,0.084,,0.003,,0.006,
+IL,Madison County,Distribution of COVID-19 deaths (%),3326,368,0.908,0.079,,,,,
+IL,Madison County,Distribution of population (%),3326,368,0.846,0.087,0.002,0.01,0.001,0.034,0.02
+IL,Peoria County,Distribution of all-cause deaths (%),3780,526,0.866,0.107,,0.006,,0.017,0.003
+IL,Peoria County,Distribution of COVID-19 deaths (%),3780,526,0.88,0.082,,,,0.027,
+IL,Peoria County,Distribution of population (%),3780,526,0.693,0.184,0.002,0.04,0,0.051,0.029
+IL,Rock Island County,Distribution of all-cause deaths (%),1996,268,0.867,0.083,,0.005,,0.044,
+IL,Rock Island County,Distribution of COVID-19 deaths (%),1996,268,0.825,0.09,,,,0.082,
+IL,Rock Island County,Distribution of population (%),1996,268,0.709,0.105,0.002,0.026,0,0.132,0.025
+IL,St. Clair County,Distribution of all-cause deaths (%),3198,421,0.709,0.273,,0.005,,0.009,
+IL,St. Clair County,Distribution of COVID-19 deaths (%),3198,421,0.71,0.264,,,,,
+IL,St. Clair County,Distribution of population (%),3198,421,0.612,0.302,0.003,0.015,0.001,0.043,0.024
+IL,Sangamon County,Distribution of all-cause deaths (%),3306,371,0.91,0.077,,0.004,,0.007,
+IL,Sangamon County,Distribution of COVID-19 deaths (%),3306,371,0.914,0.065,,,,,
+IL,Sangamon County,Distribution of population (%),3306,371,0.8,0.128,0.002,0.021,0,0.024,0.024
+IL,Tazewell County,Distribution of all-cause deaths (%),1255,115,0.982,0.009,,,,,
+IL,Tazewell County,Distribution of COVID-19 deaths (%),1255,115,0.965,,,,,,
+IL,Tazewell County,Distribution of population (%),1255,115,0.937,0.013,0.002,0.009,0,0.025,0.014
+IL,Whiteside County,Distribution of all-cause deaths (%),851,163,0.925,0.013,,,,0.06,
+IL,Whiteside County,Distribution of COVID-19 deaths (%),851,163,0.865,,,,,0.11,
+IL,Whiteside County,Distribution of population (%),851,163,0.84,0.015,0.002,0.005,0,0.123,0.014
+IL,Will County,Distribution of all-cause deaths (%),5779,717,0.797,0.107,,0.021,,0.071,0.003
+IL,Will County,Distribution of COVID-19 deaths (%),5779,717,0.679,0.141,,0.026,,0.148,
+IL,Will County,Distribution of population (%),5779,717,0.624,0.117,0.001,0.059,0,0.181,0.016
+IL,Williamson County,Distribution of all-cause deaths (%),1067,114,0.975,0.021,,,,,
+IL,Williamson County,Distribution of COVID-19 deaths (%),1067,114,0.956,,,,,,
+IL,Williamson County,Distribution of population (%),1067,114,0.892,0.045,0.004,0.013,0,0.027,0.018
+IL,Winnebago County,Distribution of all-cause deaths (%),4223,512,0.827,0.111,,0.01,,0.046,0.006
+IL,Winnebago County,Distribution of COVID-19 deaths (%),4223,512,0.766,0.121,,,,0.094,
+IL,Winnebago County,Distribution of population (%),4223,512,0.677,0.133,0.002,0.028,0,0.135,0.025
+IN,Allen County,Distribution of all-cause deaths (%),5599,788,0.864,0.095,,0.014,,0.025,
+IN,Allen County,Distribution of COVID-19 deaths (%),5599,788,0.848,0.088,,0.028,,0.036,
+IN,Allen County,Distribution of population (%),5599,788,0.73,0.115,0.003,0.045,0,0.077,0.029
+IN,Bartholomew County,Distribution of all-cause deaths (%),1067,168,0.95,0.028,,,,0.013,
+IN,Bartholomew County,Distribution of COVID-19 deaths (%),1067,168,0.958,,,,,,
+IN,Bartholomew County,Distribution of population (%),1067,168,0.805,0.021,0.002,0.085,0,0.072,0.015
+IN,Clark County,Distribution of all-cause deaths (%),1232,118,0.923,0.068,,,,,
+IN,Clark County,Distribution of COVID-19 deaths (%),1232,118,0.89,0.085,,,,,
+IN,Clark County,Distribution of population (%),1232,118,0.824,0.081,0.002,0.011,0.001,0.057,0.025
+IN,Delaware County,Distribution of all-cause deaths (%),1829,204,0.937,0.054,,,,,
+IN,Delaware County,Distribution of COVID-19 deaths (%),1829,204,0.956,,,,,,
+IN,Delaware County,Distribution of population (%),1829,204,0.865,0.07,0.002,0.013,0.001,0.026,0.023
+IN,Elkhart County,Distribution of all-cause deaths (%),2258,389,0.901,0.052,,,,0.039,
+IN,Elkhart County,Distribution of COVID-19 deaths (%),2258,389,0.864,0.054,,,,0.067,
+IN,Elkhart County,Distribution of population (%),2258,389,0.741,0.056,0.002,0.011,0,0.168,0.021
+IN,Floyd County,Distribution of all-cause deaths (%),1279,174,0.948,0.038,,,,0.008,
+IN,Floyd County,Distribution of COVID-19 deaths (%),1279,174,0.92,,,,,,
+IN,Floyd County,Distribution of population (%),1279,174,0.875,0.054,0.002,0.012,0,0.035,0.022
+IN,Grant County,Distribution of all-cause deaths (%),908,119,0.931,0.055,,,,0.012,
+IN,Grant County,Distribution of COVID-19 deaths (%),908,119,0.958,,,,,,
+IN,Grant County,Distribution of population (%),908,119,0.847,0.071,0.004,0.009,0,0.044,0.025
+IN,Hamilton County,Distribution of all-cause deaths (%),2354,307,0.918,0.048,,0.02,,0.012,
+IN,Hamilton County,Distribution of COVID-19 deaths (%),2354,307,0.883,0.072,,,,,
+IN,Hamilton County,Distribution of population (%),2354,307,0.828,0.044,0.001,0.064,0,0.043,0.02
+IN,Hendricks County,Distribution of all-cause deaths (%),1863,294,0.928,0.049,,0.009,,0.013,
+IN,Hendricks County,Distribution of COVID-19 deaths (%),1863,294,0.895,0.085,,,,,
+IN,Hendricks County,Distribution of population (%),1863,294,0.829,0.076,0.002,0.03,0,0.043,0.02
+IN,Howard County,Distribution of all-cause deaths (%),1228,141,0.936,0.054,,,,,
+IN,Howard County,Distribution of COVID-19 deaths (%),1228,141,0.936,,,,,,
+IN,Howard County,Distribution of population (%),1228,141,0.846,0.077,0.003,0.013,0,0.035,0.026
+IN,Johnson County,Distribution of all-cause deaths (%),1390,179,0.963,0.014,,0.011,,0.009,
+IN,Johnson County,Distribution of COVID-19 deaths (%),1390,179,0.955,,,,,,
+IN,Johnson County,Distribution of population (%),1390,179,0.879,0.024,0.002,0.039,0.001,0.038,0.018
+IN,Knox County,Distribution of all-cause deaths (%),669,124,0.987,,,,,,
+IN,Knox County,Distribution of COVID-19 deaths (%),669,124,0.984,,,,,,
+IN,Knox County,Distribution of population (%),669,124,0.923,0.029,0.002,0.009,0,0.023,0.013
+IN,Lake County,Distribution of all-cause deaths (%),6944,849,0.625,0.279,,0.005,,0.088,0.002
+IN,Lake County,Distribution of COVID-19 deaths (%),6944,849,0.562,0.307,,,,0.126,
+IN,Lake County,Distribution of population (%),6944,849,0.538,0.233,0.002,0.016,0,0.196,0.015
+IN,LaPorte County,Distribution of all-cause deaths (%),1350,146,0.872,0.103,,,,0.016,
+IN,LaPorte County,Distribution of COVID-19 deaths (%),1350,146,0.829,0.13,,,,,
+IN,LaPorte County,Distribution of population (%),1350,146,0.788,0.113,0.003,0.006,0,0.069,0.021
+IN,Madison County,Distribution of all-cause deaths (%),1665,227,0.92,0.068,,,,0.009,
+IN,Madison County,Distribution of COVID-19 deaths (%),1665,227,0.916,0.044,,,,,
+IN,Madison County,Distribution of population (%),1665,227,0.846,0.084,0.002,0.006,0,0.044,0.019
+IN,Marion County,Distribution of all-cause deaths (%),12877,1796,0.73,0.225,0.001,0.01,0.001,0.03,0.003
+IN,Marion County,Distribution of COVID-19 deaths (%),12877,1796,0.675,0.24,,0.014,,0.064,
+IN,Marion County,Distribution of population (%),12877,1796,0.541,0.284,0.002,0.038,0,0.109,0.027
+IN,Monroe County,Distribution of all-cause deaths (%),1608,203,0.965,0.019,,0.006,,,
+IN,Monroe County,Distribution of COVID-19 deaths (%),1608,203,0.985,,,,,,
+IN,Monroe County,Distribution of population (%),1608,203,0.829,0.035,0.002,0.072,0.001,0.036,0.025
+IN,Porter County,Distribution of all-cause deaths (%),1948,207,0.917,0.029,,0.006,,0.045,
+IN,Porter County,Distribution of COVID-19 deaths (%),1948,207,0.894,,,,,0.048,
+IN,Porter County,Distribution of population (%),1948,207,0.823,0.041,0.002,0.015,0,0.104,0.015
+IN,St. Joseph County,Distribution of all-cause deaths (%),3615,420,0.851,0.119,,0.003,,0.022,0.003
+IN,St. Joseph County,Distribution of COVID-19 deaths (%),3615,420,0.817,0.124,,,,0.043,
+IN,St. Joseph County,Distribution of population (%),3615,420,0.718,0.133,0.003,0.026,0.001,0.091,0.028
+IN,Tippecanoe County,Distribution of all-cause deaths (%),1842,224,0.946,0.025,,0.007,,0.018,
+IN,Tippecanoe County,Distribution of COVID-19 deaths (%),1842,224,0.938,,,,,,
+IN,Tippecanoe County,Distribution of population (%),1842,224,0.747,0.056,0.002,0.087,0,0.087,0.02
+IN,Vanderburgh County,Distribution of all-cause deaths (%),3277,441,0.921,0.065,,0.003,,0.007,
+IN,Vanderburgh County,Distribution of COVID-19 deaths (%),3277,441,0.925,0.054,,,,,
+IN,Vanderburgh County,Distribution of population (%),3277,441,0.829,0.097,0.002,0.014,0.002,0.028,0.028
+IN,Vigo County,Distribution of all-cause deaths (%),1786,248,0.953,0.039,,,,,
+IN,Vigo County,Distribution of COVID-19 deaths (%),1786,248,0.931,0.056,,,,,
+IN,Vigo County,Distribution of population (%),1786,248,0.851,0.073,0.003,0.021,0,0.028,0.023
+IN,Warrick County,Distribution of all-cause deaths (%),1206,201,0.958,0.026,,,,0.008,
+IN,Warrick County,Distribution of COVID-19 deaths (%),1206,201,0.925,,,,,,
+IN,Warrick County,Distribution of population (%),1206,201,0.919,0.017,0.002,0.027,0,0.02,0.015
+IN,Wayne County,Distribution of all-cause deaths (%),1339,210,0.948,0.04,,,,,
+IN,Wayne County,Distribution of COVID-19 deaths (%),1339,210,0.967,,,,,,
+IN,Wayne County,Distribution of population (%),1339,210,0.877,0.048,0.002,0.011,0.001,0.032,0.029
+KS,Ellis County,Distribution of all-cause deaths (%),496,120,0.938,,,,,0.042,
+KS,Ellis County,Distribution of COVID-19 deaths (%),496,120,0.9,,,,,0.083,
+KS,Ellis County,Distribution of population (%),496,120,0.891,0.012,0.003,0.017,0,0.059,0.017
+KS,Johnson County,Distribution of all-cause deaths (%),5480,697,0.888,0.049,0.005,0.017,,0.031,0.011
+KS,Johnson County,Distribution of COVID-19 deaths (%),5480,697,0.834,0.059,,0.02,,0.066,
+KS,Johnson County,Distribution of population (%),5480,697,0.793,0.047,0.003,0.053,0,0.079,0.024
+KS,Reno County,Distribution of all-cause deaths (%),971,143,0.922,0.015,,,,0.039,0.02
+KS,Reno County,Distribution of COVID-19 deaths (%),971,143,0.881,,,,,,
+KS,Reno County,Distribution of population (%),971,143,0.839,0.031,0.006,0.005,0,0.097,0.021
+KS,Saline County,Distribution of all-cause deaths (%),865,144,0.901,0.035,,0.013,,0.034,
+KS,Saline County,Distribution of COVID-19 deaths (%),865,144,0.861,,,,,0.076,
+KS,Saline County,Distribution of population (%),865,144,0.796,0.032,0.005,0.022,0,0.118,0.027
+KS,Sedgwick County,Distribution of all-cause deaths (%),7270,840,0.813,0.085,0.008,0.014,,0.05,0.03
+KS,Sedgwick County,Distribution of COVID-19 deaths (%),7270,840,0.78,0.068,,0.026,,0.093,0.025
+KS,Sedgwick County,Distribution of population (%),7270,840,0.675,0.087,0.008,0.045,0.001,0.15,0.033
+KS,Shawnee County,Distribution of all-cause deaths (%),2924,402,0.832,0.071,0.013,0.006,,0.058,0.018
+KS,Shawnee County,Distribution of COVID-19 deaths (%),2924,402,0.821,0.062,0.025,,,0.08,
+KS,Shawnee County,Distribution of population (%),2924,402,0.734,0.077,0.009,0.015,0.001,0.128,0.036
+KS,Wyandotte County,Distribution of all-cause deaths (%),2522,410,0.639,0.227,0.006,0.014,,0.097,0.016
+KS,Wyandotte County,Distribution of COVID-19 deaths (%),2522,410,0.58,0.224,0.024,,,0.137,
+KS,Wyandotte County,Distribution of population (%),2522,410,0.402,0.215,0.004,0.052,0.002,0.298,0.027
+KY,Boyd County,Distribution of all-cause deaths (%),1381,173,0.985,0.009,,,,,
+KY,Boyd County,Distribution of COVID-19 deaths (%),1381,173,0.988,,,,,,
+KY,Boyd County,Distribution of population (%),1381,173,0.93,0.027,0.003,0.006,0,0.019,0.015
+KY,Boyle County,Distribution of all-cause deaths (%),678,126,0.926,0.063,,,,,
+KY,Boyle County,Distribution of COVID-19 deaths (%),678,126,0.873,0.127,,,,,
+KY,Boyle County,Distribution of population (%),678,126,0.852,0.08,0.002,0.01,0,0.034,0.022
+KY,Campbell County,Distribution of all-cause deaths (%),951,173,0.967,0.022,,,,,
+KY,Campbell County,Distribution of COVID-19 deaths (%),951,173,0.931,,,,,,
+KY,Campbell County,Distribution of population (%),951,173,0.922,0.029,0.001,0.01,0,0.022,0.016
+KY,Daviess County,Distribution of all-cause deaths (%),1634,221,0.952,0.032,,,,0.01,
+KY,Daviess County,Distribution of COVID-19 deaths (%),1634,221,0.937,,,,,,
+KY,Daviess County,Distribution of population (%),1634,221,0.875,0.049,0.001,0.019,0.001,0.033,0.022
+KY,Fayette County,Distribution of all-cause deaths (%),5918,445,0.88,0.095,,0.006,,0.015,0.003
+KY,Fayette County,Distribution of COVID-19 deaths (%),5918,445,0.836,0.106,,,,0.045,
+KY,Fayette County,Distribution of population (%),5918,445,0.707,0.15,0.002,0.041,0,0.074,0.026
+KY,Hardin County,Distribution of all-cause deaths (%),1349,133,0.881,0.088,,0.013,,0.011,
+KY,Hardin County,Distribution of COVID-19 deaths (%),1349,133,0.88,0.098,,,,,
+KY,Hardin County,Distribution of population (%),1349,133,0.756,0.121,0.004,0.021,0.003,0.058,0.037
+KY,Hopkins County,Distribution of all-cause deaths (%),852,134,0.923,0.074,,,,,
+KY,Hopkins County,Distribution of COVID-19 deaths (%),852,134,0.851,0.149,,,,,
+KY,Hopkins County,Distribution of population (%),852,134,0.882,0.066,0.002,0.006,0.001,0.022,0.021
+KY,Jefferson County,Distribution of all-cause deaths (%),13024,1415,0.798,0.179,,0.008,,0.013,0.002
+KY,Jefferson County,Distribution of COVID-19 deaths (%),13024,1415,0.765,0.189,,0.01,,0.034,
+KY,Jefferson County,Distribution of population (%),13024,1415,0.665,0.219,0.001,0.03,0,0.059,0.024
+KY,Kenton County,Distribution of all-cause deaths (%),2063,122,0.961,0.027,,,,0.008,
+KY,Kenton County,Distribution of COVID-19 deaths (%),2063,122,0.934,,,,,,
+KY,Kenton County,Distribution of population (%),2063,122,0.882,0.048,0.001,0.013,0.001,0.034,0.022
+KY,McCracken County,Distribution of all-cause deaths (%),1605,207,0.912,0.082,,,,,
+KY,McCracken County,Distribution of COVID-19 deaths (%),1605,207,0.884,0.111,,,,,
+KY,McCracken County,Distribution of population (%),1605,207,0.83,0.108,0.003,0.009,0,0.027,0.022
+KY,Pike County,Distribution of all-cause deaths (%),1522,149,0.989,0.009,,,,,
+KY,Pike County,Distribution of COVID-19 deaths (%),1522,149,0.987,,,,,,
+KY,Pike County,Distribution of population (%),1522,149,0.968,0.007,0.001,0.005,0,0.01,0.008
+KY,Warren County,Distribution of all-cause deaths (%),2011,301,0.904,0.074,,0.012,,0.008,
+KY,Warren County,Distribution of COVID-19 deaths (%),2011,301,0.91,0.063,,,,,
+KY,Warren County,Distribution of population (%),2011,301,0.773,0.095,0.002,0.044,0.005,0.056,0.026
+LA,Bossier Parish,Distribution of all-cause deaths (%),1218,155,0.739,0.239,,,,0.013,
+LA,Bossier Parish,Distribution of COVID-19 deaths (%),1218,155,0.677,0.297,,,,,
+LA,Bossier Parish,Distribution of population (%),1218,155,0.659,0.227,0.004,0.017,0.001,0.069,0.023
+LA,Caddo Parish,Distribution of all-cause deaths (%),5119,941,0.552,0.433,,0.003,,0.008,
+LA,Caddo Parish,Distribution of COVID-19 deaths (%),5119,941,0.496,0.487,,,,,
+LA,Caddo Parish,Distribution of population (%),5119,941,0.443,0.496,0.004,0.013,0,0.029,0.016
+LA,Calcasieu Parish,Distribution of all-cause deaths (%),2555,303,0.734,0.244,,0.006,,0.014,
+LA,Calcasieu Parish,Distribution of COVID-19 deaths (%),2555,303,0.69,0.274,,,,,
+LA,Calcasieu Parish,Distribution of population (%),2555,303,0.666,0.255,0.005,0.013,0,0.041,0.019
+LA,East Baton Rouge Parish,Distribution of all-cause deaths (%),7168,1129,0.553,0.422,,0.007,,0.015,
+LA,East Baton Rouge Parish,Distribution of COVID-19 deaths (%),7168,1129,0.491,0.476,,,,0.023,
+LA,East Baton Rouge Parish,Distribution of population (%),7168,1129,0.44,0.467,0.002,0.033,0,0.044,0.014
+LA,Jefferson Parish,Distribution of all-cause deaths (%),6700,1065,0.618,0.3,0.002,0.017,,0.06,0.002
+LA,Jefferson Parish,Distribution of COVID-19 deaths (%),6700,1065,0.444,0.452,,0.018,,0.083,
+LA,Jefferson Parish,Distribution of population (%),6700,1065,0.519,0.27,0.004,0.042,0,0.149,0.015
+LA,Lafayette Parish,Distribution of all-cause deaths (%),3342,436,0.712,0.266,,0.006,,0.014,
+LA,Lafayette Parish,Distribution of COVID-19 deaths (%),3342,436,0.626,0.346,,,,0.025,
+LA,Lafayette Parish,Distribution of population (%),3342,436,0.652,0.265,0.003,0.019,0,0.046,0.015
+LA,Lafourche Parish,Distribution of all-cause deaths (%),1130,172,0.803,0.163,0.016,,,0.013,
+LA,Lafourche Parish,Distribution of COVID-19 deaths (%),1130,172,0.703,0.262,,,,,
+LA,Lafourche Parish,Distribution of population (%),1130,172,0.768,0.133,0.028,0.008,0,0.044,0.018
+LA,Orleans Parish,Distribution of all-cause deaths (%),4982,517,0.36,0.588,,0.014,,0.033,0.003
+LA,Orleans Parish,Distribution of COVID-19 deaths (%),4982,517,0.275,0.671,,,,0.046,
+LA,Orleans Parish,Distribution of population (%),4982,517,0.309,0.59,0.002,0.029,0,0.055,0.014
+LA,Ouachita Parish,Distribution of all-cause deaths (%),2576,502,0.652,0.337,,,,0.007,
+LA,Ouachita Parish,Distribution of COVID-19 deaths (%),2576,502,0.622,0.359,,,,,
+LA,Ouachita Parish,Distribution of population (%),2576,502,0.578,0.374,0.003,0.01,0,0.022,0.012
+LA,Rapides Parish,Distribution of all-cause deaths (%),2625,413,0.675,0.306,,,,0.01,
+LA,Rapides Parish,Distribution of COVID-19 deaths (%),2625,413,0.625,0.334,,,,,
+LA,Rapides Parish,Distribution of population (%),2625,413,0.61,0.317,0.008,0.014,0,0.032,0.019
+LA,St. Landry Parish,Distribution of all-cause deaths (%),1175,175,0.62,0.374,,,,,
+LA,St. Landry Parish,Distribution of COVID-19 deaths (%),1175,175,0.634,0.366,,,,,
+LA,St. Landry Parish,Distribution of population (%),1175,175,0.545,0.412,0.003,0.004,0,0.024,0.012
+LA,St. Tammany Parish,Distribution of all-cause deaths (%),3369,449,0.838,0.126,,0.005,,0.027,
+LA,St. Tammany Parish,Distribution of COVID-19 deaths (%),3369,449,0.771,0.185,,,,0.031,
+LA,St. Tammany Parish,Distribution of population (%),3369,449,0.78,0.125,0.005,0.014,0,0.059,0.018
+LA,Tangipahoa Parish,Distribution of all-cause deaths (%),1576,180,0.719,0.264,,,,0.012,
+LA,Tangipahoa Parish,Distribution of COVID-19 deaths (%),1576,180,0.706,0.272,,,,,
+LA,Tangipahoa Parish,Distribution of population (%),1576,180,0.631,0.301,0.003,0.007,0,0.044,0.014
+LA,Terrebonne Parish,Distribution of all-cause deaths (%),1343,143,0.746,0.188,0.039,0.008,,0.015,
+LA,Terrebonne Parish,Distribution of COVID-19 deaths (%),1343,143,0.657,0.259,,,,,
+LA,Terrebonne Parish,Distribution of population (%),1343,143,0.665,0.189,0.058,0.01,0.001,0.051,0.026
+MA,Barnstable County,Distribution of all-cause deaths (%),3272,259,0.943,0.022,,0.004,,0.007,0.022
+MA,Barnstable County,Distribution of COVID-19 deaths (%),3272,259,0.903,,,,,,
+MA,Barnstable County,Distribution of population (%),3272,259,0.895,0.032,0.006,0.015,0,0.034,0.018
+MA,Berkshire County,Distribution of all-cause deaths (%),1848,194,0.96,0.021,,0.005,,0.008,
+MA,Berkshire County,Distribution of COVID-19 deaths (%),1848,194,0.943,,,,,,
+MA,Berkshire County,Distribution of population (%),1848,194,0.876,0.032,0.002,0.016,0,0.051,0.022
+MA,Bristol County,Distribution of all-cause deaths (%),6407,990,0.899,0.025,0.002,0.006,,0.027,0.042
+MA,Bristol County,Distribution of COVID-19 deaths (%),6407,990,0.881,0.035,,,,0.035,0.039
+MA,Bristol County,Distribution of population (%),6407,990,0.818,0.05,0.002,0.024,0.001,0.086,0.02
+MA,Essex County,Distribution of all-cause deaths (%),8850,1444,0.892,0.018,,0.013,,0.072,0.005
+MA,Essex County,Distribution of COVID-19 deaths (%),8850,1444,0.837,0.027,,0.012,,0.12,
+MA,Essex County,Distribution of population (%),8850,1444,0.69,0.035,0.001,0.037,0,0.222,0.014
+MA,Hampden County,Distribution of all-cause deaths (%),6685,1019,0.794,0.066,,0.009,,0.121,0.009
+MA,Hampden County,Distribution of COVID-19 deaths (%),6685,1019,0.763,0.076,,0.015,,0.139,
+MA,Hampden County,Distribution of population (%),6685,1019,0.614,0.077,0.001,0.026,0,0.263,0.017
+MA,Hampshire County,Distribution of all-cause deaths (%),1451,166,0.93,0.022,,0.011,,0.023,0.014
+MA,Hampshire County,Distribution of COVID-19 deaths (%),1451,166,0.934,,,,,,
+MA,Hampshire County,Distribution of population (%),1451,166,0.833,0.029,0.002,0.056,0,0.059,0.021
+MA,Middlesex County,Distribution of all-cause deaths (%),14110,2549,0.882,0.038,,0.043,,0.03,0.007
+MA,Middlesex County,Distribution of COVID-19 deaths (%),14110,2549,0.861,0.047,,0.041,,0.043,0.007
+MA,Middlesex County,Distribution of population (%),14110,2549,0.712,0.053,0.001,0.13,0,0.083,0.021
+MA,Norfolk County,Distribution of all-cause deaths (%),6662,971,0.882,0.053,,0.041,,0.017,0.005
+MA,Norfolk County,Distribution of COVID-19 deaths (%),6662,971,0.839,0.07,,0.063,,0.023,
+MA,Norfolk County,Distribution of population (%),6662,971,0.737,0.073,0.001,0.119,0,0.05,0.019
+MA,Plymouth County,Distribution of all-cause deaths (%),5552,818,0.897,0.077,,0.006,,0.014,0.006
+MA,Plymouth County,Distribution of COVID-19 deaths (%),5552,818,0.825,0.139,,,,0.022,
+MA,Plymouth County,Distribution of population (%),5552,818,0.811,0.11,0.002,0.016,0.001,0.042,0.019
+MA,Suffolk County,Distribution of all-cause deaths (%),10497,1748,0.662,0.18,0.001,0.055,,0.092,0.01
+MA,Suffolk County,Distribution of COVID-19 deaths (%),10497,1748,0.562,0.215,,0.067,,0.146,0.009
+MA,Suffolk County,Distribution of population (%),10497,1748,0.452,0.201,0.002,0.091,0.001,0.233,0.021
+MA,Worcester County,Distribution of all-cause deaths (%),9399,1524,0.864,0.028,0.001,0.014,,0.055,0.038
+MA,Worcester County,Distribution of COVID-19 deaths (%),9399,1524,0.851,0.027,,0.024,,0.07,0.027
+MA,Worcester County,Distribution of population (%),9399,1524,0.757,0.048,0.002,0.053,0,0.122,0.018
+MD,Allegany County,Distribution of all-cause deaths (%),1392,227,0.957,0.034,,,,,
+MD,Allegany County,Distribution of COVID-19 deaths (%),1392,227,0.938,0.057,,,,,
+MD,Allegany County,Distribution of population (%),1392,227,0.866,0.081,0.002,0.011,0.001,0.019,0.02
+MD,Anne Arundel County,Distribution of all-cause deaths (%),5640,595,0.762,0.198,,0.015,,0.021,0.002
+MD,Anne Arundel County,Distribution of COVID-19 deaths (%),5640,595,0.637,0.291,,0.018,,0.047,
+MD,Anne Arundel County,Distribution of population (%),5640,595,0.666,0.175,0.003,0.041,0.001,0.084,0.03
+MD,Baltimore County,Distribution of all-cause deaths (%),10386,1183,0.691,0.272,0.001,0.018,,0.014,0.003
+MD,Baltimore County,Distribution of COVID-19 deaths (%),10386,1183,0.582,0.357,,0.027,,0.03,
+MD,Baltimore County,Distribution of population (%),10386,1183,0.558,0.295,0.003,0.062,0,0.058,0.023
+MD,Carroll County,Distribution of all-cause deaths (%),2029,238,0.944,0.037,,0.006,,0.01,
+MD,Carroll County,Distribution of COVID-19 deaths (%),2029,238,0.92,0.059,,,,,
+MD,Carroll County,Distribution of population (%),2029,238,0.883,0.037,0.002,0.02,0,0.039,0.018
+MD,Cecil County,Distribution of all-cause deaths (%),1196,123,0.904,0.074,,,,0.011,
+MD,Cecil County,Distribution of COVID-19 deaths (%),1196,123,0.919,,,,,,
+MD,Cecil County,Distribution of population (%),1196,123,0.846,0.068,0.003,0.014,0.001,0.047,0.023
+MD,Charles County,Distribution of all-cause deaths (%),1238,126,0.575,0.374,,0.015,,0.021,
+MD,Charles County,Distribution of COVID-19 deaths (%),1238,126,0.444,0.46,,,,,
+MD,Charles County,Distribution of population (%),1238,126,0.372,0.489,0.006,0.033,0.001,0.062,0.037
+MD,Frederick County,Distribution of all-cause deaths (%),2310,247,0.865,0.081,,0.019,,0.033,
+MD,Frederick County,Distribution of COVID-19 deaths (%),2310,247,0.822,0.109,,,,0.061,
+MD,Frederick County,Distribution of population (%),2310,247,0.717,0.099,0.002,0.048,0.001,0.105,0.027
+MD,Harford County,Distribution of all-cause deaths (%),2607,196,0.86,0.11,,0.011,,0.013,0.004
+MD,Harford County,Distribution of COVID-19 deaths (%),2607,196,0.776,0.184,,,,,
+MD,Harford County,Distribution of population (%),2607,196,0.75,0.143,0.002,0.03,0.001,0.048,0.026
+MD,Howard County,Distribution of all-cause deaths (%),2091,177,0.661,0.214,,0.088,,0.03,0.005
+MD,Howard County,Distribution of COVID-19 deaths (%),2091,177,0.52,0.232,,0.124,,0.113,
+MD,Howard County,Distribution of population (%),2091,177,0.502,0.196,0.002,0.192,0.001,0.073,0.034
+MD,Montgomery County,Distribution of all-cause deaths (%),9361,1792,0.57,0.234,0.001,0.088,,0.103,0.004
+MD,Montgomery County,Distribution of COVID-19 deaths (%),9361,1792,0.435,0.252,,0.089,,0.215,0.006
+MD,Montgomery County,Distribution of population (%),9361,1792,0.429,0.187,0.002,0.153,0,0.201,0.028
+MD,Prince George's County,Distribution of all-cause deaths (%),7086,996,0.212,0.699,0.002,0.026,,0.059,0.003
+MD,Prince George's County,Distribution of COVID-19 deaths (%),7086,996,0.147,0.687,,0.028,,0.136,
+MD,Prince George's County,Distribution of population (%),7086,996,0.123,0.617,0.002,0.042,0,0.195,0.02
+MD,St. Mary's County,Distribution of all-cause deaths (%),1003,121,0.794,0.17,,0.015,,0.016,
+MD,St. Mary's County,Distribution of COVID-19 deaths (%),1003,121,0.669,0.281,,,,,
+MD,St. Mary's County,Distribution of population (%),1003,121,0.734,0.144,0.003,0.028,0.001,0.056,0.033
+MD,Washington County,Distribution of all-cause deaths (%),2251,289,0.919,0.061,,,,0.012,
+MD,Washington County,Distribution of COVID-19 deaths (%),2251,289,0.882,0.087,,,,,
+MD,Washington County,Distribution of population (%),2251,289,0.774,0.119,0.002,0.019,0.001,0.058,0.028
+MD,Wicomico County,Distribution of all-cause deaths (%),1790,240,0.735,0.237,,0.013,,0.013,
+MD,Wicomico County,Distribution of COVID-19 deaths (%),1790,240,0.6,0.338,,,,,
+MD,Wicomico County,Distribution of population (%),1790,240,0.62,0.267,0.002,0.03,0,0.055,0.025
+MD,Baltimore city,Distribution of all-cause deaths (%),10933,1205,0.367,0.584,0.002,0.017,,0.026,0.004
+MD,Baltimore city,Distribution of COVID-19 deaths (%),10933,1205,0.297,0.607,,0.024,,0.068,
+MD,Baltimore city,Distribution of population (%),10933,1205,0.277,0.618,0.003,0.027,0,0.057,0.019
+ME,Cumberland County,Distribution of all-cause deaths (%),4405,225,0.97,0.01,0.005,0.006,,0.003,0.006
+ME,Cumberland County,Distribution of COVID-19 deaths (%),4405,225,0.933,,,,,,
+ME,Cumberland County,Distribution of population (%),4405,225,0.901,0.031,0.003,0.024,0,0.022,0.019
+ME,Penobscot County,Distribution of all-cause deaths (%),2489,109,0.963,0.006,0.013,,,,0.012
+ME,Penobscot County,Distribution of COVID-19 deaths (%),2489,109,0.954,,,,,,
+ME,Penobscot County,Distribution of population (%),2489,109,0.934,0.009,0.013,0.012,0,0.015,0.017
+ME,York County,Distribution of all-cause deaths (%),1793,101,0.983,,,,,,
+ME,York County,Distribution of COVID-19 deaths (%),1793,101,0.99,,,,,,
+ME,York County,Distribution of population (%),1793,101,0.939,0.01,0.003,0.013,0,0.018,0.016
+MI,Bay County,Distribution of all-cause deaths (%),1821,244,0.953,0.016,,,,0.024,
+MI,Bay County,Distribution of COVID-19 deaths (%),1821,244,0.934,,,,,,
+MI,Bay County,Distribution of population (%),1821,244,0.898,0.016,0.005,0.006,0,0.055,0.02
+MI,Berrien County,Distribution of all-cause deaths (%),2011,209,0.838,0.132,,,,0.013,0.009
+MI,Berrien County,Distribution of COVID-19 deaths (%),2011,209,0.77,0.167,,,,,
+MI,Berrien County,Distribution of population (%),2011,209,0.747,0.145,0.005,0.021,0.001,0.058,0.024
+MI,Calhoun County,Distribution of all-cause deaths (%),1896,144,0.869,0.102,,,,0.013,0.011
+MI,Calhoun County,Distribution of COVID-19 deaths (%),1896,144,0.806,0.174,,,,,
+MI,Calhoun County,Distribution of population (%),1896,144,0.771,0.108,0.006,0.029,0,0.055,0.032
+MI,Genesee County,Distribution of all-cause deaths (%),6038,636,0.763,0.208,0.003,0.002,,0.019,0.004
+MI,Genesee County,Distribution of COVID-19 deaths (%),6038,636,0.682,0.285,,,,0.02,
+MI,Genesee County,Distribution of population (%),6038,636,0.724,0.2,0.005,0.01,0,0.036,0.026
+MI,Grand Traverse County,Distribution of all-cause deaths (%),1663,109,0.967,,0.011,,,0.008,0.009
+MI,Grand Traverse County,Distribution of COVID-19 deaths (%),1663,109,0.927,,,,,,
+MI,Grand Traverse County,Distribution of population (%),1663,109,0.926,0.007,0.011,0.008,0,0.03,0.018
+MI,Ingham County,Distribution of all-cause deaths (%),3770,345,0.826,0.116,0.004,0.007,,0.038,0.009
+MI,Ingham County,Distribution of COVID-19 deaths (%),3770,345,0.733,0.177,,,,0.075,
+MI,Ingham County,Distribution of population (%),3770,345,0.691,0.117,0.004,0.069,0,0.08,0.037
+MI,Jackson County,Distribution of all-cause deaths (%),2268,254,0.902,0.072,,,,0.015,0.009
+MI,Jackson County,Distribution of COVID-19 deaths (%),2268,254,0.803,0.185,,,,,
+MI,Jackson County,Distribution of population (%),2268,254,0.845,0.079,0.003,0.009,0,0.036,0.027
+MI,Kalamazoo County,Distribution of all-cause deaths (%),3702,423,0.868,0.096,0.004,0.003,,0.02,0.01
+MI,Kalamazoo County,Distribution of COVID-19 deaths (%),3702,423,0.83,0.099,,,,0.047,
+MI,Kalamazoo County,Distribution of population (%),3702,423,0.77,0.114,0.004,0.028,0,0.052,0.033
+MI,Kent County,Distribution of all-cause deaths (%),7361,745,0.848,0.093,0.004,0.006,,0.04,0.008
+MI,Kent County,Distribution of COVID-19 deaths (%),7361,745,0.76,0.113,,,,0.111,
+MI,Kent County,Distribution of population (%),7361,745,0.733,0.097,0.003,0.033,0,0.108,0.025
+MI,Macomb County,Distribution of all-cause deaths (%),9772,1199,0.863,0.107,0.002,0.01,,0.008,0.01
+MI,Macomb County,Distribution of COVID-19 deaths (%),9772,1199,0.774,0.18,,0.018,,0.008,0.017
+MI,Macomb County,Distribution of population (%),9772,1199,0.78,0.124,0.003,0.042,0,0.028,0.024
+MI,Muskegon County,Distribution of all-cause deaths (%),2364,313,0.831,0.119,0.008,,,0.028,0.012
+MI,Muskegon County,Distribution of COVID-19 deaths (%),2364,313,0.789,0.115,,,,0.077,
+MI,Muskegon County,Distribution of population (%),2364,313,0.764,0.137,0.008,0.006,0,0.058,0.027
+MI,Oakland County,Distribution of all-cause deaths (%),16169,2304,0.762,0.199,0.001,0.015,,0.016,0.006
+MI,Oakland County,Distribution of COVID-19 deaths (%),16169,2304,0.665,0.285,,0.021,,0.02,0.009
+MI,Oakland County,Distribution of population (%),16169,2304,0.715,0.137,0.002,0.081,0,0.043,0.021
+MI,Ottawa County,Distribution of all-cause deaths (%),2347,228,0.928,0.018,,,,0.04,0.007
+MI,Ottawa County,Distribution of COVID-19 deaths (%),2347,228,0.86,,,,,0.092,
+MI,Ottawa County,Distribution of population (%),2347,228,0.834,0.016,0.003,0.028,0,0.102,0.017
+MI,Saginaw County,Distribution of all-cause deaths (%),3390,531,0.794,0.153,,,,0.043,0.006
+MI,Saginaw County,Distribution of COVID-19 deaths (%),3390,531,0.772,0.149,,,,0.072,
+MI,Saginaw County,Distribution of population (%),3390,531,0.691,0.184,0.003,0.014,0,0.087,0.02
+MI,St. Clair County,Distribution of all-cause deaths (%),2098,198,0.95,0.027,,,,0.014,0.005
+MI,St. Clair County,Distribution of COVID-19 deaths (%),2098,198,0.919,0.051,,,,,
+MI,St. Clair County,Distribution of population (%),2098,198,0.91,0.024,0.004,0.006,0,0.035,0.021
+MI,Washtenaw County,Distribution of all-cause deaths (%),4572,460,0.815,0.136,0.003,0.015,,0.022,0.009
+MI,Washtenaw County,Distribution of COVID-19 deaths (%),4572,460,0.691,0.252,,,,0.035,
+MI,Washtenaw County,Distribution of population (%),4572,460,0.701,0.12,0.003,0.093,0,0.049,0.033
+MI,Wayne County,Distribution of all-cause deaths (%),24150,3257,0.53,0.421,0.002,0.008,,0.025,0.014
+MI,Wayne County,Distribution of COVID-19 deaths (%),24150,3257,0.436,0.498,,0.01,,0.033,0.022
+MI,Wayne County,Distribution of population (%),24150,3257,0.494,0.382,0.003,0.035,0,0.061,0.024
+MN,Anoka County,Distribution of all-cause deaths (%),2748,436,0.924,0.028,0.007,0.024,,0.01,0.007
+MN,Anoka County,Distribution of COVID-19 deaths (%),2748,436,0.915,0.028,,,,,
+MN,Anoka County,Distribution of population (%),2748,436,0.797,0.072,0.006,0.049,0,0.049,0.027
+MN,Dakota County,Distribution of all-cause deaths (%),2686,235,0.927,0.024,,0.019,,0.021,0.005
+MN,Dakota County,Distribution of COVID-19 deaths (%),2686,235,0.894,,,,,0.043,
+MN,Dakota County,Distribution of population (%),2686,235,0.771,0.072,0.004,0.051,0.001,0.076,0.026
+MN,Hennepin County,Distribution of all-cause deaths (%),13335,1866,0.827,0.097,0.018,0.029,,0.02,0.009
+MN,Hennepin County,Distribution of COVID-19 deaths (%),13335,1866,0.783,0.107,0.02,0.045,,0.041,
+MN,Hennepin County,Distribution of population (%),13335,1866,0.684,0.135,0.007,0.075,0,0.07,0.029
+MN,Olmsted County,Distribution of all-cause deaths (%),2394,173,0.919,0.034,,0.021,,0.018,0.005
+MN,Olmsted County,Distribution of COVID-19 deaths (%),2394,173,0.827,0.081,,,,,
+MN,Olmsted County,Distribution of population (%),2394,173,0.79,0.067,0.003,0.065,0.001,0.052,0.023
+MN,Ramsey County,Distribution of all-cause deaths (%),6752,1065,0.811,0.074,0.01,0.068,,0.029,0.008
+MN,Ramsey County,Distribution of COVID-19 deaths (%),6752,1065,0.746,0.069,,0.118,,0.052,
+MN,Ramsey County,Distribution of population (%),6752,1065,0.611,0.124,0.006,0.152,0,0.075,0.033
+MN,St. Louis County,Distribution of all-cause deaths (%),3368,363,0.957,0.006,0.028,0.003,,,0.003
+MN,St. Louis County,Distribution of COVID-19 deaths (%),3368,363,0.948,,0.036,,,,
+MN,St. Louis County,Distribution of population (%),3368,363,0.908,0.016,0.022,0.011,0,0.018,0.024
+MN,Stearns County,Distribution of all-cause deaths (%),2144,309,0.942,0.021,0.014,0.005,,0.012,0.007
+MN,Stearns County,Distribution of COVID-19 deaths (%),2144,309,0.926,,,,,,
+MN,Stearns County,Distribution of population (%),2144,309,0.845,0.076,0.003,0.023,0,0.036,0.017
+MN,Washington County,Distribution of all-cause deaths (%),1859,186,0.941,0.016,,0.022,,0.013,0.006
+MN,Washington County,Distribution of COVID-19 deaths (%),1859,186,0.952,,,,,,
+MN,Washington County,Distribution of population (%),1859,186,0.816,0.048,0.004,0.064,0.001,0.045,0.023
+MO,Boone County,Distribution of all-cause deaths (%),2682,314,0.904,0.069,,0.01,,0.009,0.006
+MO,Boone County,Distribution of COVID-19 deaths (%),2682,314,0.898,0.064,,,,,
+MO,Boone County,Distribution of population (%),2682,314,0.784,0.096,0.003,0.05,0.001,0.035,0.031
+MO,Buchanan County,Distribution of all-cause deaths (%),1480,205,0.946,0.033,,,,0.014,
+MO,Buchanan County,Distribution of COVID-19 deaths (%),1480,205,0.917,,,,,,
+MO,Buchanan County,Distribution of population (%),1480,205,0.823,0.057,0.004,0.014,0.004,0.068,0.029
+MO,Camden County,Distribution of all-cause deaths (%),751,107,0.977,,,,,,0.013
+MO,Camden County,Distribution of COVID-19 deaths (%),751,107,0.972,,,,,,
+MO,Camden County,Distribution of population (%),751,107,0.939,0.006,0.006,0.006,0.001,0.028,0.014
+MO,Cape Girardeau County,Distribution of all-cause deaths (%),1817,227,0.931,0.058,,,,0.006,
+MO,Cape Girardeau County,Distribution of COVID-19 deaths (%),1817,227,0.907,0.075,,,,,
+MO,Cape Girardeau County,Distribution of population (%),1817,227,0.855,0.077,0.003,0.019,0,0.025,0.021
+MO,Clay County,Distribution of all-cause deaths (%),2962,395,0.915,0.035,,0.008,,0.028,0.009
+MO,Clay County,Distribution of COVID-19 deaths (%),2962,395,0.901,0.03,,,,0.046,
+MO,Clay County,Distribution of population (%),2962,395,0.799,0.069,0.005,0.024,0.003,0.07,0.029
+MO,Cole County,Distribution of all-cause deaths (%),1212,233,0.933,0.05,,,,0.01,
+MO,Cole County,Distribution of COVID-19 deaths (%),1212,233,0.94,0.047,,,,,
+MO,Cole County,Distribution of population (%),1212,233,0.813,0.12,0.003,0.014,0.001,0.029,0.02
+MO,Franklin County,Distribution of all-cause deaths (%),1166,152,0.978,0.009,,,,,
+MO,Franklin County,Distribution of COVID-19 deaths (%),1166,152,0.961,,,,,,
+MO,Franklin County,Distribution of population (%),1166,152,0.949,0.01,0.003,0.005,0.001,0.019,0.014
+MO,Greene County,Distribution of all-cause deaths (%),5530,820,0.956,0.02,0.004,0.003,,0.012,0.006
+MO,Greene County,Distribution of COVID-19 deaths (%),5530,820,0.937,0.013,0.015,,,0.024,
+MO,Greene County,Distribution of population (%),5530,820,0.869,0.033,0.006,0.022,0.001,0.039,0.029
+MO,Jackson County,Distribution of all-cause deaths (%),9634,864,0.723,0.222,0.003,0.009,0.002,0.035,0.007
+MO,Jackson County,Distribution of COVID-19 deaths (%),9634,864,0.683,0.218,,0.015,,0.067,
+MO,Jackson County,Distribution of population (%),9634,864,0.621,0.231,0.004,0.019,0.003,0.092,0.031
+MO,Jefferson County,Distribution of all-cause deaths (%),1879,166,0.98,0.012,,,,,
+MO,Jefferson County,Distribution of COVID-19 deaths (%),1879,166,0.976,,,,,,
+MO,Jefferson County,Distribution of population (%),1879,166,0.941,0.011,0.003,0.008,0,0.021,0.016
+MO,Newton County,Distribution of all-cause deaths (%),1895,317,0.944,0.009,0.02,,,0.014,0.007
+MO,Newton County,Distribution of COVID-19 deaths (%),1895,317,0.905,,0.038,,,,
+MO,Newton County,Distribution of population (%),1895,317,0.848,0.009,0.023,0.014,0.01,0.055,0.04
+MO,Phelps County,Distribution of all-cause deaths (%),704,101,0.973,,,,,,
+MO,Phelps County,Distribution of COVID-19 deaths (%),704,101,0.98,,,,,,
+MO,Phelps County,Distribution of population (%),704,101,0.885,0.021,0.007,0.037,0.001,0.028,0.022
+MO,St. Charles County,Distribution of all-cause deaths (%),3783,484,0.941,0.038,,0.009,,0.007,0.004
+MO,St. Charles County,Distribution of COVID-19 deaths (%),3783,484,0.911,0.066,,,,,
+MO,St. Charles County,Distribution of population (%),3783,484,0.865,0.052,0.002,0.027,0,0.034,0.02
+MO,St. Louis County,Distribution of all-cause deaths (%),16084,2201,0.761,0.217,,0.01,,0.009,0.003
+MO,St. Louis County,Distribution of COVID-19 deaths (%),16084,2201,0.736,0.238,,0.01,,0.013,
+MO,St. Louis County,Distribution of population (%),16084,2201,0.653,0.248,0.002,0.046,0,0.03,0.021
+MO,St. Louis city,Distribution of all-cause deaths (%),5769,538,0.521,0.445,,0.01,,0.016,0.006
+MO,St. Louis city,Distribution of COVID-19 deaths (%),5769,538,0.507,0.416,,0.026,,0.041,
+MO,St. Louis city,Distribution of population (%),5769,538,0.447,0.449,0.002,0.035,0,0.042,0.024
+MS,Alcorn County,Distribution of all-cause deaths (%),751,104,0.905,0.084,,,,,
+MS,Alcorn County,Distribution of COVID-19 deaths (%),751,104,0.875,0.106,,,,,
+MS,Alcorn County,Distribution of population (%),751,104,0.827,0.122,0.003,0.004,0,0.032,0.012
+MS,DeSoto County,Distribution of all-cause deaths (%),2045,359,0.702,0.282,,,,0.011,
+MS,DeSoto County,Distribution of COVID-19 deaths (%),2045,359,0.596,0.382,,,,,
+MS,DeSoto County,Distribution of population (%),2045,359,0.619,0.298,0.002,0.016,0,0.051,0.014
+MS,Forrest County,Distribution of all-cause deaths (%),1932,374,0.683,0.304,,,,0.009,
+MS,Forrest County,Distribution of COVID-19 deaths (%),1932,374,0.631,0.348,,,,,
+MS,Forrest County,Distribution of population (%),1932,374,0.569,0.374,0.002,0.011,0,0.03,0.013
+MS,Harrison County,Distribution of all-cause deaths (%),2983,301,0.778,0.19,,0.014,,0.014,0.004
+MS,Harrison County,Distribution of COVID-19 deaths (%),2983,301,0.744,0.223,,,,,
+MS,Harrison County,Distribution of population (%),2983,301,0.631,0.254,0.004,0.028,0.001,0.056,0.026
+MS,Hinds County,Distribution of all-cause deaths (%),5744,965,0.456,0.52,0.011,0.005,,0.008,
+MS,Hinds County,Distribution of COVID-19 deaths (%),5744,965,0.423,0.51,0.047,,,,
+MS,Hinds County,Distribution of population (%),5744,965,0.239,0.729,0.001,0.007,0,0.016,0.009
+MS,Jackson County,Distribution of all-cause deaths (%),1869,229,0.763,0.212,,0.011,,0.01,
+MS,Jackson County,Distribution of COVID-19 deaths (%),1869,229,0.712,0.258,,,,,
+MS,Jackson County,Distribution of population (%),1869,229,0.674,0.211,0.004,0.023,0.001,0.068,0.02
+MS,Jones County,Distribution of all-cause deaths (%),884,119,0.721,0.265,,,,,
+MS,Jones County,Distribution of COVID-19 deaths (%),884,119,0.613,0.37,,,,,
+MS,Jones County,Distribution of population (%),884,119,0.642,0.293,0.005,0.004,0,0.047,0.008
+MS,Lafayette County,Distribution of all-cause deaths (%),989,237,0.711,0.28,,,,,
+MS,Lafayette County,Distribution of COVID-19 deaths (%),989,237,0.658,0.333,,,,,
+MS,Lafayette County,Distribution of population (%),989,237,0.702,0.235,0.002,0.022,0,0.027,0.012
+MS,Lamar County,Distribution of all-cause deaths (%),666,107,0.749,0.236,,,,,
+MS,Lamar County,Distribution of COVID-19 deaths (%),666,107,0.542,0.439,,,,,
+MS,Lamar County,Distribution of population (%),666,107,0.732,0.207,0.002,0.015,0.001,0.029,0.013
+MS,Lauderdale County,Distribution of all-cause deaths (%),1842,413,0.554,0.395,0.042,,,0.006,
+MS,Lauderdale County,Distribution of COVID-19 deaths (%),1842,413,0.429,0.462,0.094,,,,
+MS,Lauderdale County,Distribution of population (%),1842,413,0.52,0.438,0.002,0.007,0,0.023,0.01
+MS,Lee County,Distribution of all-cause deaths (%),2693,476,0.742,0.245,,,,0.009,
+MS,Lee County,Distribution of COVID-19 deaths (%),2693,476,0.693,0.294,,,,,
+MS,Lee County,Distribution of population (%),2693,476,0.646,0.302,0.002,0.01,0,0.027,0.013
+MS,Leflore County,Distribution of all-cause deaths (%),632,129,0.328,0.665,,,,,
+MS,Leflore County,Distribution of COVID-19 deaths (%),632,129,0.248,0.752,,,,,
+MS,Leflore County,Distribution of population (%),632,129,0.216,0.742,0.002,0.006,0,0.028,0.007
+MS,Lowndes County,Distribution of all-cause deaths (%),1010,201,0.58,0.414,,,,,
+MS,Lowndes County,Distribution of COVID-19 deaths (%),1010,201,0.527,0.463,,,,,
+MS,Lowndes County,Distribution of population (%),1010,201,0.512,0.444,0.002,0.01,0,0.021,0.01
+MS,Madison County,Distribution of all-cause deaths (%),1198,109,0.669,0.311,,,,0.01,
+MS,Madison County,Distribution of COVID-19 deaths (%),1198,109,0.67,0.303,,,,,
+MS,Madison County,Distribution of population (%),1198,109,0.551,0.38,0.002,0.027,0,0.031,0.009
+MS,Rankin County,Distribution of all-cause deaths (%),1286,136,0.794,0.195,,,,,
+MS,Rankin County,Distribution of COVID-19 deaths (%),1286,136,0.64,0.331,,,,,
+MS,Rankin County,Distribution of population (%),1286,136,0.731,0.214,0.002,0.014,0.001,0.028,0.011
+MS,Warren County,Distribution of all-cause deaths (%),773,146,0.53,0.463,,,,,
+MS,Warren County,Distribution of COVID-19 deaths (%),773,146,0.418,0.575,,,,,
+MS,Warren County,Distribution of population (%),773,146,0.468,0.489,0.002,0.008,0,0.022,0.01
+MS,Washington County,Distribution of all-cause deaths (%),885,147,0.297,0.687,,,,,
+MS,Washington County,Distribution of COVID-19 deaths (%),885,147,0.17,0.81,,,,,
+MS,Washington County,Distribution of population (%),885,147,0.248,0.719,0.001,0.008,0,0.017,0.007
+MT,Cascade County,Distribution of all-cause deaths (%),1381,206,0.865,,0.093,,,0.014,0.02
+MT,Cascade County,Distribution of COVID-19 deaths (%),1381,206,0.762,,0.189,,,,
+MT,Cascade County,Distribution of population (%),1381,206,0.849,0.015,0.043,0.01,0.001,0.047,0.035
+MT,Flathead County,Distribution of all-cause deaths (%),1339,109,0.954,,0.031,,,,
+MT,Flathead County,Distribution of COVID-19 deaths (%),1339,109,0.826,,0.138,,,,
+MT,Flathead County,Distribution of population (%),1339,109,0.926,0.003,0.011,0.008,0.001,0.03,0.022
+MT,Missoula County,Distribution of all-cause deaths (%),1291,113,0.934,,0.036,,,0.013,
+MT,Missoula County,Distribution of COVID-19 deaths (%),1291,113,0.938,,,,,,
+MT,Missoula County,Distribution of population (%),1291,113,0.89,0.004,0.024,0.018,0.001,0.034,0.029
+MT,Yellowstone County,Distribution of all-cause deaths (%),2628,429,0.836,0.006,0.119,,,0.03,0.006
+MT,Yellowstone County,Distribution of COVID-19 deaths (%),2628,429,0.606,,0.331,,,0.044,
+MT,Yellowstone County,Distribution of population (%),2628,429,0.859,0.007,0.041,0.007,0.001,0.058,0.027
+NC,Buncombe County,Distribution of all-cause deaths (%),3459,185,0.911,0.055,0.007,0.004,,0.019,0.003
+NC,Buncombe County,Distribution of COVID-19 deaths (%),3459,185,0.854,,,,,0.076,
+NC,Buncombe County,Distribution of population (%),3459,185,0.832,0.06,0.003,0.013,0.001,0.068,0.021
+NC,Cabarrus County,Distribution of all-cause deaths (%),1713,137,0.769,0.183,,0.009,,0.035,
+NC,Cabarrus County,Distribution of COVID-19 deaths (%),1713,137,0.672,0.212,,,,0.102,
+NC,Cabarrus County,Distribution of population (%),1713,137,0.633,0.186,0.003,0.046,0.001,0.111,0.021
+NC,Cumberland County,Distribution of all-cause deaths (%),2493,121,0.532,0.39,0.017,0.018,,0.038,0.004
+NC,Cumberland County,Distribution of COVID-19 deaths (%),2493,121,0.347,0.554,,,,,
+NC,Cumberland County,Distribution of population (%),2493,121,0.422,0.371,0.015,0.026,0.003,0.121,0.043
+NC,Durham County,Distribution of all-cause deaths (%),3207,195,0.546,0.39,0.007,0.015,,0.037,0.005
+NC,Durham County,Distribution of COVID-19 deaths (%),3207,195,0.477,0.385,,,,0.113,
+NC,Durham County,Distribution of population (%),3207,195,0.43,0.356,0.003,0.053,0,0.137,0.021
+NC,Forsyth County,Distribution of all-cause deaths (%),4702,245,0.749,0.205,,0.009,,0.032,0.003
+NC,Forsyth County,Distribution of COVID-19 deaths (%),4702,245,0.665,0.2,,,,0.11,
+NC,Forsyth County,Distribution of population (%),4702,245,0.562,0.258,0.003,0.025,0.001,0.133,0.019
+NC,Gaston County,Distribution of all-cause deaths (%),2088,107,0.833,0.137,,0.009,,0.017,
+NC,Gaston County,Distribution of COVID-19 deaths (%),2088,107,0.673,0.271,,,,,
+NC,Gaston County,Distribution of population (%),2088,107,0.711,0.173,0.004,0.016,0,0.076,0.02
+NC,Guilford County,Distribution of all-cause deaths (%),5017,331,0.668,0.288,0.005,0.015,,0.022,0.003
+NC,Guilford County,Distribution of COVID-19 deaths (%),5017,331,0.535,0.335,,0.045,,0.076,
+NC,Guilford County,Distribution of population (%),5017,331,0.494,0.344,0.004,0.052,0.001,0.084,0.022
+NC,Mecklenburg County,Distribution of all-cause deaths (%),7464,517,0.615,0.313,0.003,0.02,,0.045,0.004
+NC,Mecklenburg County,Distribution of COVID-19 deaths (%),7464,517,0.54,0.327,,0.025,,0.093,
+NC,Mecklenburg County,Distribution of population (%),7464,517,0.461,0.315,0.003,0.062,0,0.138,0.021
+NC,Moore County,Distribution of all-cause deaths (%),1296,104,0.769,0.185,0.019,,,0.023,
+NC,Moore County,Distribution of COVID-19 deaths (%),1296,104,0.558,0.26,,,,0.135,
+NC,Moore County,Distribution of population (%),1296,104,0.77,0.117,0.008,0.015,0.001,0.071,0.019
+NC,Orange County,Distribution of all-cause deaths (%),1266,110,0.623,0.279,0.011,0.021,,0.057,0.008
+NC,Orange County,Distribution of COVID-19 deaths (%),1266,110,0.409,0.4,,,,0.164,
+NC,Orange County,Distribution of population (%),1266,110,0.695,0.113,0.003,0.079,0,0.086,0.023
+NC,Pitt County,Distribution of all-cause deaths (%),2204,128,0.548,0.412,,0.008,,0.024,0.006
+NC,Pitt County,Distribution of COVID-19 deaths (%),2204,128,0.375,0.547,,,,,
+NC,Pitt County,Distribution of population (%),2204,128,0.54,0.351,0.003,0.02,0.001,0.065,0.02
+NC,Rowan County,Distribution of all-cause deaths (%),1390,113,0.839,0.143,,,,0.013,
+NC,Rowan County,Distribution of COVID-19 deaths (%),1390,113,0.832,0.15,,,,,
+NC,Rowan County,Distribution of population (%),1390,113,0.713,0.162,0.003,0.011,0,0.094,0.016
+NC,Wake County,Distribution of all-cause deaths (%),5953,376,0.696,0.24,0.003,0.022,,0.034,0.004
+NC,Wake County,Distribution of COVID-19 deaths (%),5953,376,0.553,0.319,,,,0.098,
+NC,Wake County,Distribution of population (%),5953,376,0.595,0.2,0.003,0.076,0,0.104,0.022
+ND,Burleigh County,Distribution of all-cause deaths (%),1492,272,0.903,,0.075,,,0.007,0.007
+ND,Burleigh County,Distribution of COVID-19 deaths (%),1492,272,0.875,,0.099,,,,
+ND,Burleigh County,Distribution of population (%),1492,272,0.882,0.023,0.04,0.009,0.001,0.028,0.018
+ND,Cass County,Distribution of all-cause deaths (%),2673,485,0.892,0.015,0.063,0.006,,0.016,0.008
+ND,Cass County,Distribution of COVID-19 deaths (%),2673,485,0.835,,0.113,,,0.025,
+ND,Cass County,Distribution of population (%),2673,485,0.843,0.062,0.012,0.033,0,0.028,0.02
+ND,Grand Forks County,Distribution of all-cause deaths (%),844,121,0.89,,0.066,,,0.024,
+ND,Grand Forks County,Distribution of COVID-19 deaths (%),844,121,0.785,,0.124,,,,
+ND,Grand Forks County,Distribution of population (%),844,121,0.83,0.042,0.026,0.028,0.001,0.047,0.026
+ND,Ward County,Distribution of all-cause deaths (%),935,202,0.878,0.012,0.087,,,0.012,
+ND,Ward County,Distribution of COVID-19 deaths (%),935,202,0.881,,0.094,,,,
+ND,Ward County,Distribution of population (%),935,202,0.82,0.045,0.023,0.017,0.002,0.063,0.03
+NE,Buffalo County,Distribution of all-cause deaths (%),685,128,0.94,,,,,0.048,
+NE,Buffalo County,Distribution of COVID-19 deaths (%),685,128,0.883,,,,,0.102,
+NE,Buffalo County,Distribution of population (%),685,128,0.865,0.011,0.003,0.015,0,0.093,0.013
+NE,Douglas County,Distribution of all-cause deaths (%),6731,884,0.839,0.101,0.007,0.01,,0.037,0.006
+NE,Douglas County,Distribution of COVID-19 deaths (%),6731,884,0.798,0.074,,0.014,,0.104,
+NE,Douglas County,Distribution of population (%),6731,884,0.687,0.111,0.005,0.043,0.001,0.129,0.025
+NE,Hall County,Distribution of all-cause deaths (%),694,125,0.912,,,,,0.061,
+NE,Hall County,Distribution of COVID-19 deaths (%),694,125,0.84,,,,,0.12,
+NE,Hall County,Distribution of population (%),694,125,0.651,0.031,0.004,0.012,0.001,0.29,0.011
+NE,Lancaster County,Distribution of all-cause deaths (%),3485,356,0.931,0.028,0.004,0.013,,0.022,0.003
+NE,Lancaster County,Distribution of COVID-19 deaths (%),3485,356,0.888,0.034,,,,0.051,
+NE,Lancaster County,Distribution of population (%),3485,356,0.806,0.04,0.006,0.047,0.001,0.074,0.027
+NE,Scotts Bluff County,Distribution of all-cause deaths (%),600,111,0.878,,,,,0.102,
+NE,Scotts Bluff County,Distribution of COVID-19 deaths (%),600,111,0.811,,,,,0.18,
+NE,Scotts Bluff County,Distribution of population (%),600,111,0.715,0.008,0.015,0.007,0.001,0.241,0.012
+NH,Hillsborough County,Distribution of all-cause deaths (%),4407,581,0.95,0.011,,0.011,,0.023,0.006
+NH,Hillsborough County,Distribution of COVID-19 deaths (%),4407,581,0.935,,,,,0.033,
+NH,Hillsborough County,Distribution of population (%),4407,581,0.837,0.025,0.002,0.044,0,0.073,0.018
+NH,Merrimack County,Distribution of all-cause deaths (%),1853,109,0.979,0.007,,0.005,,,0.005
+NH,Merrimack County,Distribution of COVID-19 deaths (%),1853,109,0.963,,,,,,
+NH,Merrimack County,Distribution of population (%),1853,109,0.921,0.016,0.002,0.022,0,0.023,0.015
+NH,Rockingham County,Distribution of all-cause deaths (%),2759,177,0.98,0.005,,0.005,,0.007,
+NH,Rockingham County,Distribution of COVID-19 deaths (%),2759,177,0.955,,,,,,
+NH,Rockingham County,Distribution of population (%),2759,177,0.922,0.008,0.001,0.022,0,0.033,0.014
+NJ,Atlantic County,Distribution of all-cause deaths (%),3696,439,0.718,0.172,,0.029,,0.078,
+NJ,Atlantic County,Distribution of COVID-19 deaths (%),3696,439,0.656,0.164,,0.041,,0.132,
+NJ,Atlantic County,Distribution of population (%),3696,439,0.559,0.146,0.002,0.079,0,0.194,0.02
+NJ,Bergen County,Distribution of all-cause deaths (%),11181,2694,0.732,0.064,,0.075,,0.126,0.003
+NJ,Bergen County,Distribution of COVID-19 deaths (%),11181,2694,0.622,0.073,,0.097,,0.204,
+NJ,Bergen County,Distribution of population (%),11181,2694,0.551,0.055,0.001,0.167,0,0.21,0.015
+NJ,Burlington County,Distribution of all-cause deaths (%),4527,649,0.767,0.171,,0.028,,0.03,0.003
+NJ,Burlington County,Distribution of COVID-19 deaths (%),4527,649,0.74,0.18,,0.028,,0.048,
+NJ,Burlington County,Distribution of population (%),4527,649,0.665,0.169,0.002,0.053,0.001,0.085,0.025
+NJ,Camden County,Distribution of all-cause deaths (%),7787,1026,0.707,0.187,,0.025,,0.078,0.003
+NJ,Camden County,Distribution of COVID-19 deaths (%),7787,1026,0.633,0.198,,0.043,,0.122,
+NJ,Camden County,Distribution of population (%),7787,1026,0.558,0.187,0.002,0.059,0,0.176,0.019
+NJ,Cape May County,Distribution of all-cause deaths (%),1370,129,0.923,0.045,,,,0.024,
+NJ,Cape May County,Distribution of COVID-19 deaths (%),1370,129,0.907,,,,,,
+NJ,Cape May County,Distribution of population (%),1370,129,0.85,0.041,0.002,0.01,0,0.081,0.017
+NJ,Cumberland County,Distribution of all-cause deaths (%),2014,289,0.66,0.167,0.013,0.012,,0.144,
+NJ,Cumberland County,Distribution of COVID-19 deaths (%),2014,289,0.592,0.159,,,,0.232,
+NJ,Cumberland County,Distribution of population (%),2014,289,0.454,0.187,0.006,0.013,0,0.318,0.022
+NJ,Essex County,Distribution of all-cause deaths (%),10168,2569,0.377,0.432,,0.036,,0.152,0.003
+NJ,Essex County,Distribution of COVID-19 deaths (%),10168,2569,0.308,0.431,,0.045,,0.21,0.004
+NJ,Essex County,Distribution of population (%),10168,2569,0.302,0.386,0.002,0.057,0,0.238,0.015
+NJ,Gloucester County,Distribution of all-cause deaths (%),3344,451,0.833,0.121,,0.016,,0.024,0.004
+NJ,Gloucester County,Distribution of COVID-19 deaths (%),3344,451,0.776,0.16,,0.033,,0.022,
+NJ,Gloucester County,Distribution of population (%),3344,451,0.778,0.104,0.001,0.03,0,0.067,0.02
+NJ,Hudson County,Distribution of all-cause deaths (%),5186,1391,0.344,0.159,,0.082,,0.41,0.004
+NJ,Hudson County,Distribution of COVID-19 deaths (%),5186,1391,0.227,0.119,,0.091,,0.557,
+NJ,Hudson County,Distribution of population (%),5186,1391,0.289,0.107,0.001,0.16,0.001,0.427,0.015
+NJ,Hunterdon County,Distribution of all-cause deaths (%),1032,147,0.929,0.019,,0.02,,0.029,
+NJ,Hunterdon County,Distribution of COVID-19 deaths (%),1032,147,0.837,,,0.068,,,
+NJ,Hunterdon County,Distribution of population (%),1032,147,0.847,0.024,0.001,0.044,0.001,0.07,0.014
+NJ,Mercer County,Distribution of all-cause deaths (%),3821,713,0.637,0.237,,0.04,,0.084,
+NJ,Mercer County,Distribution of COVID-19 deaths (%),3821,713,0.537,0.271,,0.05,,0.139,
+NJ,Mercer County,Distribution of population (%),3821,713,0.482,0.195,0.002,0.117,0.001,0.184,0.019
+NJ,Middlesex County,Distribution of all-cause deaths (%),9366,2015,0.643,0.117,,0.109,,0.127,0.003
+NJ,Middlesex County,Distribution of COVID-19 deaths (%),9366,2015,0.501,0.132,,0.132,,0.23,0.005
+NJ,Middlesex County,Distribution of population (%),9366,2015,0.417,0.098,0.002,0.247,0,0.221,0.015
+NJ,Monmouth County,Distribution of all-cause deaths (%),8221,1329,0.841,0.08,,0.027,,0.049,0.002
+NJ,Monmouth County,Distribution of COVID-19 deaths (%),8221,1329,0.784,0.084,,0.043,,0.083,
+NJ,Monmouth County,Distribution of population (%),8221,1329,0.75,0.067,0.001,0.055,0,0.111,0.015
+NJ,Morris County,Distribution of all-cause deaths (%),6552,1333,0.848,0.045,,0.039,,0.064,0.003
+NJ,Morris County,Distribution of COVID-19 deaths (%),6552,1333,0.751,0.063,,0.05,,0.133,
+NJ,Morris County,Distribution of population (%),6552,1333,0.704,0.033,0.001,0.107,0,0.139,0.016
+NJ,Ocean County,Distribution of all-cause deaths (%),8735,1399,0.928,0.025,,0.008,,0.037,0.003
+NJ,Ocean County,Distribution of COVID-19 deaths (%),8735,1399,0.877,0.03,,0.014,,0.074,
+NJ,Ocean County,Distribution of population (%),8735,1399,0.843,0.031,0.001,0.019,0,0.095,0.011
+NJ,Passaic County,Distribution of all-cause deaths (%),5298,1331,0.552,0.144,,0.035,,0.265,0.002
+NJ,Passaic County,Distribution of COVID-19 deaths (%),5298,1331,0.398,0.127,,0.047,,0.423,
+NJ,Passaic County,Distribution of population (%),5298,1331,0.403,0.1,0.001,0.054,0,0.429,0.012
+NJ,Somerset County,Distribution of all-cause deaths (%),2937,547,0.794,0.095,,0.058,,0.051,
+NJ,Somerset County,Distribution of COVID-19 deaths (%),2937,547,0.717,0.108,,0.057,,0.113,
+NJ,Somerset County,Distribution of population (%),2937,547,0.548,0.095,0.001,0.186,0,0.152,0.017
+NJ,Sussex County,Distribution of all-cause deaths (%),1445,202,0.918,0.034,,0.01,,0.036,
+NJ,Sussex County,Distribution of COVID-19 deaths (%),1445,202,0.802,0.109,,,,0.074,
+NJ,Sussex County,Distribution of population (%),1445,202,0.85,0.022,0.001,0.02,0,0.092,0.014
+NJ,Union County,Distribution of all-cause deaths (%),5961,1319,0.545,0.239,,0.034,,0.18,0.002
+NJ,Union County,Distribution of COVID-19 deaths (%),5961,1319,0.396,0.257,,0.041,,0.303,
+NJ,Union County,Distribution of population (%),5961,1319,0.392,0.209,0.001,0.055,0,0.328,0.014
+NJ,Warren County,Distribution of all-cause deaths (%),1199,173,0.911,0.041,,,,0.039,
+NJ,Warren County,Distribution of COVID-19 deaths (%),1199,173,0.873,,,,,0.064,
+NJ,Warren County,Distribution of population (%),1199,173,0.804,0.051,0.001,0.028,0,0.102,0.014
+NM,Bernalillo County,Distribution of all-cause deaths (%),9286,1286,0.459,0.028,0.11,0.011,,0.385,0.007
+NM,Bernalillo County,Distribution of COVID-19 deaths (%),9286,1286,0.268,0.023,0.313,,,0.386,
+NM,Bernalillo County,Distribution of population (%),9286,1286,0.382,0.026,0.043,0.026,0.001,0.503,0.019
+NM,Chaves County,Distribution of all-cause deaths (%),810,121,0.609,0.019,,,,0.356,
+NM,Chaves County,Distribution of COVID-19 deaths (%),810,121,0.421,,,,,0.562,
+NM,Chaves County,Distribution of population (%),810,121,0.379,0.015,0.008,0.01,0.001,0.578,0.01
+NM,Dona Ana County,Distribution of all-cause deaths (%),2412,339,0.479,0.015,0.011,0.005,,0.486,0.004
+NM,Dona Ana County,Distribution of COVID-19 deaths (%),2412,339,0.242,,,,,0.708,
+NM,Dona Ana County,Distribution of population (%),2412,339,0.267,0.016,0.008,0.011,0.001,0.687,0.011
+NM,McKinley County,Distribution of all-cause deaths (%),717,166,0.13,,0.745,,,0.107,0.014
+NM,McKinley County,Distribution of COVID-19 deaths (%),717,166,,,0.843,,,0.102,
+NM,McKinley County,Distribution of population (%),717,166,0.083,0.005,0.742,0.01,0,0.142,0.018
+NM,Sandoval County,Distribution of all-cause deaths (%),1724,311,0.503,0.02,0.171,0.01,,0.292,
+NM,Sandoval County,Distribution of COVID-19 deaths (%),1724,311,0.206,,0.479,,,0.293,
+NM,Sandoval County,Distribution of population (%),1724,311,0.425,0.021,0.12,0.014,0.001,0.399,0.02
+NM,San Juan County,Distribution of all-cause deaths (%),1515,375,0.451,0.007,0.432,,,0.103,0.007
+NM,San Juan County,Distribution of COVID-19 deaths (%),1515,375,0.272,,0.648,,,0.069,
+NM,San Juan County,Distribution of population (%),1515,375,0.374,0.006,0.387,0.005,0.001,0.206,0.021
+NM,Santa Fe County,Distribution of all-cause deaths (%),1617,144,0.471,,0.042,,,0.469,0.007
+NM,Santa Fe County,Distribution of COVID-19 deaths (%),1617,144,0.299,,0.188,,,0.5,
+NM,Santa Fe County,Distribution of population (%),1617,144,0.431,0.008,0.025,0.013,0,0.509,0.013
+NV,Clark County,Distribution of all-cause deaths (%),24425,3606,0.633,0.131,0.004,0.076,0.009,0.136,0.01
+NV,Clark County,Distribution of COVID-19 deaths (%),24425,3606,0.465,0.118,0.005,0.126,0.011,0.271,0.005
+NV,Clark County,Distribution of population (%),24425,3606,0.414,0.118,0.005,0.098,0.007,0.314,0.045
+NV,Washoe County,Distribution of all-cause deaths (%),6040,702,0.82,0.02,0.021,0.035,0.003,0.092,0.008
+NV,Washoe County,Distribution of COVID-19 deaths (%),6040,702,0.613,0.019,0.04,0.077,,0.232,
+NV,Washoe County,Distribution of population (%),6040,702,0.619,0.023,0.013,0.054,0.006,0.249,0.035
+NV,Carson City,Distribution of all-cause deaths (%),1370,157,0.876,0.012,0.015,0.012,,0.069,0.014
+NV,Carson City,Distribution of COVID-19 deaths (%),1370,157,0.72,,,,,0.159,
+NV,Carson City,Distribution of population (%),1370,157,0.662,0.02,0.019,0.023,0.002,0.248,0.025
+NY,Albany County,Distribution of all-cause deaths (%),4777,549,0.846,0.105,,0.018,,0.024,0.007
+NY,Albany County,Distribution of COVID-19 deaths (%),4777,549,0.812,0.12,,0.031,,0.029,
+NY,Albany County,Distribution of population (%),4777,549,0.715,0.128,0.001,0.068,0,0.063,0.025
+NY,Bronx County,Distribution of all-cause deaths (%),18422,4918,0.211,0.325,,0.029,,0.392,0.043
+NY,Bronx County,Distribution of COVID-19 deaths (%),18422,4918,0.135,0.306,,0.036,,0.47,0.052
+NY,Bronx County,Distribution of population (%),18422,4918,0.09,0.292,0.003,0.04,0,0.564,0.011
+NY,Broome County,Distribution of all-cause deaths (%),2961,371,0.945,0.028,,0.009,,0.014,0.004
+NY,Broome County,Distribution of COVID-19 deaths (%),2961,371,0.949,0.03,,,,,
+NY,Broome County,Distribution of population (%),2961,371,0.827,0.056,0.002,0.044,0,0.044,0.027
+NY,Chemung County,Distribution of all-cause deaths (%),1190,145,0.939,0.05,,,,,
+NY,Chemung County,Distribution of COVID-19 deaths (%),1190,145,0.979,,,,,,
+NY,Chemung County,Distribution of population (%),1190,145,0.86,0.059,0.003,0.015,0,0.032,0.03
+NY,Dutchess County,Distribution of all-cause deaths (%),3431,452,0.853,0.086,,0.011,,0.048,
+NY,Dutchess County,Distribution of COVID-19 deaths (%),3431,452,0.779,0.133,,,,0.071,
+NY,Dutchess County,Distribution of population (%),3431,452,0.706,0.106,0.002,0.036,0,0.129,0.021
+NY,Erie County,Distribution of all-cause deaths (%),13319,1863,0.829,0.128,0.006,0.01,,0.025,0.003
+NY,Erie County,Distribution of COVID-19 deaths (%),13319,1863,0.84,0.11,0.009,0.015,,0.025,
+NY,Erie County,Distribution of population (%),13319,1863,0.749,0.131,0.006,0.038,0,0.058,0.018
+NY,Genesee County,Distribution of all-cause deaths (%),715,112,0.951,0.025,0.014,,,,
+NY,Genesee County,Distribution of COVID-19 deaths (%),715,112,0.946,,,,,,
+NY,Genesee County,Distribution of population (%),715,112,0.902,0.028,0.011,0.006,0,0.035,0.018
+NY,Kings County,Distribution of all-cause deaths (%),25003,7202,0.359,0.372,,0.08,,0.155,0.033
+NY,Kings County,Distribution of COVID-19 deaths (%),25003,7202,0.312,0.382,,0.081,,0.193,0.032
+NY,Kings County,Distribution of population (%),25003,7202,0.368,0.297,0.002,0.125,0,0.189,0.02
+NY,Monroe County,Distribution of all-cause deaths (%),10273,1283,0.816,0.127,0.002,0.011,,0.041,0.003
+NY,Monroe County,Distribution of COVID-19 deaths (%),10273,1283,0.813,0.112,,0.01,,0.058,
+NY,Monroe County,Distribution of population (%),10273,1283,0.701,0.146,0.002,0.036,0,0.092,0.022
+NY,Nassau County,Distribution of all-cause deaths (%),17341,4055,0.701,0.145,,0.051,,0.094,0.007
+NY,Nassau County,Distribution of COVID-19 deaths (%),17341,4055,0.568,0.189,,0.07,,0.163,0.009
+NY,Nassau County,Distribution of population (%),17341,4055,0.585,0.117,0.001,0.107,0,0.175,0.015
+NY,New York County,Distribution of all-cause deaths (%),20153,4829,0.396,0.212,,0.086,,0.263,0.043
+NY,New York County,Distribution of COVID-19 deaths (%),20153,4829,0.306,0.207,,0.091,,0.349,0.047
+NY,New York County,Distribution of population (%),20153,4829,0.472,0.124,0.001,0.125,0,0.256,0.021
+NY,Niagara County,Distribution of all-cause deaths (%),2677,237,0.893,0.075,0.008,0.006,,0.013,0.004
+NY,Niagara County,Distribution of COVID-19 deaths (%),2677,237,0.857,0.127,,,,,
+NY,Niagara County,Distribution of population (%),2677,237,0.849,0.071,0.01,0.011,0,0.033,0.025
+NY,Oneida County,Distribution of all-cause deaths (%),3507,498,0.914,0.044,,0.014,,0.019,0.007
+NY,Oneida County,Distribution of COVID-19 deaths (%),3507,498,0.9,0.044,,0.026,,0.022,
+NY,Oneida County,Distribution of population (%),3507,498,0.813,0.062,0.002,0.041,0,0.062,0.02
+NY,Onondaga County,Distribution of all-cause deaths (%),6853,834,0.874,0.087,0.006,0.011,,0.018,0.004
+NY,Onondaga County,Distribution of COVID-19 deaths (%),6853,834,0.854,0.095,,0.024,,0.023,
+NY,Onondaga County,Distribution of population (%),6853,834,0.764,0.11,0.007,0.038,0,0.052,0.028
+NY,Ontario County,Distribution of all-cause deaths (%),1264,120,0.957,0.021,,,,0.014,
+NY,Ontario County,Distribution of COVID-19 deaths (%),1264,120,0.967,,,,,,
+NY,Ontario County,Distribution of population (%),1264,120,0.895,0.022,0.002,0.014,0,0.051,0.016
+NY,Orange County,Distribution of all-cause deaths (%),3813,709,0.779,0.089,,0.013,,0.11,0.007
+NY,Orange County,Distribution of COVID-19 deaths (%),3813,709,0.621,0.145,,0.017,,0.207,
+NY,Orange County,Distribution of population (%),3813,709,0.627,0.106,0.002,0.028,0,0.216,0.021
+NY,Queens County,Distribution of all-cause deaths (%),21335,6350,0.36,0.222,,0.183,,0.197,0.037
+NY,Queens County,Distribution of COVID-19 deaths (%),21335,6350,0.261,0.21,,0.201,,0.286,0.041
+NY,Queens County,Distribution of population (%),21335,6350,0.248,0.179,0.003,0.265,0.001,0.281,0.022
+NY,Rensselaer County,Distribution of all-cause deaths (%),1711,117,0.911,0.061,,,,0.016,
+NY,Rensselaer County,Distribution of COVID-19 deaths (%),1711,117,0.829,0.12,,,,,
+NY,Rensselaer County,Distribution of population (%),1711,117,0.826,0.071,0.002,0.027,0,0.052,0.022
+NY,Richmond County,Distribution of all-cause deaths (%),5448,1370,0.713,0.097,,0.053,,0.096,0.04
+NY,Richmond County,Distribution of COVID-19 deaths (%),5448,1370,0.639,0.12,,0.066,,0.139,0.036
+NY,Richmond County,Distribution of population (%),5448,1370,0.596,0.094,0.001,0.107,0,0.186,0.016
+NY,Rockland County,Distribution of all-cause deaths (%),3215,853,0.701,0.141,,0.039,,0.116,
+NY,Rockland County,Distribution of COVID-19 deaths (%),3215,853,0.59,0.183,,0.052,,0.174,
+NY,Rockland County,Distribution of population (%),3215,853,0.627,0.112,0.001,0.061,0,0.184,0.015
+NY,Saratoga County,Distribution of all-cause deaths (%),1790,103,0.971,0.013,,0.006,,0.007,
+NY,Saratoga County,Distribution of COVID-19 deaths (%),1790,103,0.99,,,,,,
+NY,Saratoga County,Distribution of population (%),1790,103,0.901,0.018,0.002,0.028,0,0.034,0.017
+NY,Schenectady County,Distribution of all-cause deaths (%),1923,132,0.863,0.073,,0.022,,0.033,0.007
+NY,Schenectady County,Distribution of COVID-19 deaths (%),1923,132,0.864,,,,,,
+NY,Schenectady County,Distribution of population (%),1923,132,0.724,0.112,0.005,0.049,0.002,0.074,0.034
+NY,Steuben County,Distribution of all-cause deaths (%),1160,135,0.978,0.013,,,,,
+NY,Steuben County,Distribution of COVID-19 deaths (%),1160,135,0.985,,,,,,
+NY,Steuben County,Distribution of population (%),1160,135,0.934,0.016,0.002,0.016,0,0.017,0.015
+NY,Suffolk County,Distribution of all-cause deaths (%),17753,3776,0.81,0.072,0.001,0.02,,0.092,0.005
+NY,Suffolk County,Distribution of COVID-19 deaths (%),17753,3776,0.698,0.093,,0.025,,0.176,0.007
+NY,Suffolk County,Distribution of population (%),17753,3776,0.666,0.075,0.002,0.041,0,0.202,0.014
+NY,Ulster County,Distribution of all-cause deaths (%),1662,151,0.902,0.05,,,,0.036,0.006
+NY,Ulster County,Distribution of COVID-19 deaths (%),1662,151,0.901,,,,,,
+NY,Ulster County,Distribution of population (%),1662,151,0.788,0.06,0.002,0.02,0,0.106,0.023
+NY,Westchester County,Distribution of all-cause deaths (%),10240,2498,0.686,0.148,,0.027,,0.134,0.005
+NY,Westchester County,Distribution of COVID-19 deaths (%),10240,2498,0.584,0.163,,0.032,,0.216,0.005
+NY,Westchester County,Distribution of population (%),10240,2498,0.526,0.138,0.001,0.063,0,0.255,0.016
+OH,Allen County,Distribution of all-cause deaths (%),1869,326,0.901,0.08,,,,0.011,
+OH,Allen County,Distribution of COVID-19 deaths (%),1869,326,0.905,0.067,,,,,
+OH,Allen County,Distribution of population (%),1869,326,0.806,0.122,0.002,0.008,0,0.033,0.029
+OH,Ashtabula County,Distribution of all-cause deaths (%),1203,137,0.952,0.032,,,,0.012,
+OH,Ashtabula County,Distribution of COVID-19 deaths (%),1203,137,0.942,,,,,,
+OH,Ashtabula County,Distribution of population (%),1203,137,0.892,0.035,0.002,0.005,0,0.044,0.021
+OH,Butler County,Distribution of all-cause deaths (%),3934,441,0.881,0.093,,0.015,,0.008,
+OH,Butler County,Distribution of COVID-19 deaths (%),3934,441,0.828,0.127,,0.025,,,
+OH,Butler County,Distribution of population (%),3934,441,0.798,0.088,0.002,0.038,0.001,0.05,0.024
+OH,Clark County,Distribution of all-cause deaths (%),2018,224,0.894,0.093,,,,0.005,
+OH,Clark County,Distribution of COVID-19 deaths (%),2018,224,0.875,0.116,,,,,
+OH,Clark County,Distribution of population (%),2018,224,0.838,0.087,0.003,0.007,0.001,0.036,0.028
+OH,Clermont County,Distribution of all-cause deaths (%),1462,107,0.968,0.02,,,,,
+OH,Clermont County,Distribution of COVID-19 deaths (%),1462,107,0.953,,,,,,
+OH,Clermont County,Distribution of population (%),1462,107,0.932,0.016,0.002,0.013,0,0.021,0.015
+OH,Columbiana County,Distribution of all-cause deaths (%),1291,166,0.988,0.009,,,,,
+OH,Columbiana County,Distribution of COVID-19 deaths (%),1291,166,0.982,,,,,,
+OH,Columbiana County,Distribution of population (%),1291,166,0.937,0.023,0.002,0.003,0,0.019,0.016
+OH,Cuyahoga County,Distribution of all-cause deaths (%),20690,2346,0.707,0.26,0.001,0.009,,0.022,0.001
+OH,Cuyahoga County,Distribution of COVID-19 deaths (%),20690,2346,0.729,0.233,,0.01,,0.027,
+OH,Cuyahoga County,Distribution of population (%),20690,2346,0.586,0.297,0.002,0.033,0,0.063,0.02
+OH,Erie County,Distribution of all-cause deaths (%),1372,177,0.912,0.072,,,,0.014,
+OH,Erie County,Distribution of COVID-19 deaths (%),1372,177,0.876,0.085,,,,,
+OH,Erie County,Distribution of population (%),1372,177,0.83,0.086,0.002,0.007,0,0.045,0.029
+OH,Fairfield County,Distribution of all-cause deaths (%),1688,160,0.958,0.031,,0.007,,,
+OH,Fairfield County,Distribution of COVID-19 deaths (%),1688,160,0.956,,,,,,
+OH,Fairfield County,Distribution of population (%),1688,160,0.849,0.085,0.002,0.019,0,0.024,0.021
+OH,Franklin County,Distribution of all-cause deaths (%),16877,1985,0.772,0.192,0.001,0.018,,0.013,0.004
+OH,Franklin County,Distribution of COVID-19 deaths (%),16877,1985,0.749,0.192,,0.029,,0.026,
+OH,Franklin County,Distribution of population (%),16877,1985,0.621,0.232,0.002,0.057,0,0.058,0.031
+OH,Geauga County,Distribution of all-cause deaths (%),1101,158,0.979,0.015,,,,,
+OH,Geauga County,Distribution of COVID-19 deaths (%),1101,158,0.987,,,,,,
+OH,Geauga County,Distribution of population (%),1101,158,0.954,0.012,0.001,0.007,0,0.016,0.01
+OH,Greene County,Distribution of all-cause deaths (%),1558,204,0.924,0.052,,0.01,,0.008,
+OH,Greene County,Distribution of COVID-19 deaths (%),1558,204,0.917,0.049,,,,,
+OH,Greene County,Distribution of population (%),1558,204,0.836,0.071,0.003,0.031,0.001,0.03,0.029
+OH,Hamilton County,Distribution of all-cause deaths (%),12748,1407,0.778,0.203,0.001,0.009,,0.007,0.002
+OH,Hamilton County,Distribution of COVID-19 deaths (%),12748,1407,0.795,0.186,,0.01,,0.007,
+OH,Hamilton County,Distribution of population (%),12748,1407,0.648,0.262,0.001,0.029,0.001,0.036,0.024
+OH,Hancock County,Distribution of all-cause deaths (%),1167,174,0.959,0.017,,,,0.018,
+OH,Hancock County,Distribution of COVID-19 deaths (%),1167,174,0.948,,,,,,
+OH,Hancock County,Distribution of population (%),1167,174,0.886,0.017,0.002,0.019,0,0.057,0.017
+OH,Jefferson County,Distribution of all-cause deaths (%),997,107,0.923,0.073,,,,,
+OH,Jefferson County,Distribution of COVID-19 deaths (%),997,107,0.916,,,,,,
+OH,Jefferson County,Distribution of population (%),997,107,0.901,0.054,0.002,0.005,0,0.016,0.022
+OH,Lake County,Distribution of all-cause deaths (%),2466,245,0.926,0.057,,0.005,,0.009,
+OH,Lake County,Distribution of COVID-19 deaths (%),2466,245,0.89,0.073,,,,,
+OH,Lake County,Distribution of population (%),2466,245,0.875,0.045,0.001,0.015,0,0.047,0.016
+OH,Licking County,Distribution of all-cause deaths (%),1836,160,0.968,0.025,,,,,
+OH,Licking County,Distribution of COVID-19 deaths (%),1836,160,0.956,,,,,,
+OH,Licking County,Distribution of population (%),1836,160,0.89,0.041,0.003,0.023,0,0.021,0.023
+OH,Lorain County,Distribution of all-cause deaths (%),3368,371,0.874,0.077,,0.003,,0.044,
+OH,Lorain County,Distribution of COVID-19 deaths (%),3368,371,0.876,0.075,,,,0.038,
+OH,Lorain County,Distribution of population (%),3368,371,0.777,0.078,0.002,0.013,0,0.104,0.026
+OH,Lucas County,Distribution of all-cause deaths (%),7180,1007,0.794,0.166,,0.003,,0.033,0.003
+OH,Lucas County,Distribution of COVID-19 deaths (%),7180,1007,0.795,0.146,,,,0.054,
+OH,Lucas County,Distribution of population (%),7180,1007,0.682,0.196,0.002,0.017,0,0.074,0.029
+OH,Mahoning County,Distribution of all-cause deaths (%),4562,653,0.842,0.13,,0.003,,0.022,0.003
+OH,Mahoning County,Distribution of COVID-19 deaths (%),4562,653,0.859,0.116,,,,0.02,
+OH,Mahoning County,Distribution of population (%),4562,653,0.754,0.15,0.002,0.009,0,0.065,0.02
+OH,Marion County,Distribution of all-cause deaths (%),938,178,0.962,0.028,,,,,
+OH,Marion County,Distribution of COVID-19 deaths (%),938,178,0.938,,,,,,
+OH,Marion County,Distribution of population (%),938,178,0.881,0.063,0.002,0.006,0.001,0.028,0.02
+OH,Medina County,Distribution of all-cause deaths (%),1543,134,0.977,0.012,,,,,
+OH,Medina County,Distribution of COVID-19 deaths (%),1543,134,0.985,,,,,,
+OH,Medina County,Distribution of population (%),1543,134,0.936,0.014,0.002,0.013,0,0.023,0.013
+OH,Miami County,Distribution of all-cause deaths (%),1229,120,0.965,0.026,,,,,
+OH,Miami County,Distribution of COVID-19 deaths (%),1229,120,0.967,,,,,,
+OH,Miami County,Distribution of population (%),1229,120,0.918,0.024,0.002,0.017,0,0.019,0.02
+OH,Montgomery County,Distribution of all-cause deaths (%),9878,1310,0.802,0.179,,0.007,,0.008,0.003
+OH,Montgomery County,Distribution of COVID-19 deaths (%),9878,1310,0.802,0.176,,0.01,,0.01,
+OH,Montgomery County,Distribution of population (%),9878,1310,0.703,0.212,0.002,0.023,0,0.033,0.027
+OH,Muskingum County,Distribution of all-cause deaths (%),1439,160,0.965,0.028,,,,,
+OH,Muskingum County,Distribution of COVID-19 deaths (%),1439,160,0.956,,,,,,
+OH,Muskingum County,Distribution of population (%),1439,160,0.913,0.037,0.002,0.006,0,0.012,0.029
+OH,Portage County,Distribution of all-cause deaths (%),1549,126,0.953,0.042,,,,,
+OH,Portage County,Distribution of COVID-19 deaths (%),1549,126,0.944,,,,,,
+OH,Portage County,Distribution of population (%),1549,126,0.892,0.047,0.002,0.02,0,0.02,0.02
+OH,Richland County,Distribution of all-cause deaths (%),1811,191,0.923,0.066,,,,0.007,
+OH,Richland County,Distribution of COVID-19 deaths (%),1811,191,0.937,0.052,,,,,
+OH,Richland County,Distribution of population (%),1811,191,0.853,0.094,0.002,0.008,0,0.021,0.022
+OH,Ross County,Distribution of all-cause deaths (%),1230,140,0.948,0.046,,,,,
+OH,Ross County,Distribution of COVID-19 deaths (%),1230,140,0.957,,,,,,
+OH,Ross County,Distribution of population (%),1230,140,0.896,0.055,0.003,0.005,0,0.014,0.026
+OH,Scioto County,Distribution of all-cause deaths (%),1460,119,0.981,0.016,,,,,
+OH,Scioto County,Distribution of COVID-19 deaths (%),1460,119,0.992,,,,,,
+OH,Scioto County,Distribution of population (%),1460,119,0.932,0.026,0.005,0.004,0,0.014,0.019
+OH,Stark County,Distribution of all-cause deaths (%),5907,892,0.92,0.069,,0.003,,0.005,0.002
+OH,Stark County,Distribution of COVID-19 deaths (%),5907,892,0.934,0.055,,,,,
+OH,Stark County,Distribution of population (%),5907,892,0.862,0.078,0.002,0.009,0,0.022,0.026
+OH,Summit County,Distribution of all-cause deaths (%),7730,873,0.843,0.14,,0.009,,0.005,0.002
+OH,Summit County,Distribution of COVID-19 deaths (%),7730,873,0.835,0.144,,0.013,,,
+OH,Summit County,Distribution of population (%),7730,873,0.764,0.148,0.002,0.039,0,0.023,0.025
+OH,Trumbull County,Distribution of all-cause deaths (%),2615,316,0.908,0.082,,,,0.005,
+OH,Trumbull County,Distribution of COVID-19 deaths (%),2615,316,0.908,0.073,,,,,
+OH,Trumbull County,Distribution of population (%),2615,316,0.868,0.084,0.002,0.005,0,0.019,0.021
+OH,Tuscarawas County,Distribution of all-cause deaths (%),1404,221,0.985,0.009,,,,,
+OH,Tuscarawas County,Distribution of COVID-19 deaths (%),1404,221,0.986,,,,,,
+OH,Tuscarawas County,Distribution of population (%),1404,221,0.939,0.008,0.002,0.004,0.001,0.032,0.014
+OH,Warren County,Distribution of all-cause deaths (%),2260,221,0.949,0.039,,0.006,,0.004,
+OH,Warren County,Distribution of COVID-19 deaths (%),2260,221,0.937,0.059,,,,,
+OH,Warren County,Distribution of population (%),2260,221,0.853,0.036,0.002,0.062,0.001,0.029,0.018
+OH,Washington County,Distribution of all-cause deaths (%),1055,142,0.981,0.012,,,,,
+OH,Washington County,Distribution of COVID-19 deaths (%),1055,142,0.979,,,,,,
+OH,Washington County,Distribution of population (%),1055,142,0.949,0.013,0.003,0.007,0,0.012,0.017
+OH,Wayne County,Distribution of all-cause deaths (%),1355,180,0.979,0.015,,,,,
+OH,Wayne County,Distribution of COVID-19 deaths (%),1355,180,0.994,,,,,,
+OH,Wayne County,Distribution of population (%),1355,180,0.935,0.016,0.002,0.011,0,0.021,0.016
+OH,Wood County,Distribution of all-cause deaths (%),1430,123,0.957,0.016,,,,0.024,
+OH,Wood County,Distribution of COVID-19 deaths (%),1430,123,0.935,,,,,,
+OH,Wood County,Distribution of population (%),1430,123,0.88,0.026,0.002,0.018,0,0.057,0.017
+OK,Cleveland County,Distribution of all-cause deaths (%),2440,332,0.867,0.032,0.042,0.011,,0.025,0.022
+OK,Cleveland County,Distribution of COVID-19 deaths (%),2440,332,0.813,,0.069,,,0.054,
+OK,Cleveland County,Distribution of population (%),2440,332,0.707,0.052,0.046,0.047,0.001,0.092,0.055
+OK,Comanche County,Distribution of all-cause deaths (%),1367,151,0.71,0.129,0.07,0.012,0.007,0.059,0.012
+OK,Comanche County,Distribution of COVID-19 deaths (%),1367,151,0.675,0.139,0.066,,,0.086,
+OK,Comanche County,Distribution of population (%),1367,151,0.555,0.16,0.056,0.025,0.006,0.134,0.064
+OK,Garfield County,Distribution of all-cause deaths (%),934,166,0.909,0.024,0.025,,,0.022,
+OK,Garfield County,Distribution of COVID-19 deaths (%),934,166,0.855,,,,,,
+OK,Garfield County,Distribution of population (%),934,166,0.704,0.028,0.022,0.011,0.036,0.127,0.071
+OK,Muskogee County,Distribution of all-cause deaths (%),1172,157,0.705,0.107,0.147,,,0.016,0.022
+OK,Muskogee County,Distribution of COVID-19 deaths (%),1172,157,0.732,0.083,0.134,,,,
+OK,Muskogee County,Distribution of population (%),1172,157,0.554,0.105,0.184,0.006,0.001,0.066,0.084
+OK,Oklahoma County,Distribution of all-cause deaths (%),12776,1701,0.754,0.117,0.044,0.014,0.002,0.053,0.017
+OK,Oklahoma County,Distribution of COVID-19 deaths (%),12776,1701,0.688,0.105,0.064,0.022,,0.103,0.013
+OK,Oklahoma County,Distribution of population (%),12776,1701,0.554,0.152,0.031,0.035,0.001,0.179,0.047
+OK,Pottawatomie County,Distribution of all-cause deaths (%),991,109,0.845,0.028,0.092,,,0.011,0.017
+OK,Pottawatomie County,Distribution of COVID-19 deaths (%),991,109,0.78,,0.147,,,,
+OK,Pottawatomie County,Distribution of population (%),991,109,0.718,0.03,0.126,0.007,0.001,0.054,0.065
+OK,Tulsa County,Distribution of all-cause deaths (%),10434,1467,0.762,0.087,0.08,0.01,,0.029,0.032
+OK,Tulsa County,Distribution of COVID-19 deaths (%),10434,1467,0.729,0.063,0.11,0.019,,0.048,0.029
+OK,Tulsa County,Distribution of population (%),10434,1467,0.611,0.103,0.06,0.035,0.001,0.133,0.057
+OK,Washington County,Distribution of all-cause deaths (%),892,131,0.876,0.026,0.031,,,0.019,0.045
+OK,Washington County,Distribution of COVID-19 deaths (%),892,131,0.824,,,,,,
+OK,Washington County,Distribution of population (%),892,131,0.722,0.025,0.101,0.023,0.001,0.063,0.066
+OR,Clackamas County,Distribution of all-cause deaths (%),3913,149,0.927,0.009,0.003,0.023,,0.026,0.01
+OR,Clackamas County,Distribution of COVID-19 deaths (%),3913,149,0.859,,,,,0.067,
+OR,Clackamas County,Distribution of population (%),3913,149,0.809,0.01,0.007,0.047,0.003,0.09,0.034
+OR,Marion County,Distribution of all-cause deaths (%),3348,210,0.88,0.008,0.01,0.012,0.009,0.07,0.011
+OR,Marion County,Distribution of COVID-19 deaths (%),3348,210,0.776,,,,,0.181,
+OR,Marion County,Distribution of population (%),3348,210,0.641,0.011,0.01,0.022,0.009,0.27,0.036
+OR,Multnomah County,Distribution of all-cause deaths (%),8191,595,0.815,0.056,0.009,0.043,0.006,0.052,0.02
+OR,Multnomah County,Distribution of COVID-19 deaths (%),8191,595,0.703,0.05,,0.079,,0.143,
+OR,Multnomah County,Distribution of population (%),8191,595,0.687,0.056,0.007,0.079,0.006,0.119,0.046
+OR,Washington County,Distribution of all-cause deaths (%),4189,245,0.866,0.013,0.004,0.046,0.006,0.056,0.009
+OR,Washington County,Distribution of COVID-19 deaths (%),4189,245,0.747,,,0.045,,0.147,
+OR,Washington County,Distribution of population (%),4189,245,0.643,0.022,0.005,0.114,0.005,0.17,0.042
+PA,Adams County,Distribution of all-cause deaths (%),1062,119,0.975,0.01,,,,,
+PA,Adams County,Distribution of COVID-19 deaths (%),1062,119,0.992,,,,,,
+PA,Adams County,Distribution of population (%),1062,119,0.887,0.016,0.002,0.008,0,0.073,0.013
+PA,Allegheny County,Distribution of all-cause deaths (%),20609,2085,0.863,0.119,,0.008,,0.005,0.005
+PA,Allegheny County,Distribution of COVID-19 deaths (%),20609,2085,0.874,0.111,,0.008,,,
+PA,Allegheny County,Distribution of population (%),20609,2085,0.781,0.132,0.001,0.042,0,0.023,0.022
+PA,Beaver County,Distribution of all-cause deaths (%),2366,284,0.926,0.068,,,,,
+PA,Beaver County,Distribution of COVID-19 deaths (%),2366,284,0.901,0.092,,,,,
+PA,Beaver County,Distribution of population (%),2366,284,0.891,0.063,0.001,0.006,0,0.018,0.021
+PA,Berks County,Distribution of all-cause deaths (%),4915,770,0.869,0.033,,0.007,,0.089,0.002
+PA,Berks County,Distribution of COVID-19 deaths (%),4915,770,0.804,0.035,,,,0.151,
+PA,Berks County,Distribution of population (%),4915,770,0.703,0.043,0.001,0.014,0,0.224,0.014
+PA,Blair County,Distribution of all-cause deaths (%),2512,344,0.975,0.018,,,,,
+PA,Blair County,Distribution of COVID-19 deaths (%),2512,344,0.968,,,,,,
+PA,Blair County,Distribution of population (%),2512,344,0.945,0.019,0.001,0.007,0,0.013,0.014
+PA,Bradford County,Distribution of all-cause deaths (%),1095,116,0.986,,,,,,
+PA,Bradford County,Distribution of COVID-19 deaths (%),1095,116,0.991,,,,,,
+PA,Bradford County,Distribution of population (%),1095,116,0.957,0.007,0.002,0.006,0,0.016,0.012
+PA,Bucks County,Distribution of all-cause deaths (%),7553,1013,0.927,0.035,,0.019,,0.018,
+PA,Bucks County,Distribution of COVID-19 deaths (%),7553,1013,0.897,0.044,,0.023,,0.035,
+PA,Bucks County,Distribution of population (%),7553,1013,0.833,0.041,0.001,0.052,0,0.057,0.016
+PA,Butler County,Distribution of all-cause deaths (%),2504,362,0.986,0.006,,,,0.004,
+PA,Butler County,Distribution of COVID-19 deaths (%),2504,362,0.981,,,,,,
+PA,Butler County,Distribution of population (%),2504,362,0.944,0.013,0.001,0.014,0,0.016,0.011
+PA,Cambria County,Distribution of all-cause deaths (%),2342,357,0.965,0.03,,,,,
+PA,Cambria County,Distribution of COVID-19 deaths (%),2342,357,0.98,,,,,,
+PA,Cambria County,Distribution of population (%),2342,357,0.925,0.035,0.001,0.005,0,0.018,0.016
+PA,Centre County,Distribution of all-cause deaths (%),1345,210,0.973,0.012,,,,,
+PA,Centre County,Distribution of COVID-19 deaths (%),1345,210,0.967,,,,,,
+PA,Centre County,Distribution of population (%),1345,210,0.854,0.036,0.001,0.064,0.001,0.03,0.015
+PA,Chester County,Distribution of all-cause deaths (%),5325,779,0.889,0.071,,0.014,,0.021,0.004
+PA,Chester County,Distribution of COVID-19 deaths (%),5325,779,0.842,0.107,,0.017,,0.027,
+PA,Chester County,Distribution of population (%),5325,779,0.787,0.057,0.001,0.061,0,0.076,0.017
+PA,Clearfield County,Distribution of all-cause deaths (%),1163,112,0.985,,,,,,
+PA,Clearfield County,Distribution of COVID-19 deaths (%),1163,112,0.955,,,,,,
+PA,Clearfield County,Distribution of population (%),1163,112,0.928,0.026,0.001,0.006,0,0.031,0.008
+PA,Crawford County,Distribution of all-cause deaths (%),1096,123,0.98,0.017,,,,,
+PA,Crawford County,Distribution of COVID-19 deaths (%),1096,123,0.976,,,,,,
+PA,Crawford County,Distribution of population (%),1096,123,0.946,0.019,0.002,0.006,0,0.014,0.012
+PA,Cumberland County,Distribution of all-cause deaths (%),3369,533,0.936,0.035,,0.011,,0.015,
+PA,Cumberland County,Distribution of COVID-19 deaths (%),3369,533,0.931,0.045,,,,,
+PA,Cumberland County,Distribution of population (%),3369,533,0.846,0.042,0.001,0.047,0,0.043,0.02
+PA,Dauphin County,Distribution of all-cause deaths (%),4331,578,0.8,0.132,,0.021,,0.04,0.004
+PA,Dauphin County,Distribution of COVID-19 deaths (%),4331,578,0.737,0.168,,0.045,,0.045,
+PA,Dauphin County,Distribution of population (%),4331,578,0.645,0.174,0.002,0.052,0,0.099,0.028
+PA,Delaware County,Distribution of all-cause deaths (%),6498,1114,0.747,0.219,,0.017,,0.015,0.002
+PA,Delaware County,Distribution of COVID-19 deaths (%),6498,1114,0.682,0.269,,0.025,,0.023,
+PA,Delaware County,Distribution of population (%),6498,1114,0.656,0.219,0.001,0.062,0,0.041,0.02
+PA,Erie County,Distribution of all-cause deaths (%),4201,433,0.922,0.055,,0.005,,0.015,0.002
+PA,Erie County,Distribution of COVID-19 deaths (%),4201,433,0.915,0.051,,,,,
+PA,Erie County,Distribution of population (%),4201,433,0.84,0.073,0.002,0.019,0,0.044,0.022
+PA,Fayette County,Distribution of all-cause deaths (%),1741,210,0.955,0.037,,,,,
+PA,Fayette County,Distribution of COVID-19 deaths (%),1741,210,0.948,0.052,,,,,
+PA,Fayette County,Distribution of population (%),1741,210,0.915,0.047,0.002,0.004,0.002,0.013,0.019
+PA,Franklin County,Distribution of all-cause deaths (%),2004,304,0.949,0.028,,,,0.016,
+PA,Franklin County,Distribution of COVID-19 deaths (%),2004,304,0.918,0.043,,,,0.033,
+PA,Franklin County,Distribution of population (%),2004,304,0.874,0.035,0.002,0.01,0,0.061,0.018
+PA,Indiana County,Distribution of all-cause deaths (%),1030,119,0.981,0.014,,,,,
+PA,Indiana County,Distribution of COVID-19 deaths (%),1030,119,0.983,,,,,,
+PA,Indiana County,Distribution of population (%),1030,119,0.937,0.027,0.001,0.011,0,0.014,0.01
+PA,Lackawanna County,Distribution of all-cause deaths (%),3703,422,0.95,0.019,,0.006,,0.019,0.005
+PA,Lackawanna County,Distribution of COVID-19 deaths (%),3703,422,0.95,,,,,,
+PA,Lackawanna County,Distribution of population (%),3703,422,0.837,0.031,0.001,0.03,0,0.084,0.015
+PA,Lancaster County,Distribution of all-cause deaths (%),6593,905,0.919,0.025,,0.008,,0.042,0.004
+PA,Lancaster County,Distribution of COVID-19 deaths (%),6593,905,0.907,0.02,,0.014,,0.053,
+PA,Lancaster County,Distribution of population (%),6593,905,0.812,0.036,0.001,0.024,0,0.11,0.016
+PA,Lawrence County,Distribution of all-cause deaths (%),1290,135,0.94,0.047,,,,,
+PA,Lawrence County,Distribution of COVID-19 deaths (%),1290,135,0.926,,,,,,
+PA,Lawrence County,Distribution of population (%),1290,135,0.916,0.042,0.001,0.004,0,0.016,0.02
+PA,Lebanon County,Distribution of all-cause deaths (%),1858,210,0.929,0.01,,0.005,,0.05,
+PA,Lebanon County,Distribution of COVID-19 deaths (%),1858,210,0.943,,,,,0.052,
+PA,Lebanon County,Distribution of population (%),1858,210,0.81,0.021,0.001,0.014,0,0.141,0.012
+PA,Lehigh County,Distribution of all-cause deaths (%),6313,1109,0.865,0.038,,0.01,,0.083,0.003
+PA,Lehigh County,Distribution of COVID-19 deaths (%),6313,1109,0.811,0.041,,0.013,,0.133,
+PA,Lehigh County,Distribution of population (%),6313,1109,0.625,0.059,0.001,0.036,0,0.262,0.016
+PA,Luzerne County,Distribution of all-cause deaths (%),5119,653,0.944,0.023,,0.004,,0.027,
+PA,Luzerne County,Distribution of COVID-19 deaths (%),5119,653,0.928,0.023,,,,0.046,
+PA,Luzerne County,Distribution of population (%),5119,653,0.793,0.042,0.001,0.013,0,0.138,0.013
+PA,Lycoming County,Distribution of all-cause deaths (%),1806,273,0.951,0.035,,,,,
+PA,Lycoming County,Distribution of COVID-19 deaths (%),1806,273,0.978,,,,,,
+PA,Lycoming County,Distribution of population (%),1806,273,0.903,0.046,0.002,0.007,0,0.021,0.021
+PA,Mercer County,Distribution of all-cause deaths (%),1707,214,0.943,0.047,,,,,
+PA,Mercer County,Distribution of COVID-19 deaths (%),1707,214,0.935,0.056,,,,,
+PA,Mercer County,Distribution of population (%),1707,214,0.9,0.057,0.002,0.007,0,0.016,0.018
+PA,Mifflin County,Distribution of all-cause deaths (%),785,174,0.99,,,,,,
+PA,Mifflin County,Distribution of COVID-19 deaths (%),785,174,1,,,,,,
+PA,Mifflin County,Distribution of population (%),785,174,0.956,0.008,0.002,0.007,0,0.017,0.011
+PA,Monroe County,Distribution of all-cause deaths (%),1752,232,0.816,0.098,,0.01,,0.071,
+PA,Monroe County,Distribution of COVID-19 deaths (%),1752,232,0.789,0.125,,,,0.069,
+PA,Monroe County,Distribution of population (%),1752,232,0.645,0.137,0.002,0.025,0.001,0.169,0.021
+PA,Montgomery County,Distribution of all-cause deaths (%),11081,1902,0.791,0.156,,0.027,,0.022,0.003
+PA,Montgomery County,Distribution of COVID-19 deaths (%),11081,1902,0.698,0.226,,0.04,,0.033,
+PA,Montgomery County,Distribution of population (%),11081,1902,0.75,0.094,0.001,0.08,0,0.054,0.02
+PA,Montour County,Distribution of all-cause deaths (%),1648,306,0.963,0.017,,,,0.01,
+PA,Montour County,Distribution of COVID-19 deaths (%),1648,306,0.967,,,,,,
+PA,Montour County,Distribution of population (%),1648,306,0.907,0.017,0.002,0.034,0,0.029,0.011
+PA,Northampton County,Distribution of all-cause deaths (%),3396,460,0.903,0.039,,0.007,,0.048,
+PA,Northampton County,Distribution of COVID-19 deaths (%),3396,460,0.896,0.037,,,,0.05,
+PA,Northampton County,Distribution of population (%),3396,460,0.754,0.056,0.001,0.029,0,0.141,0.018
+PA,Northumberland County,Distribution of all-cause deaths (%),1117,199,0.977,0.011,,,,,
+PA,Northumberland County,Distribution of COVID-19 deaths (%),1117,199,0.985,,,,,,
+PA,Northumberland County,Distribution of population (%),1117,199,0.917,0.026,0.002,0.004,0,0.039,0.011
+PA,Philadelphia County,Distribution of all-cause deaths (%),20226,2773,0.441,0.439,0,0.037,,0.078,0.004
+PA,Philadelphia County,Distribution of COVID-19 deaths (%),20226,2773,0.384,0.455,,0.058,,0.1,
+PA,Philadelphia County,Distribution of population (%),20226,2773,0.343,0.405,0.002,0.076,0,0.152,0.02
+PA,Schuylkill County,Distribution of all-cause deaths (%),2012,259,0.972,0.01,,,,0.011,
+PA,Schuylkill County,Distribution of COVID-19 deaths (%),2012,259,0.958,,,,,,
+PA,Schuylkill County,Distribution of population (%),2012,259,0.901,0.03,0.002,0.006,0,0.052,0.01
+PA,Somerset County,Distribution of all-cause deaths (%),1154,173,0.975,0.021,,,,,
+PA,Somerset County,Distribution of COVID-19 deaths (%),1154,173,0.988,,,,,,
+PA,Somerset County,Distribution of population (%),1154,173,0.941,0.03,0.001,0.005,0,0.016,0.007
+PA,Union County,Distribution of all-cause deaths (%),609,112,0.985,,,,,,
+PA,Union County,Distribution of COVID-19 deaths (%),609,112,0.991,,,,,,
+PA,Union County,Distribution of population (%),609,112,0.841,0.064,0.003,0.017,0.001,0.06,0.013
+PA,Washington County,Distribution of all-cause deaths (%),2947,216,0.938,0.049,,,,0.005,0.006
+PA,Washington County,Distribution of COVID-19 deaths (%),2947,216,0.917,0.065,,,,,
+PA,Washington County,Distribution of population (%),2947,216,0.919,0.032,0.001,0.011,0,0.018,0.018
+PA,Westmoreland County,Distribution of all-cause deaths (%),4573,490,0.972,0.021,,,,0.002,0.002
+PA,Westmoreland County,Distribution of COVID-19 deaths (%),4573,490,0.976,,,,,,
+PA,Westmoreland County,Distribution of population (%),4573,490,0.936,0.025,0.001,0.01,0,0.013,0.015
+PA,York County,Distribution of all-cause deaths (%),5285,645,0.911,0.05,,0.005,,0.03,0.004
+PA,York County,Distribution of COVID-19 deaths (%),5285,645,0.89,0.054,,,,0.048,
+PA,York County,Distribution of population (%),5285,645,0.826,0.058,0.002,0.015,0,0.081,0.019
+RI,Kent County,Distribution of all-cause deaths (%),1908,252,0.968,0.011,,0.01,,0.007,
+RI,Kent County,Distribution of COVID-19 deaths (%),1908,252,0.948,,,,,,
+RI,Kent County,Distribution of population (%),1908,252,0.874,0.019,0.003,0.028,0,0.057,0.019
+RI,Providence County,Distribution of all-cause deaths (%),8720,1764,0.862,0.049,0.003,0.015,,0.064,0.006
+RI,Providence County,Distribution of COVID-19 deaths (%),8720,1764,0.815,0.059,,0.02,,0.1,
+RI,Providence County,Distribution of population (%),8720,1764,0.6,0.088,0.004,0.044,0.001,0.239,0.024
+RI,Washington County,Distribution of all-cause deaths (%),1292,120,0.976,,0.009,,,,
+RI,Washington County,Distribution of COVID-19 deaths (%),1292,120,0.975,,,,,,
+RI,Washington County,Distribution of population (%),1292,120,0.908,0.013,0.008,0.02,0,0.034,0.017
+SC,Aiken County,Distribution of all-cause deaths (%),1981,150,0.733,0.248,,,,0.012,
+SC,Aiken County,Distribution of COVID-19 deaths (%),1981,150,0.573,0.4,,,,,
+SC,Aiken County,Distribution of population (%),1981,150,0.657,0.248,0.004,0.012,0,0.059,0.02
+SC,Anderson County,Distribution of all-cause deaths (%),2977,343,0.831,0.152,,0.004,,0.009,
+SC,Anderson County,Distribution of COVID-19 deaths (%),2977,343,0.787,0.175,,,,0.032,
+SC,Anderson County,Distribution of population (%),2977,343,0.771,0.16,0.002,0.01,0,0.04,0.017
+SC,Beaufort County,Distribution of all-cause deaths (%),1791,119,0.799,0.173,,,,0.02,
+SC,Beaufort County,Distribution of COVID-19 deaths (%),1791,119,0.605,0.336,,,,,
+SC,Beaufort County,Distribution of population (%),1791,119,0.684,0.172,0.002,0.014,0.001,0.111,0.017
+SC,Charleston County,Distribution of all-cause deaths (%),5707,541,0.642,0.324,0.003,0.007,,0.02,0.004
+SC,Charleston County,Distribution of COVID-19 deaths (%),5707,541,0.519,0.427,,,,0.037,
+SC,Charleston County,Distribution of population (%),5707,541,0.652,0.259,0.002,0.018,0.001,0.053,0.016
+SC,Florence County,Distribution of all-cause deaths (%),3566,553,0.557,0.426,0.007,0.003,,0.007,
+SC,Florence County,Distribution of COVID-19 deaths (%),3566,553,0.452,0.517,,,,,
+SC,Florence County,Distribution of population (%),3566,553,0.512,0.427,0.003,0.016,0.001,0.028,0.014
+SC,Georgetown County,Distribution of all-cause deaths (%),1139,140,0.745,0.241,,,,0.01,
+SC,Georgetown County,Distribution of COVID-19 deaths (%),1139,140,0.721,0.271,,,,,
+SC,Georgetown County,Distribution of population (%),1139,140,0.65,0.301,0.002,0.005,0,0.032,0.01
+SC,Greenville County,Distribution of all-cause deaths (%),6414,705,0.802,0.169,,0.007,,0.02,
+SC,Greenville County,Distribution of COVID-19 deaths (%),6414,705,0.756,0.193,,,,0.037,
+SC,Greenville County,Distribution of population (%),6414,705,0.679,0.178,0.002,0.026,0.001,0.095,0.018
+SC,Greenwood County,Distribution of all-cause deaths (%),1290,171,0.684,0.302,,,,0.009,
+SC,Greenwood County,Distribution of COVID-19 deaths (%),1290,171,0.632,0.339,,,,,
+SC,Greenwood County,Distribution of population (%),1290,171,0.594,0.316,0.002,0.013,0,0.062,0.013
+SC,Horry County,Distribution of all-cause deaths (%),4840,421,0.86,0.112,0.003,0.004,,0.018,0.002
+SC,Horry County,Distribution of COVID-19 deaths (%),4840,421,0.791,0.173,,,,0.031,
+SC,Horry County,Distribution of population (%),4840,421,0.776,0.125,0.004,0.013,0.001,0.061,0.019
+SC,Lexington County,Distribution of all-cause deaths (%),3323,324,0.813,0.159,,0.008,,0.015,0.003
+SC,Lexington County,Distribution of COVID-19 deaths (%),3323,324,0.741,0.231,,,,,
+SC,Lexington County,Distribution of population (%),3323,324,0.741,0.152,0.004,0.022,0.001,0.063,0.019
+SC,Orangeburg County,Distribution of all-cause deaths (%),1299,170,0.422,0.567,,,,,
+SC,Orangeburg County,Distribution of COVID-19 deaths (%),1299,170,0.353,0.635,,,,,
+SC,Orangeburg County,Distribution of population (%),1299,170,0.333,0.615,0.006,0.009,0,0.024,0.013
+SC,Pickens County,Distribution of all-cause deaths (%),1122,107,0.933,0.054,,,,,
+SC,Pickens County,Distribution of COVID-19 deaths (%),1122,107,0.86,0.093,,,,,
+SC,Pickens County,Distribution of population (%),1122,107,0.852,0.07,0.002,0.02,0,0.039,0.017
+SC,Richland County,Distribution of all-cause deaths (%),4907,512,0.52,0.448,,0.008,,0.02,
+SC,Richland County,Distribution of COVID-19 deaths (%),4907,512,0.475,0.48,,,,0.029,
+SC,Richland County,Distribution of population (%),4907,512,0.414,0.477,0.003,0.029,0.001,0.053,0.022
+SC,Spartanburg County,Distribution of all-cause deaths (%),4640,655,0.792,0.182,,0.008,,0.016,
+SC,Spartanburg County,Distribution of COVID-19 deaths (%),4640,655,0.742,0.212,,,,0.038,
+SC,Spartanburg County,Distribution of population (%),4640,655,0.677,0.204,0.002,0.025,0,0.073,0.018
+SC,Sumter County,Distribution of all-cause deaths (%),1337,126,0.511,0.473,,,,0.008,
+SC,Sumter County,Distribution of COVID-19 deaths (%),1337,126,0.429,0.532,,,,,
+SC,Sumter County,Distribution of population (%),1337,126,0.447,0.472,0.004,0.014,0.001,0.042,0.02
+SC,York County,Distribution of all-cause deaths (%),2584,166,0.785,0.187,0.006,0.005,,0.015,
+SC,York County,Distribution of COVID-19 deaths (%),2584,166,0.705,0.253,,,,,
+SC,York County,Distribution of population (%),2584,166,0.697,0.188,0.007,0.027,0,0.059,0.021
+SD,Brown County,Distribution of all-cause deaths (%),547,103,0.943,,0.042,,,,
+SD,Brown County,Distribution of COVID-19 deaths (%),547,103,0.903,,0.097,,,,
+SD,Brown County,Distribution of population (%),547,103,0.86,0.022,0.032,0.028,0.002,0.036,0.022
+SD,Minnehaha County,Distribution of all-cause deaths (%),3309,699,0.879,0.013,0.076,0.01,,0.016,0.006
+SD,Minnehaha County,Distribution of COVID-19 deaths (%),3309,699,0.811,,0.134,0.021,,0.019,
+SD,Minnehaha County,Distribution of population (%),3309,699,0.819,0.06,0.024,0.021,0,0.051,0.024
+SD,Pennington County,Distribution of all-cause deaths (%),1555,199,0.798,,0.171,,,0.017,0.01
+SD,Pennington County,Distribution of COVID-19 deaths (%),1555,199,0.754,,0.231,,,,
+SD,Pennington County,Distribution of population (%),1555,199,0.797,0.013,0.089,0.012,0.001,0.054,0.035
+TN,Anderson County,Distribution of all-cause deaths (%),1415,146,0.954,0.033,,,,,
+TN,Anderson County,Distribution of COVID-19 deaths (%),1415,146,0.945,,,,,,
+TN,Anderson County,Distribution of population (%),1415,146,0.888,0.04,0.004,0.015,0.001,0.032,0.021
+TN,Blount County,Distribution of all-cause deaths (%),1701,139,0.967,0.022,,,,0.007,
+TN,Blount County,Distribution of COVID-19 deaths (%),1701,139,0.957,,,,,,
+TN,Blount County,Distribution of population (%),1701,139,0.905,0.029,0.003,0.009,0.001,0.036,0.017
+TN,Bradley County,Distribution of all-cause deaths (%),1380,110,0.954,0.029,,,,0.015,
+TN,Bradley County,Distribution of COVID-19 deaths (%),1380,110,0.982,,,,,,
+TN,Bradley County,Distribution of population (%),1380,110,0.851,0.049,0.003,0.011,0.001,0.066,0.019
+TN,Davidson County,Distribution of all-cause deaths (%),11965,1527,0.738,0.212,0.001,0.012,,0.032,0.004
+TN,Davidson County,Distribution of COVID-19 deaths (%),11965,1527,0.703,0.2,,0.016,,0.074,
+TN,Davidson County,Distribution of population (%),11965,1527,0.563,0.268,0.003,0.039,0.001,0.104,0.023
+TN,Dickson County,Distribution of all-cause deaths (%),736,125,0.947,0.041,,,,,
+TN,Dickson County,Distribution of COVID-19 deaths (%),736,125,0.944,,,,,,
+TN,Dickson County,Distribution of population (%),736,125,0.893,0.039,0.004,0.006,0.001,0.039,0.019
+TN,Hamblen County,Distribution of all-cause deaths (%),1101,127,0.938,0.042,,,,0.012,
+TN,Hamblen County,Distribution of COVID-19 deaths (%),1101,127,0.89,,,,,,
+TN,Hamblen County,Distribution of population (%),1101,127,0.808,0.038,0.002,0.009,0.002,0.121,0.019
+TN,Hamilton County,Distribution of all-cause deaths (%),6781,660,0.836,0.137,,0.007,,0.018,0.002
+TN,Hamilton County,Distribution of COVID-19 deaths (%),6781,660,0.756,0.191,,,,0.042,
+TN,Hamilton County,Distribution of population (%),6781,660,0.709,0.19,0.002,0.021,0.001,0.06,0.017
+TN,Knox County,Distribution of all-cause deaths (%),8338,825,0.918,0.062,0.001,0.005,,0.011,0.002
+TN,Knox County,Distribution of COVID-19 deaths (%),8338,825,0.912,0.053,,,,0.022,
+TN,Knox County,Distribution of population (%),8338,825,0.819,0.087,0.002,0.024,0.001,0.046,0.022
+TN,Madison County,Distribution of all-cause deaths (%),2709,572,0.709,0.277,,,,0.009,
+TN,Madison County,Distribution of COVID-19 deaths (%),2709,572,0.698,0.287,,,,,
+TN,Madison County,Distribution of population (%),2709,572,0.556,0.374,0.002,0.011,0,0.041,0.016
+TN,Maury County,Distribution of all-cause deaths (%),1529,217,0.882,0.101,,,,0.01,
+TN,Maury County,Distribution of COVID-19 deaths (%),1529,217,0.857,0.134,,,,,
+TN,Maury County,Distribution of population (%),1529,217,0.786,0.118,0.003,0.009,0,0.062,0.021
+TN,Montgomery County,Distribution of all-cause deaths (%),1717,146,0.761,0.192,,0.009,,0.029,0.006
+TN,Montgomery County,Distribution of COVID-19 deaths (%),1717,146,0.747,0.205,,,,,
+TN,Montgomery County,Distribution of population (%),1717,146,0.621,0.203,0.005,0.022,0.004,0.102,0.045
+TN,Putnam County,Distribution of all-cause deaths (%),1511,209,0.974,0.01,,,,0.011,
+TN,Putnam County,Distribution of COVID-19 deaths (%),1511,209,0.962,,,,,,
+TN,Putnam County,Distribution of population (%),1511,209,0.879,0.022,0.003,0.014,0,0.065,0.016
+TN,Rutherford County,Distribution of all-cause deaths (%),3428,517,0.836,0.123,,0.013,,0.025,
+TN,Rutherford County,Distribution of COVID-19 deaths (%),3428,517,0.795,0.141,,,,0.05,
+TN,Rutherford County,Distribution of population (%),3428,517,0.691,0.158,0.003,0.035,0.001,0.087,0.026
+TN,Sevier County,Distribution of all-cause deaths (%),1171,106,0.97,,,0.009,,0.01,
+TN,Sevier County,Distribution of COVID-19 deaths (%),1171,106,0.962,,,,,,
+TN,Sevier County,Distribution of population (%),1171,106,0.893,0.012,0.004,0.012,0,0.064,0.015
+TN,Shelby County,Distribution of all-cause deaths (%),13426,1450,0.456,0.511,0.001,0.008,,0.02,0.004
+TN,Shelby County,Distribution of COVID-19 deaths (%),13426,1450,0.397,0.559,,0.009,,0.032,
+TN,Shelby County,Distribution of population (%),13426,1450,0.353,0.537,0.002,0.028,0,0.066,0.015
+TN,Sullivan County,Distribution of all-cause deaths (%),3984,443,0.977,0.017,,,,0.003,
+TN,Sullivan County,Distribution of COVID-19 deaths (%),3984,443,0.973,,,,,,
+TN,Sullivan County,Distribution of population (%),3984,443,0.931,0.022,0.003,0.008,0,0.02,0.015
+TN,Sumner County,Distribution of all-cause deaths (%),2017,269,0.915,0.062,,0.008,,0.012,
+TN,Sumner County,Distribution of COVID-19 deaths (%),2017,269,0.885,0.074,,,,,
+TN,Sumner County,Distribution of population (%),2017,269,0.83,0.08,0.003,0.015,0.001,0.053,0.019
+TN,Washington County,Distribution of all-cause deaths (%),2959,374,0.957,0.029,,,,0.01,
+TN,Washington County,Distribution of COVID-19 deaths (%),2959,374,0.955,,,,,,
+TN,Washington County,Distribution of population (%),2959,374,0.882,0.043,0.003,0.017,0,0.036,0.019
+TN,Williamson County,Distribution of all-cause deaths (%),1551,191,0.912,0.054,,0.015,,0.015,
+TN,Williamson County,Distribution of COVID-19 deaths (%),1551,191,0.864,0.073,,,,,
+TN,Williamson County,Distribution of population (%),1551,191,0.837,0.043,0.002,0.051,0,0.049,0.017
+TN,Wilson County,Distribution of all-cause deaths (%),1262,121,0.9,0.086,,,,,
+TN,Wilson County,Distribution of COVID-19 deaths (%),1262,121,0.926,,,,,,
+TN,Wilson County,Distribution of population (%),1262,121,0.841,0.073,0.003,0.018,0.001,0.046,0.018
+TX,Angelina County,Distribution of all-cause deaths (%),1379,226,0.766,0.152,,,,0.078,
+TX,Angelina County,Distribution of COVID-19 deaths (%),1379,226,0.646,0.168,,,,0.177,
+TX,Angelina County,Distribution of population (%),1379,226,0.599,0.15,0.003,0.009,0,0.227,0.012
+TX,Bell County,Distribution of all-cause deaths (%),3695,396,0.667,0.178,,0.021,0.004,0.123,0.005
+TX,Bell County,Distribution of COVID-19 deaths (%),3695,396,0.624,0.172,,,,0.174,
+TX,Bell County,Distribution of population (%),3695,396,0.443,0.221,0.005,0.029,0.007,0.254,0.043
+TX,Bexar County,Distribution of all-cause deaths (%),21009,3472,0.404,0.07,0.001,0.012,0.001,0.51,0.002
+TX,Bexar County,Distribution of COVID-19 deaths (%),21009,3472,0.243,0.041,,0.009,,0.704,
+TX,Bexar County,Distribution of population (%),21009,3472,0.271,0.074,0.002,0.03,0.001,0.606,0.016
+TX,Bowie County,Distribution of all-cause deaths (%),1947,324,0.737,0.241,,,,0.016,
+TX,Bowie County,Distribution of COVID-19 deaths (%),1947,324,0.716,0.25,,,,,
+TX,Bowie County,Distribution of population (%),1947,324,0.631,0.25,0.007,0.012,0.001,0.078,0.022
+TX,Brazoria County,Distribution of all-cause deaths (%),2620,274,0.613,0.21,,0.022,,0.153,
+TX,Brazoria County,Distribution of COVID-19 deaths (%),2620,274,0.383,0.277,,,,0.303,
+TX,Brazoria County,Distribution of population (%),2620,274,0.453,0.144,0.003,0.068,0,0.316,0.017
+TX,Brazos County,Distribution of all-cause deaths (%),2012,347,0.724,0.146,,0.01,,0.117,
+TX,Brazos County,Distribution of COVID-19 deaths (%),2012,347,0.605,0.19,,,,0.196,
+TX,Brazos County,Distribution of population (%),2012,347,0.551,0.106,0.003,0.062,0.001,0.262,0.016
+TX,Brown County,Distribution of all-cause deaths (%),656,106,0.86,0.027,,,,0.102,
+TX,Brown County,Distribution of COVID-19 deaths (%),656,106,0.802,,,,,0.151,
+TX,Brown County,Distribution of population (%),656,106,0.706,0.036,0.005,0.007,0,0.231,0.015
+TX,Cameron County,Distribution of all-cause deaths (%),4923,1442,0.166,0.003,,0.003,,0.828,
+TX,Cameron County,Distribution of COVID-19 deaths (%),4923,1442,0.081,,,,,0.916,
+TX,Cameron County,Distribution of population (%),4923,1442,0.086,0.004,0.001,0.007,0,0.9,0.002
+TX,Collin County,Distribution of all-cause deaths (%),7868,1049,0.76,0.087,0.002,0.064,,0.082,0.004
+TX,Collin County,Distribution of COVID-19 deaths (%),7868,1049,0.655,0.087,,0.078,,0.17,
+TX,Collin County,Distribution of population (%),7868,1049,0.55,0.104,0.004,0.161,0.001,0.155,0.024
+TX,Comal County,Distribution of all-cause deaths (%),1786,269,0.789,0.018,,,,0.185,
+TX,Comal County,Distribution of COVID-19 deaths (%),1786,269,0.587,,,,,0.394,
+TX,Comal County,Distribution of population (%),1786,269,0.665,0.023,0.004,0.013,0.001,0.28,0.015
+TX,Dallas County,Distribution of all-cause deaths (%),22330,2995,0.5,0.275,0.002,0.027,,0.193,0.002
+TX,Dallas County,Distribution of COVID-19 deaths (%),22330,2995,0.343,0.222,,0.03,,0.399,
+TX,Dallas County,Distribution of population (%),22330,2995,0.283,0.227,0.003,0.065,0,0.407,0.015
+TX,Denton County,Distribution of all-cause deaths (%),5316,662,0.81,0.071,,0.036,,0.079,0.002
+TX,Denton County,Distribution of COVID-19 deaths (%),5316,662,0.711,0.079,,0.035,,0.172,
+TX,Denton County,Distribution of population (%),5316,662,0.576,0.105,0.004,0.095,0.001,0.196,0.023
+TX,Ector County,Distribution of all-cause deaths (%),1940,407,0.514,0.049,,0.007,,0.425,
+TX,Ector County,Distribution of COVID-19 deaths (%),1940,407,0.31,0.039,,,,0.641,
+TX,Ector County,Distribution of population (%),1940,407,0.304,0.044,0.004,0.011,0.002,0.625,0.011
+TX,Ellis County,Distribution of all-cause deaths (%),1529,195,0.758,0.117,,,,0.118,
+TX,Ellis County,Distribution of COVID-19 deaths (%),1529,195,0.6,0.133,,,,0.262,
+TX,Ellis County,Distribution of population (%),1529,195,0.588,0.116,0.004,0.007,0.001,0.269,0.015
+TX,El Paso County,Distribution of all-cause deaths (%),9441,2420,0.176,0.024,0.003,0.004,0.001,0.789,0.003
+TX,El Paso County,Distribution of COVID-19 deaths (%),9441,2420,0.085,0.013,,,,0.896,
+TX,El Paso County,Distribution of population (%),9441,2420,0.116,0.031,0.003,0.011,0.001,0.828,0.01
+TX,Fort Bend County,Distribution of all-cause deaths (%),4409,477,0.477,0.231,,0.114,,0.171,0.005
+TX,Fort Bend County,Distribution of COVID-19 deaths (%),4409,477,0.319,0.226,,0.117,,0.338,
+TX,Fort Bend County,Distribution of population (%),4409,477,0.319,0.204,0.002,0.206,0,0.249,0.019
+TX,Galveston County,Distribution of all-cause deaths (%),3380,464,0.641,0.171,,0.018,,0.166,0.003
+TX,Galveston County,Distribution of COVID-19 deaths (%),3380,464,0.425,0.188,,0.022,,0.364,
+TX,Galveston County,Distribution of population (%),3380,464,0.567,0.125,0.004,0.033,0.001,0.254,0.017
+TX,Grayson County,Distribution of all-cause deaths (%),2334,393,0.906,0.048,0.013,,,0.029,
+TX,Grayson County,Distribution of COVID-19 deaths (%),2334,393,0.873,0.051,,,,0.046,
+TX,Grayson County,Distribution of population (%),2334,393,0.746,0.058,0.014,0.015,0.001,0.142,0.024
+TX,Gregg County,Distribution of all-cause deaths (%),2425,410,0.734,0.21,,0.006,,0.045,0.004
+TX,Gregg County,Distribution of COVID-19 deaths (%),2425,410,0.671,0.22,,,,0.09,
+TX,Gregg County,Distribution of population (%),2425,410,0.57,0.202,0.004,0.013,0,0.192,0.018
+TX,Guadalupe County,Distribution of all-cause deaths (%),1194,121,0.636,0.071,,,,0.284,
+TX,Guadalupe County,Distribution of COVID-19 deaths (%),1194,121,0.38,,,,,0.554,
+TX,Guadalupe County,Distribution of population (%),1194,121,0.492,0.079,0.003,0.018,0.002,0.384,0.022
+TX,Harris County,Distribution of all-cause deaths (%),39445,5057,0.475,0.231,0.001,0.048,0.001,0.241,0.003
+TX,Harris County,Distribution of COVID-19 deaths (%),39445,5057,0.308,0.167,,0.056,,0.466,0.002
+TX,Harris County,Distribution of population (%),39445,5057,0.287,0.188,0.002,0.071,0.001,0.437,0.015
+TX,Hays County,Distribution of all-cause deaths (%),1492,131,0.659,0.039,,0.008,,0.288,
+TX,Hays County,Distribution of COVID-19 deaths (%),1492,131,0.458,,,,,0.504,
+TX,Hays County,Distribution of population (%),1492,131,0.525,0.039,0.003,0.015,0.001,0.401,0.017
+TX,Hidalgo County,Distribution of all-cause deaths (%),8086,2367,0.124,,,0.002,,0.872,
+TX,Hidalgo County,Distribution of COVID-19 deaths (%),8086,2367,0.056,,,,,0.943,
+TX,Hidalgo County,Distribution of population (%),8086,2367,0.059,0.004,0.001,0.009,0,0.925,0.002
+TX,Hopkins County,Distribution of all-cause deaths (%),587,115,0.922,0.056,,,,0.019,
+TX,Hopkins County,Distribution of COVID-19 deaths (%),587,115,0.93,,,,,,
+TX,Hopkins County,Distribution of population (%),587,115,0.727,0.071,0.005,0.006,0.001,0.174,0.015
+TX,Hunt County,Distribution of all-cause deaths (%),1095,123,0.875,0.066,,,,0.053,
+TX,Hunt County,Distribution of COVID-19 deaths (%),1095,123,0.837,,,,,0.122,
+TX,Hunt County,Distribution of population (%),1095,123,0.703,0.078,0.008,0.014,0.001,0.176,0.019
+TX,Jefferson County,Distribution of all-cause deaths (%),3991,493,0.644,0.292,,0.012,,0.049,
+TX,Jefferson County,Distribution of COVID-19 deaths (%),3991,493,0.629,0.252,,,,0.108,
+TX,Jefferson County,Distribution of population (%),3991,493,0.393,0.331,0.003,0.038,0,0.221,0.014
+TX,Lamar County,Distribution of all-cause deaths (%),956,168,0.839,0.122,0.021,,,0.013,
+TX,Lamar County,Distribution of COVID-19 deaths (%),956,168,0.762,0.137,0.071,,,,
+TX,Lamar County,Distribution of population (%),956,168,0.735,0.132,0.014,0.008,0,0.084,0.028
+TX,Lubbock County,Distribution of all-cause deaths (%),5361,1322,0.605,0.064,0.002,0.008,,0.32,
+TX,Lubbock County,Distribution of COVID-19 deaths (%),5361,1322,0.454,0.047,,,,0.493,
+TX,Lubbock County,Distribution of population (%),5361,1322,0.526,0.07,0.004,0.022,0.001,0.363,0.014
+TX,McLennan County,Distribution of all-cause deaths (%),3388,533,0.731,0.15,,0.006,,0.107,
+TX,McLennan County,Distribution of COVID-19 deaths (%),3388,533,0.644,0.124,,,,0.216,
+TX,McLennan County,Distribution of population (%),3388,533,0.554,0.139,0.003,0.016,0.001,0.27,0.017
+TX,Maverick County,Distribution of all-cause deaths (%),523,133,,,,,,0.973,
+TX,Maverick County,Distribution of COVID-19 deaths (%),523,133,,,,,,0.992,
+TX,Maverick County,Distribution of population (%),523,133,0.027,0.003,0.011,0.006,0,0.951,0.002
+TX,Midland County,Distribution of all-cause deaths (%),1531,293,0.62,0.068,,,,0.304,
+TX,Midland County,Distribution of COVID-19 deaths (%),1531,293,0.423,0.065,,,,0.509,
+TX,Midland County,Distribution of population (%),1531,293,0.44,0.062,0.005,0.021,0.001,0.46,0.012
+TX,Montgomery County,Distribution of all-cause deaths (%),6579,749,0.772,0.094,,0.017,,0.112,0.003
+TX,Montgomery County,Distribution of COVID-19 deaths (%),6579,749,0.565,0.124,,0.017,,0.287,
+TX,Montgomery County,Distribution of population (%),6579,749,0.643,0.053,0.004,0.031,0.001,0.251,0.016
+TX,Nacogdoches County,Distribution of all-cause deaths (%),931,180,0.778,0.175,,,,0.041,
+TX,Nacogdoches County,Distribution of COVID-19 deaths (%),931,180,0.683,0.228,,,,0.078,
+TX,Nacogdoches County,Distribution of population (%),931,180,0.592,0.176,0.004,0.012,0,0.2,0.015
+TX,Nueces County,Distribution of all-cause deaths (%),4896,831,0.423,0.033,,0.009,,0.533,
+TX,Nueces County,Distribution of COVID-19 deaths (%),4896,831,0.258,0.017,,,,0.716,
+TX,Nueces County,Distribution of population (%),4896,831,0.287,0.035,0.003,0.02,0.001,0.644,0.011
+TX,Potter County,Distribution of all-cause deaths (%),3083,788,0.721,0.061,0.004,0.018,,0.191,0.005
+TX,Potter County,Distribution of COVID-19 deaths (%),3083,788,0.596,0.053,,0.03,,0.312,
+TX,Potter County,Distribution of population (%),3083,788,0.432,0.101,0.005,0.056,0,0.39,0.015
+TX,Rockwall County,Distribution of all-cause deaths (%),1095,195,0.809,0.071,,0.016,,0.098,
+TX,Rockwall County,Distribution of COVID-19 deaths (%),1095,195,0.744,0.056,,,,0.174,
+TX,Rockwall County,Distribution of population (%),1095,195,0.689,0.071,0.005,0.031,0.001,0.186,0.018
+TX,Smith County,Distribution of all-cause deaths (%),4921,823,0.791,0.154,0.002,0.004,,0.048,
+TX,Smith County,Distribution of COVID-19 deaths (%),4921,823,0.708,0.164,,,,0.118,
+TX,Smith County,Distribution of population (%),4921,823,0.591,0.172,0.003,0.016,0.001,0.201,0.016
+TX,Tarrant County,Distribution of all-cause deaths (%),20672,3108,0.686,0.146,0.001,0.026,0.002,0.136,0.003
+TX,Tarrant County,Distribution of COVID-19 deaths (%),20672,3108,0.567,0.141,,0.034,,0.252,
+TX,Tarrant County,Distribution of population (%),20672,3108,0.452,0.17,0.004,0.056,0.002,0.294,0.022
+TX,Taylor County,Distribution of all-cause deaths (%),2349,490,0.785,0.054,,0.006,,0.152,
+TX,Taylor County,Distribution of COVID-19 deaths (%),2349,490,0.722,0.029,,,,0.247,
+TX,Taylor County,Distribution of population (%),2349,490,0.626,0.074,0.004,0.022,0.001,0.25,0.023
+TX,Tom Green County,Distribution of all-cause deaths (%),1766,339,0.676,0.034,,0.006,,0.281,
+TX,Tom Green County,Distribution of COVID-19 deaths (%),1766,339,0.51,0.032,,,,0.451,
+TX,Tom Green County,Distribution of population (%),1766,339,0.523,0.036,0.004,0.012,0.001,0.407,0.017
+TX,Travis County,Distribution of all-cause deaths (%),8457,975,0.638,0.11,0.002,0.023,,0.223,0.003
+TX,Travis County,Distribution of COVID-19 deaths (%),8457,975,0.415,0.103,,0.016,,0.459,
+TX,Travis County,Distribution of population (%),8457,975,0.488,0.08,0.002,0.072,0.001,0.336,0.02
+TX,Victoria County,Distribution of all-cause deaths (%),1439,302,0.575,0.069,,0.009,,0.345,
+TX,Victoria County,Distribution of COVID-19 deaths (%),1439,302,0.437,0.07,,,,0.483,
+TX,Victoria County,Distribution of population (%),1439,302,0.439,0.057,0.003,0.013,0,0.478,0.01
+TX,Webb County,Distribution of all-cause deaths (%),2383,660,0.034,,,,,0.96,
+TX,Webb County,Distribution of COVID-19 deaths (%),2383,660,0.015,,,,,0.98,
+TX,Webb County,Distribution of population (%),2383,660,0.036,0.003,0,0.005,0,0.954,0.001
+TX,Wichita County,Distribution of all-cause deaths (%),2161,383,0.818,0.087,,,,0.085,
+TX,Wichita County,Distribution of COVID-19 deaths (%),2161,383,0.768,0.07,,,,0.154,
+TX,Wichita County,Distribution of population (%),2161,383,0.645,0.104,0.008,0.02,0.001,0.198,0.024
+TX,Williamson County,Distribution of all-cause deaths (%),4350,483,0.799,0.061,,0.021,,0.114,0.003
+TX,Williamson County,Distribution of COVID-19 deaths (%),4350,483,0.627,0.064,,0.021,,0.282,
+TX,Williamson County,Distribution of population (%),4350,483,0.58,0.067,0.003,0.078,0.001,0.248,0.024
+TX,Wise County,Distribution of all-cause deaths (%),811,122,0.919,,,,,0.069,
+TX,Wise County,Distribution of COVID-19 deaths (%),811,122,0.82,,,,,0.172,
+TX,Wise County,Distribution of population (%),811,122,0.76,0.013,0.007,0.006,0,0.199,0.014
+UT,Davis County,Distribution of all-cause deaths (%),2202,123,0.915,0.008,0.005,0.012,0.008,0.046,0.007
+UT,Davis County,Distribution of COVID-19 deaths (%),2202,123,0.846,,,,,,
+UT,Davis County,Distribution of population (%),2202,123,0.826,0.012,0.004,0.019,0.007,0.101,0.03
+UT,Salt Lake County,Distribution of all-cause deaths (%),9668,924,0.831,0.014,0.013,0.023,0.018,0.095,0.007
+UT,Salt Lake County,Distribution of COVID-19 deaths (%),9668,924,0.653,0.012,0.041,0.038,0.041,0.209,
+UT,Salt Lake County,Distribution of population (%),9668,924,0.692,0.018,0.007,0.043,0.016,0.185,0.039
+UT,Utah County,Distribution of all-cause deaths (%),3516,331,0.908,0.003,0.005,0.006,0.013,0.059,0.006
+UT,Utah County,Distribution of COVID-19 deaths (%),3516,331,0.792,,,,,0.142,
+UT,Utah County,Distribution of population (%),3516,331,0.81,0.006,0.005,0.018,0.009,0.121,0.032
+UT,Washington County,Distribution of all-cause deaths (%),2165,223,0.916,0.007,0.016,0.007,0.008,0.04,0.006
+UT,Washington County,Distribution of COVID-19 deaths (%),2165,223,0.789,,0.072,,,0.081,
+UT,Washington County,Distribution of population (%),2165,223,0.831,0.007,0.01,0.009,0.008,0.108,0.026
+UT,Weber County,Distribution of all-cause deaths (%),2503,192,0.859,0.016,0.006,0.015,0.004,0.094,0.006
+UT,Weber County,Distribution of COVID-19 deaths (%),2503,192,0.734,,,,,0.182,
+UT,Weber County,Distribution of population (%),2503,192,0.754,0.013,0.005,0.014,0.003,0.187,0.024
+VA,Arlington County,Distribution of all-cause deaths (%),1762,277,0.608,0.187,,0.092,,0.106,
+VA,Arlington County,Distribution of COVID-19 deaths (%),1762,277,0.491,0.224,,0.116,,0.166,
+VA,Arlington County,Distribution of population (%),1762,277,0.613,0.091,0.002,0.108,0.001,0.156,0.03
+VA,Augusta County,Distribution of all-cause deaths (%),1120,122,0.94,0.041,,,,0.009,
+VA,Augusta County,Distribution of COVID-19 deaths (%),1120,122,0.877,0.098,,,,,
+VA,Augusta County,Distribution of population (%),1120,122,0.902,0.045,0.002,0.006,0,0.031,0.014
+VA,Chesterfield County,Distribution of all-cause deaths (%),3025,236,0.743,0.21,,0.015,,0.027,0.003
+VA,Chesterfield County,Distribution of COVID-19 deaths (%),3025,236,0.64,0.284,,,,0.068,
+VA,Chesterfield County,Distribution of population (%),3025,236,0.606,0.235,0.002,0.036,0.001,0.095,0.025
+VA,Fairfax County,Distribution of all-cause deaths (%),6658,834,0.667,0.103,,0.133,,0.09,0.006
+VA,Fairfax County,Distribution of COVID-19 deaths (%),6658,834,0.543,0.094,,0.152,,0.206,
+VA,Fairfax County,Distribution of population (%),6658,834,0.5,0.099,0.001,0.199,0.001,0.165,0.034
+VA,Hanover County,Distribution of all-cause deaths (%),1728,208,0.708,0.271,,0.006,,0.009,
+VA,Hanover County,Distribution of COVID-19 deaths (%),1728,208,0.553,0.428,,,,,
+VA,Hanover County,Distribution of population (%),1728,208,0.834,0.093,0.004,0.019,0,0.031,0.019
+VA,Henrico County,Distribution of all-cause deaths (%),4320,481,0.675,0.274,0.003,0.019,,0.019,0.011
+VA,Henrico County,Distribution of COVID-19 deaths (%),4320,481,0.597,0.324,,0.023,,0.044,
+VA,Henrico County,Distribution of population (%),4320,481,0.521,0.302,0.002,0.09,0,0.06,0.024
+VA,Loudoun County,Distribution of all-cause deaths (%),2206,237,0.765,0.093,,0.085,,0.05,0.006
+VA,Loudoun County,Distribution of COVID-19 deaths (%),2206,237,0.726,0.093,,0.101,,0.08,
+VA,Loudoun County,Distribution of population (%),2206,237,0.547,0.075,0.002,0.201,0.001,0.139,0.035
+VA,Prince William County,Distribution of all-cause deaths (%),2162,253,0.618,0.198,,0.06,,0.111,0.01
+VA,Prince William County,Distribution of COVID-19 deaths (%),2162,253,0.423,0.233,,0.079,,0.253,
+VA,Prince William County,Distribution of population (%),2162,253,0.415,0.206,0.002,0.092,0.001,0.245,0.04
+VA,Rockingham County,Distribution of all-cause deaths (%),1040,133,0.938,0.029,,,,0.02,
+VA,Rockingham County,Distribution of COVID-19 deaths (%),1040,133,0.887,,,,,0.075,
+VA,Rockingham County,Distribution of population (%),1040,133,0.878,0.022,0.002,0.009,0,0.074,0.014
+VA,Alexandria city,Distribution of all-cause deaths (%),1070,161,0.568,0.268,,0.065,,0.092,
+VA,Alexandria city,Distribution of COVID-19 deaths (%),1070,161,0.441,0.273,,,,0.224,
+VA,Alexandria city,Distribution of population (%),1070,161,0.522,0.218,0.002,0.063,0.001,0.166,0.028
+VA,Charlottesville city,Distribution of all-cause deaths (%),1293,123,0.761,0.182,,0.009,,0.039,0.01
+VA,Charlottesville city,Distribution of COVID-19 deaths (%),1293,123,0.569,0.236,,,,0.163,
+VA,Charlottesville city,Distribution of population (%),1293,123,0.661,0.18,0.002,0.07,0,0.058,0.028
+VA,Chesapeake city,Distribution of all-cause deaths (%),2120,150,0.644,0.308,,0.02,,0.02,0.007
+VA,Chesapeake city,Distribution of COVID-19 deaths (%),2120,150,0.553,0.353,,,,,
+VA,Chesapeake city,Distribution of population (%),2120,150,0.566,0.296,0.003,0.034,0.001,0.066,0.033
+VA,Danville city,Distribution of all-cause deaths (%),957,105,0.645,0.345,,,,,
+VA,Danville city,Distribution of COVID-19 deaths (%),957,105,0.61,0.381,,,,,
+VA,Danville city,Distribution of population (%),957,105,0.413,0.51,0.002,0.013,0.001,0.047,0.015
+VA,Fredericksburg city,Distribution of all-cause deaths (%),1048,105,0.768,0.165,,0.019,,0.035,
+VA,Fredericksburg city,Distribution of COVID-19 deaths (%),1048,105,0.724,0.171,,,,,
+VA,Fredericksburg city,Distribution of population (%),1048,105,0.591,0.228,0.003,0.029,0.001,0.109,0.038
+VA,Lynchburg city,Distribution of all-cause deaths (%),1998,293,0.741,0.24,,,,0.01,
+VA,Lynchburg city,Distribution of COVID-19 deaths (%),1998,293,0.765,0.222,,,,,
+VA,Lynchburg city,Distribution of population (%),1998,293,0.626,0.276,0.003,0.026,0.001,0.045,0.023
+VA,Manassas city,Distribution of all-cause deaths (%),630,151,0.633,0.157,,0.06,,0.149,
+VA,Manassas city,Distribution of COVID-19 deaths (%),630,151,0.536,0.119,,,,0.298,
+VA,Manassas city,Distribution of population (%),630,151,0.395,0.136,0.002,0.059,0.001,0.381,0.026
+VA,Newport News city,Distribution of all-cause deaths (%),2425,194,0.571,0.378,,0.019,,0.02,0.009
+VA,Newport News city,Distribution of COVID-19 deaths (%),2425,194,0.562,0.381,,,,,
+VA,Newport News city,Distribution of population (%),2425,194,0.422,0.409,0.004,0.032,0.002,0.094,0.039
+VA,Norfolk city,Distribution of all-cause deaths (%),3322,237,0.47,0.46,,0.029,,0.021,0.016
+VA,Norfolk city,Distribution of COVID-19 deaths (%),3322,237,0.397,0.565,,,,,
+VA,Norfolk city,Distribution of population (%),3322,237,0.432,0.405,0.004,0.037,0.002,0.084,0.035
+VA,Petersburg city,Distribution of all-cause deaths (%),965,120,0.374,0.601,,,,,
+VA,Petersburg city,Distribution of COVID-19 deaths (%),965,120,0.4,0.558,,,,,
+VA,Petersburg city,Distribution of population (%),965,120,0.154,0.756,0.004,0.01,0.001,0.051,0.024
+VA,Portsmouth city,Distribution of all-cause deaths (%),1305,122,0.45,0.508,,0.009,,0.018,0.011
+VA,Portsmouth city,Distribution of COVID-19 deaths (%),1305,122,0.402,0.557,,,,,
+VA,Portsmouth city,Distribution of population (%),1305,122,0.371,0.533,0.004,0.014,0.001,0.047,0.029
+VA,Richmond city,Distribution of all-cause deaths (%),3801,283,0.466,0.48,0.003,0.012,,0.029,0.011
+VA,Richmond city,Distribution of COVID-19 deaths (%),3801,283,0.498,0.41,,,,0.071,
+VA,Richmond city,Distribution of population (%),3801,283,0.422,0.459,0.003,0.022,0,0.073,0.021
+VA,Roanoke city,Distribution of all-cause deaths (%),2870,294,0.813,0.157,,0.006,,0.014,0.009
+VA,Roanoke city,Distribution of COVID-19 deaths (%),2870,294,0.847,0.105,,,,,
+VA,Roanoke city,Distribution of population (%),2870,294,0.578,0.287,0.002,0.035,0.001,0.067,0.03
+VA,Salem city,Distribution of all-cause deaths (%),1076,125,0.867,0.124,,,,,
+VA,Salem city,Distribution of COVID-19 deaths (%),1076,125,0.816,0.16,,,,,
+VA,Salem city,Distribution of population (%),1076,125,0.849,0.074,0.003,0.019,0,0.036,0.019
+VA,Suffolk city,Distribution of all-cause deaths (%),1136,170,0.534,0.444,,,,0.012,
+VA,Suffolk city,Distribution of COVID-19 deaths (%),1136,170,0.524,0.447,,,,,
+VA,Suffolk city,Distribution of population (%),1136,170,0.489,0.417,0.003,0.018,0.001,0.047,0.026
+VA,Virginia Beach city,Distribution of all-cause deaths (%),3780,206,0.751,0.179,,0.033,,0.026,0.008
+VA,Virginia Beach city,Distribution of COVID-19 deaths (%),3780,206,0.626,0.233,,0.058,,0.063,
+VA,Virginia Beach city,Distribution of population (%),3780,206,0.61,0.191,0.003,0.071,0.001,0.085,0.039
+VA,Winchester city,Distribution of all-cause deaths (%),1341,161,0.919,0.054,,,,0.024,
+VA,Winchester city,Distribution of COVID-19 deaths (%),1341,161,0.894,,,,,0.062,
+VA,Winchester city,Distribution of population (%),1341,161,0.657,0.105,0.002,0.024,0,0.183,0.029
+WA,Benton County,Distribution of all-cause deaths (%),2275,253,0.825,0.012,0.011,0.018,,0.124,0.007
+WA,Benton County,Distribution of COVID-19 deaths (%),2275,253,0.593,,,,,0.328,
+WA,Benton County,Distribution of population (%),2275,253,0.693,0.015,0.007,0.031,0.002,0.226,0.027
+WA,Clark County,Distribution of all-cause deaths (%),4588,193,0.915,0.017,0.005,0.023,0.005,0.028,0.006
+WA,Clark County,Distribution of COVID-19 deaths (%),4588,193,0.788,,,,,0.098,
+WA,Clark County,Distribution of population (%),4588,193,0.768,0.021,0.007,0.048,0.008,0.101,0.045
+WA,King County,Distribution of all-cause deaths (%),16650,1261,0.748,0.066,0.012,0.105,0.009,0.046,0.015
+WA,King County,Distribution of COVID-19 deaths (%),16650,1261,0.638,0.067,0.013,0.159,0.014,0.1,0.009
+WA,King County,Distribution of population (%),16650,1261,0.576,0.066,0.006,0.193,0.008,0.098,0.053
+WA,Pierce County,Distribution of all-cause deaths (%),8611,464,0.804,0.066,0.013,0.051,0.016,0.034,0.016
+WA,Pierce County,Distribution of COVID-19 deaths (%),8611,464,0.728,0.065,,0.08,0.058,0.052,
+WA,Pierce County,Distribution of population (%),8611,464,0.646,0.07,0.011,0.067,0.016,0.112,0.078
+WA,Snohomish County,Distribution of all-cause deaths (%),6348,410,0.863,0.019,0.015,0.051,0.004,0.03,0.016
+WA,Snohomish County,Distribution of COVID-19 deaths (%),6348,410,0.778,,,0.08,,0.073,
+WA,Snohomish County,Distribution of population (%),6348,410,0.677,0.035,0.011,0.118,0.006,0.105,0.049
+WA,Spokane County,Distribution of all-cause deaths (%),6490,538,0.916,0.014,0.016,0.013,0.004,0.027,0.01
+WA,Spokane County,Distribution of COVID-19 deaths (%),6490,538,0.851,,0.035,0.024,,0.056,
+WA,Spokane County,Distribution of population (%),6490,538,0.835,0.019,0.014,0.023,0.006,0.061,0.042
+WA,Yakima County,Distribution of all-cause deaths (%),2534,347,0.725,0.009,0.064,0.007,,0.187,0.007
+WA,Yakima County,Distribution of COVID-19 deaths (%),2534,347,0.594,,0.095,,,0.285,
+WA,Yakima County,Distribution of population (%),2534,347,0.423,0.008,0.037,0.012,0.001,0.501,0.018
+WI,Brown County,Distribution of all-cause deaths (%),3364,415,0.91,0.017,0.03,0.014,,0.027,
+WI,Brown County,Distribution of COVID-19 deaths (%),3364,415,0.834,,0.055,,,0.067,
+WI,Brown County,Distribution of population (%),3364,415,0.803,0.027,0.026,0.033,0,0.09,0.021
+WI,Dane County,Distribution of all-cause deaths (%),5475,446,0.92,0.041,0.003,0.014,,0.018,0.003
+WI,Dane County,Distribution of COVID-19 deaths (%),5475,446,0.897,0.034,,,,0.045,
+WI,Dane County,Distribution of population (%),5475,446,0.792,0.053,0.003,0.062,0,0.065,0.024
+WI,Dodge County,Distribution of all-cause deaths (%),1149,160,0.973,,,,,0.016,
+WI,Dodge County,Distribution of COVID-19 deaths (%),1149,160,0.95,,,,,,
+WI,Dodge County,Distribution of population (%),1149,160,0.895,0.032,0.005,0.006,0.001,0.05,0.01
+WI,Eau Claire County,Distribution of all-cause deaths (%),1559,176,0.958,0.008,0.009,0.017,,,
+WI,Eau Claire County,Distribution of COVID-19 deaths (%),1559,176,0.92,,,,,,
+WI,Eau Claire County,Distribution of population (%),1559,176,0.894,0.011,0.005,0.042,0.002,0.027,0.019
+WI,Fond du Lac County,Distribution of all-cause deaths (%),1244,129,0.96,0.012,,,,0.015,
+WI,Fond du Lac County,Distribution of COVID-19 deaths (%),1244,129,0.922,,,,,,
+WI,Fond du Lac County,Distribution of population (%),1244,129,0.89,0.02,0.004,0.018,0,0.054,0.013
+WI,Kenosha County,Distribution of all-cause deaths (%),1961,336,0.891,0.057,,0.007,,0.04,
+WI,Kenosha County,Distribution of COVID-19 deaths (%),1961,336,0.839,0.06,,,,0.086,
+WI,Kenosha County,Distribution of population (%),1961,336,0.754,0.069,0.003,0.017,0,0.135,0.023
+WI,La Crosse County,Distribution of all-cause deaths (%),1827,189,0.966,0.008,0.007,0.011,,0.008,
+WI,La Crosse County,Distribution of COVID-19 deaths (%),1827,189,0.915,,,,,,
+WI,La Crosse County,Distribution of population (%),1827,189,0.895,0.015,0.004,0.047,0,0.021,0.018
+WI,Marathon County,Distribution of all-cause deaths (%),1931,289,0.965,,0.008,0.019,,,
+WI,Marathon County,Distribution of COVID-19 deaths (%),1931,289,0.927,,,0.035,,,
+WI,Marathon County,Distribution of population (%),1931,289,0.882,0.008,0.004,0.06,0,0.03,0.015
+WI,Milwaukee County,Distribution of all-cause deaths (%),12109,1251,0.672,0.241,0.005,0.019,,0.061,0.004
+WI,Milwaukee County,Distribution of COVID-19 deaths (%),12109,1251,0.594,0.245,,0.033,,0.12,
+WI,Milwaukee County,Distribution of population (%),12109,1251,0.506,0.263,0.006,0.046,0,0.156,0.024
+WI,Outagamie County,Distribution of all-cause deaths (%),2132,295,0.947,0.011,0.014,0.013,,0.014,
+WI,Outagamie County,Distribution of COVID-19 deaths (%),2132,295,0.908,,,0.034,,0.034,
+WI,Outagamie County,Distribution of population (%),2132,295,0.87,0.014,0.016,0.036,0.001,0.046,0.017
+WI,Ozaukee County,Distribution of all-cause deaths (%),1379,174,0.896,0.086,,0.008,,0.009,
+WI,Ozaukee County,Distribution of COVID-19 deaths (%),1379,174,0.799,0.149,,,,,
+WI,Ozaukee County,Distribution of population (%),1379,174,0.91,0.016,0.002,0.026,0,0.031,0.014
+WI,Racine County,Distribution of all-cause deaths (%),2139,281,0.835,0.102,,0.005,,0.054,
+WI,Racine County,Distribution of COVID-19 deaths (%),2139,281,0.772,0.121,,,,0.1,
+WI,Racine County,Distribution of population (%),2139,281,0.713,0.113,0.004,0.012,0,0.136,0.021
+WI,Rock County,Distribution of all-cause deaths (%),2012,167,0.918,0.051,,0.005,,0.023,
+WI,Rock County,Distribution of COVID-19 deaths (%),2012,167,0.832,,,,,0.102,
+WI,Rock County,Distribution of population (%),2012,167,0.823,0.049,0.003,0.013,0,0.091,0.021
+WI,Sheboygan County,Distribution of all-cause deaths (%),1435,170,0.953,0.008,,0.016,,0.021,
+WI,Sheboygan County,Distribution of COVID-19 deaths (%),1435,170,0.888,,,,,,
+WI,Sheboygan County,Distribution of population (%),1435,170,0.835,0.021,0.004,0.057,0,0.067,0.016
+WI,Walworth County,Distribution of all-cause deaths (%),1042,113,0.967,0.011,,,,0.017,
+WI,Walworth County,Distribution of COVID-19 deaths (%),1042,113,0.956,,,,,,
+WI,Walworth County,Distribution of population (%),1042,113,0.853,0.011,0.002,0.01,0,0.112,0.012
+WI,Washington County,Distribution of all-cause deaths (%),1315,112,0.976,0.011,,,,,
+WI,Washington County,Distribution of COVID-19 deaths (%),1315,112,0.982,,,,,,
+WI,Washington County,Distribution of population (%),1315,112,0.925,0.013,0.003,0.014,0,0.033,0.011
+WI,Waukesha County,Distribution of all-cause deaths (%),4490,568,0.943,0.024,0.002,0.009,,0.02,
+WI,Waukesha County,Distribution of COVID-19 deaths (%),4490,568,0.917,0.032,,,,0.033,
+WI,Waukesha County,Distribution of population (%),4490,568,0.88,0.016,0.002,0.038,0,0.049,0.014
+WI,Waupaca County,Distribution of all-cause deaths (%),746,111,0.984,,,,,,
+WI,Waupaca County,Distribution of COVID-19 deaths (%),746,111,0.973,,,,,,
+WI,Waupaca County,Distribution of population (%),746,111,0.94,0.005,0.006,0.005,0,0.033,0.011
+WI,Winnebago County,Distribution of all-cause deaths (%),2120,221,0.958,0.011,0.008,0.011,,0.01,
+WI,Winnebago County,Distribution of COVID-19 deaths (%),2120,221,0.941,,,,,,
+WI,Winnebago County,Distribution of population (%),2120,221,0.879,0.024,0.006,0.03,0,0.044,0.017
+WI,Wood County,Distribution of all-cause deaths (%),1481,155,0.972,,,0.007,,0.012,
+WI,Wood County,Distribution of COVID-19 deaths (%),1481,155,0.948,,,,,,
+WI,Wood County,Distribution of population (%),1481,155,0.92,0.009,0.008,0.019,0,0.032,0.012
+WV,Cabell County,Distribution of all-cause deaths (%),2382,210,0.959,0.033,,,,,
+WV,Cabell County,Distribution of COVID-19 deaths (%),2382,210,0.957,,,,,,
+WV,Cabell County,Distribution of population (%),2382,210,0.901,0.047,0.002,0.012,0,0.014,0.023
+WV,Kanawha County,Distribution of all-cause deaths (%),3718,350,0.946,0.049,,0.003,,,
+WV,Kanawha County,Distribution of COVID-19 deaths (%),3718,350,0.949,0.046,,,,,
+WV,Kanawha County,Distribution of population (%),3718,350,0.877,0.075,0.001,0.01,0,0.012,0.024
+WV,Monongalia County,Distribution of all-cause deaths (%),2100,240,0.97,0.024,,,,,
+WV,Monongalia County,Distribution of COVID-19 deaths (%),2100,240,0.975,,,,,,
+WV,Monongalia County,Distribution of population (%),2100,240,0.883,0.038,0.002,0.033,0,0.022,0.022
+WV,Ohio County,Distribution of all-cause deaths (%),1237,177,0.968,0.03,,,,,
+WV,Ohio County,Distribution of COVID-19 deaths (%),1237,177,0.966,,,,,,
+WV,Ohio County,Distribution of population (%),1237,177,0.919,0.035,0.002,0.008,0,0.013,0.022
+WV,Wood County,Distribution of all-cause deaths (%),1237,130,0.986,,,,,,
+WV,Wood County,Distribution of COVID-19 deaths (%),1237,130,0.985,,,,,,
+WV,Wood County,Distribution of population (%),1237,130,0.951,0.012,0.002,0.006,0,0.012,0.017
+WY,Laramie County,Distribution of all-cause deaths (%),1086,102,0.858,0.013,0.011,,,0.105,
+WY,Laramie County,Distribution of COVID-19 deaths (%),1086,102,0.735,,,,,0.206,
+WY,Laramie County,Distribution of population (%),1086,102,0.785,0.022,0.006,0.012,0.001,0.149,0.024
+WY,Natrona County,Distribution of all-cause deaths (%),1172,164,0.905,0.009,0.036,,,0.044,
+WY,Natrona County,Distribution of COVID-19 deaths (%),1172,164,0.805,,0.122,,,0.061,
+WY,Natrona County,Distribution of population (%),1172,164,0.862,0.012,0.01,0.008,0.001,0.087,0.019

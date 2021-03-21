@@ -1,0 +1,2134 @@
+State,County name,Urban Rural Code,Deaths involving COVID-19,Deaths from All Causes
+AK,Anchorage Borough,Medium metro,170,2478
+AK,Bethel Census Area,Noncore,12,119
+AK,Fairbanks North Star Borough,Small metro,31,581
+AK,Kenai Peninsula Borough,Noncore,14,406
+AK,Matanuska-Susitna Borough,Medium metro,31,692
+AL,Autauga County,Medium metro,73,585
+AL,Baldwin County,Small metro,200,2569
+AL,Barbour County,Noncore,27,313
+AL,Bibb County,Large fringe metro,25,205
+AL,Blount County,Large fringe metro,42,565
+AL,Butler County,Noncore,30,260
+AL,Calhoun County,Small metro,237,1856
+AL,Chambers County,Micropolitan,26,421
+AL,Cherokee County,Noncore,16,329
+AL,Chilton County,Large fringe metro,25,456
+AL,Choctaw County,Noncore,13,121
+AL,Clay County,Noncore,34,226
+AL,Cleburne County,Noncore,12,154
+AL,Coffee County,Micropolitan,63,630
+AL,Colbert County,Small metro,151,829
+AL,Covington County,Noncore,91,651
+AL,Crenshaw County,Noncore,30,228
+AL,Cullman County,Micropolitan,185,1340
+AL,Dale County,Micropolitan,65,530
+AL,Dallas County,Micropolitan,101,614
+AL,DeKalb County,Noncore,99,875
+AL,Elmore County,Medium metro,55,789
+AL,Escambia County,Noncore,45,458
+AL,Etowah County,Small metro,319,1981
+AL,Fayette County,Noncore,23,192
+AL,Franklin County,Noncore,26,369
+AL,Geneva County,Small metro,29,372
+AL,Hale County,Small metro,18,179
+AL,Houston County,Small metro,487,2411
+AL,Jackson County,Micropolitan,58,753
+AL,Jefferson County,Large central metro,1693,12337
+AL,Lauderdale County,Small metro,229,1800
+AL,Lawrence County,Small metro,19,369
+AL,Lee County,Small metro,243,1496
+AL,Limestone County,Medium metro,99,988
+AL,Madison County,Medium metro,528,5061
+AL,Marengo County,Noncore,40,313
+AL,Marion County,Noncore,67,481
+AL,Marshall County,Micropolitan,172,1467
+AL,Mobile County,Medium metro,748,6416
+AL,Monroe County,Noncore,18,253
+AL,Montgomery County,Medium metro,678,3911
+AL,Morgan County,Small metro,200,1688
+AL,Pickens County,Small metro,10,192
+AL,Pike County,Micropolitan,56,373
+AL,Randolph County,Noncore,13,231
+AL,Russell County,Medium metro,29,451
+AL,St. Clair County,Large fringe metro,95,950
+AL,Shelby County,Large fringe metro,148,1671
+AL,Talladega County,Micropolitan,104,1060
+AL,Tallapoosa County,Noncore,101,659
+AL,Tuscaloosa County,Small metro,516,2937
+AL,Walker County,Large fringe metro,168,1221
+AL,Washington County,Noncore,10,134
+AL,Winston County,Noncore,27,324
+AR,Arkansas County,Noncore,10,236
+AR,Ashley County,Noncore,10,219
+AR,Baxter County,Micropolitan,127,1097
+AR,Benton County,Medium metro,406,2427
+AR,Boone County,Micropolitan,67,525
+AR,Bradley County,Noncore,18,129
+AR,Carroll County,Noncore,15,259
+AR,Chicot County,Noncore,20,130
+AR,Clark County,Micropolitan,23,263
+AR,Clay County,Noncore,25,207
+AR,Cleburne County,Noncore,25,332
+AR,Columbia County,Micropolitan,46,317
+AR,Craighead County,Small metro,479,2678
+AR,Crawford County,Medium metro,32,532
+AR,Crittenden County,Large fringe metro,34,423
+AR,Cross County,Noncore,15,202
+AR,Dallas County,Noncore,13,100
+AR,Drew County,Noncore,18,263
+AR,Faulkner County,Medium metro,183,1352
+AR,Franklin County,Noncore,19,190
+AR,Fulton County,Noncore,32,192
+AR,Garland County,Small metro,312,2239
+AR,Grant County,Medium metro,11,142
+AR,Greene County,Micropolitan,46,452
+AR,Hempstead County,Noncore,16,204
+AR,Hot Spring County,Micropolitan,15,336
+AR,Howard County,Noncore,16,159
+AR,Independence County,Micropolitan,152,715
+AR,Izard County,Noncore,20,188
+AR,Jackson County,Noncore,12,215
+AR,Jefferson County,Small metro,156,1098
+AR,Johnson County,Noncore,20,256
+AR,Lawrence County,Noncore,20,167
+AR,Lincoln County,Small metro,14,99
+AR,Little River County,Small metro,28,170
+AR,Logan County,Noncore,17,262
+AR,Lonoke County,Medium metro,34,522
+AR,Marion County,Noncore,19,206
+AR,Miller County,Small metro,12,363
+AR,Mississippi County,Micropolitan,39,451
+AR,Montgomery County,Noncore,13,115
+AR,Nevada County,Noncore,10,75
+AR,Newton County,Micropolitan,13,96
+AR,Ouachita County,Micropolitan,39,346
+AR,Phillips County,Micropolitan,17,193
+AR,Poinsett County,Small metro,13,178
+AR,Polk County,Noncore,56,274
+AR,Pope County,Micropolitan,64,802
+AR,Pulaski County,Medium metro,958,7848
+AR,Randolph County,Noncore,21,185
+AR,Saline County,Medium metro,123,1141
+AR,Scott County,Noncore,11,123
+AR,Searcy County,Noncore,11,88
+AR,Sebastian County,Medium metro,414,2820
+AR,Sharp County,Noncore,14,204
+AR,Stone County,Noncore,15,178
+AR,Union County,Micropolitan,92,674
+AR,Washington County,Medium metro,416,2865
+AR,White County,Micropolitan,137,1179
+AR,Yell County,Micropolitan,27,211
+AZ,Apache County,Noncore,92,661
+AZ,Cochise County,Small metro,114,1311
+AZ,Coconino County,Small metro,227,1447
+AZ,Gila County,Micropolitan,98,858
+AZ,Graham County,Micropolitan,45,364
+AZ,La Paz County,Noncore,19,311
+AZ,Maricopa County,Large central metro,8325,51232
+AZ,Mohave County,Small metro,506,4220
+AZ,Navajo County,Micropolitan,156,1273
+AZ,Pima County,Medium metro,2239,15154
+AZ,Pinal County,Large fringe metro,273,3196
+AZ,Santa Cruz County,Micropolitan,20,270
+AZ,Yavapai County,Small metro,357,3854
+AZ,Yuma County,Small metro,630,2648
+CA,Alameda County,Large central metro,1064,12608
+CA,Amador County,Noncore,45,482
+CA,Butte County,Small metro,211,2701
+CA,Calaveras County,Noncore,17,434
+CA,Colusa County,Noncore,17,133
+CA,Contra Costa County,Large fringe metro,616,9442
+CA,El Dorado County,Large fringe metro,103,1662
+CA,Fresno County,Medium metro,1351,10169
+CA,Glenn County,Noncore,28,234
+CA,Humboldt County,Micropolitan,26,1409
+CA,Imperial County,Small metro,468,1600
+CA,Inyo County,Noncore,25,213
+CA,Kern County,Medium metro,1027,8094
+CA,Kings County,Small metro,269,1232
+CA,Lake County,Micropolitan,43,719
+CA,Lassen County,Micropolitan,16,215
+CA,Los Angeles County,Large central metro,15956,91672
+CA,Madera County,Small metro,167,1174
+CA,Marin County,Large fringe metro,169,2358
+CA,Mendocino County,Micropolitan,37,997
+CA,Merced County,Medium metro,231,1878
+CA,Monterey County,Medium metro,452,3399
+CA,Napa County,Small metro,68,1432
+CA,Nevada County,Micropolitan,83,1186
+CA,Orange County,Large central metro,4433,28083
+CA,Placer County,Large fringe metro,357,4693
+CA,Riverside County,Large central metro,3841,23464
+CA,Sacramento County,Large central metro,1290,15106
+CA,San Benito County,Large fringe metro,47,371
+CA,San Bernardino County,Large fringe metro,3939,21434
+CA,San Diego County,Large central metro,3208,28771
+CA,San Francisco County,Large central metro,382,7341
+CA,San Joaquin County,Medium metro,1108,7426
+CA,San Luis Obispo County,Medium metro,178,2691
+CA,San Mateo County,Large fringe metro,479,5598
+CA,Santa Barbara County,Medium metro,413,4077
+CA,Santa Clara County,Large central metro,1356,13465
+CA,Santa Cruz County,Medium metro,212,2068
+CA,Shasta County,Small metro,183,2926
+CA,Siskiyou County,Noncore,12,597
+CA,Solano County,Medium metro,317,4109
+CA,Sonoma County,Medium metro,322,4919
+CA,Stanislaus County,Medium metro,1113,6855
+CA,Sutter County,Small metro,43,673
+CA,Tehama County,Micropolitan,45,662
+CA,Tulare County,Medium metro,692,4114
+CA,Tuolumne County,Micropolitan,56,797
+CA,Ventura County,Medium metro,770,7294
+CA,Yolo County,Large fringe metro,146,1429
+CA,Yuba County,Small metro,90,932
+CO,Adams County,Large fringe metro,674,4682
+CO,Alamosa County,Noncore,26,178
+CO,Arapahoe County,Large fringe metro,714,5464
+CO,Bent County,Noncore,11,61
+CO,Boulder County,Medium metro,289,2858
+CO,Broomfield County,Large fringe metro,46,383
+CO,Chaffee County,Noncore,18,187
+CO,Delta County,Noncore,42,391
+CO,Denver County,Large central metro,647,6308
+CO,Douglas County,Large fringe metro,232,2059
+CO,El Paso County,Medium metro,748,6700
+CO,Fremont County,Micropolitan,23,560
+CO,Garfield County,Micropolitan,35,418
+CO,Huerfano County,Noncore,13,137
+CO,Jefferson County,Large fringe metro,697,6074
+CO,La Plata County,Micropolitan,47,501
+CO,Larimer County,Medium metro,249,3262
+CO,Logan County,Micropolitan,49,272
+CO,Mesa County,Small metro,204,2242
+CO,Moffat County,Micropolitan,20,143
+CO,Montrose County,Micropolitan,45,504
+CO,Morgan County,Micropolitan,64,311
+CO,Otero County,Noncore,25,233
+CO,Prowers County,Noncore,14,126
+CO,Pueblo County,Small metro,346,2678
+CO,Routt County,Micropolitan,14,125
+CO,Weld County,Medium metro,267,2070
+CO,Yuma County,Noncore,14,108
+CT,Fairfield County,Medium metro,1881,8937
+CT,Hartford County,Large central metro,2025,10872
+CT,Litchfield County,Micropolitan,189,1725
+CT,Middlesex County,Large fringe metro,282,1695
+CT,New Haven County,Medium metro,1751,10610
+CT,New London County,Medium metro,344,2772
+CT,Tolland County,Large fringe metro,65,800
+CT,Windham County,Medium metro,87,1095
+DC,District of Columbia,Large central metro,1135,7989
+DE,Kent County,Small metro,224,2169
+DE,New Castle County,Large fringe metro,600,6340
+DE,Sussex County,Medium metro,362,3190
+FL,Alachua County,Medium metro,516,4486
+FL,Baker County,Large fringe metro,12,207
+FL,Bay County,Small metro,293,2426
+FL,Brevard County,Medium metro,642,9095
+FL,Broward County,Large fringe metro,2281,19671
+FL,Calhoun County,Noncore,13,192
+FL,Charlotte County,Small metro,311,3619
+FL,Citrus County,Small metro,266,3324
+FL,Clay County,Large fringe metro,267,2740
+FL,Collier County,Medium metro,456,4558
+FL,Columbia County,Micropolitan,142,1248
+FL,DeSoto County,Micropolitan,21,387
+FL,Duval County,Large central metro,1272,12726
+FL,Escambia County,Medium metro,686,6045
+FL,Flagler County,Medium metro,77,1664
+FL,Hendry County,Micropolitan,19,233
+FL,Hernando County,Large fringe metro,302,3560
+FL,Highlands County,Small metro,268,2251
+FL,Hillsborough County,Large central metro,1376,15147
+FL,Holmes County,Noncore,13,285
+FL,Indian River County,Small metro,181,2649
+FL,Jackson County,Noncore,84,689
+FL,Lake County,Large fringe metro,451,5230
+FL,Lee County,Medium metro,755,9387
+FL,Leon County,Medium metro,481,3870
+FL,Levy County,Noncore,12,453
+FL,Madison County,Noncore,11,201
+FL,Manatee County,Medium metro,502,5454
+FL,Marion County,Medium metro,631,6587
+FL,Martin County,Medium metro,344,2517
+FL,Miami-Dade County,Large central metro,4585,28536
+FL,Monroe County,Micropolitan,22,629
+FL,Nassau County,Large fringe metro,36,795
+FL,Okaloosa County,Small metro,260,2529
+FL,Okeechobee County,Micropolitan,58,526
+FL,Orange County,Large central metro,1208,12586
+FL,Osceola County,Large fringe metro,393,3249
+FL,Palm Beach County,Large fringe metro,2291,19739
+FL,Pasco County,Large fringe metro,534,7677
+FL,Pinellas County,Large central metro,1256,15595
+FL,Polk County,Medium metro,908,8941
+FL,Putnam County,Micropolitan,65,1008
+FL,St. Johns County,Large fringe metro,65,2007
+FL,St. Lucie County,Medium metro,328,4154
+FL,Santa Rosa County,Medium metro,100,1447
+FL,Sarasota County,Medium metro,694,7441
+FL,Seminole County,Large fringe metro,260,4179
+FL,Sumter County,Small metro,198,2828
+FL,Suwannee County,Noncore,24,423
+FL,Union County,Noncore,24,146
+FL,Volusia County,Medium metro,560,9147
+FL,Walton County,Small metro,81,805
+FL,Washington County,Noncore,33,325
+GA,Appling County,Noncore,23,160
+GA,Bacon County,Noncore,40,175
+GA,Baldwin County,Micropolitan,84,582
+GA,Barrow County,Large fringe metro,33,500
+GA,Bartow County,Large fringe metro,110,1225
+GA,Ben Hill County,Micropolitan,44,235
+GA,Berrien County,Noncore,11,162
+GA,Bibb County,Small metro,470,3563
+GA,Bleckley County,Noncore,19,129
+GA,Bulloch County,Micropolitan,95,835
+GA,Burke County,Medium metro,10,236
+GA,Butts County,Large fringe metro,27,280
+GA,Camden County,Micropolitan,16,316
+GA,Candler County,Noncore,32,167
+GA,Carroll County,Large fringe metro,248,1632
+GA,Catoosa County,Medium metro,40,648
+GA,Chatham County,Medium metro,477,4406
+GA,Cherokee County,Large fringe metro,146,1722
+GA,Clarke County,Small metro,323,2086
+GA,Clayton County,Large fringe metro,123,1613
+GA,Cobb County,Large fringe metro,806,6864
+GA,Coffee County,Micropolitan,115,548
+GA,Colquitt County,Micropolitan,95,682
+GA,Columbia County,Medium metro,26,786
+GA,Cook County,Noncore,10,123
+GA,Coweta County,Large fringe metro,139,1301
+GA,Crisp County,Micropolitan,71,419
+GA,Decatur County,Micropolitan,30,342
+GA,DeKalb County,Large fringe metro,534,6060
+GA,Dodge County,Noncore,75,278
+GA,Dougherty County,Small metro,321,1754
+GA,Douglas County,Large fringe metro,85,938
+GA,Early County,Noncore,17,161
+GA,Effingham County,Medium metro,12,326
+GA,Elbert County,Noncore,18,276
+GA,Emanuel County,Noncore,54,305
+GA,Evans County,Noncore,11,111
+GA,Fannin County,Noncore,26,373
+GA,Fayette County,Large fringe metro,204,1345
+GA,Floyd County,Small metro,343,2147
+GA,Forsyth County,Large fringe metro,194,1932
+GA,Franklin County,Noncore,31,290
+GA,Fulton County,Large central metro,1210,11024
+GA,Gilmer County,Noncore,25,297
+GA,Glynn County,Small metro,172,1363
+GA,Gordon County,Micropolitan,80,653
+GA,Grady County,Noncore,25,234
+GA,Greene County,Noncore,15,217
+GA,Gwinnett County,Large fringe metro,619,5290
+GA,Habersham County,Micropolitan,59,462
+GA,Hall County,Small metro,609,3498
+GA,Hancock County,Micropolitan,10,80
+GA,Hart County,Noncore,11,235
+GA,Henry County,Large fringe metro,242,2346
+GA,Houston County,Small metro,165,1645
+GA,Jackson County,Micropolitan,18,458
+GA,Jasper County,Large fringe metro,14,125
+GA,Jeff Davis County,Noncore,26,195
+GA,Jefferson County,Noncore,21,218
+GA,Jenkins County,Noncore,16,105
+GA,Johnson County,Micropolitan,14,96
+GA,Lamar County,Large fringe metro,17,151
+GA,Laurens County,Micropolitan,168,1001
+GA,Liberty County,Small metro,15,321
+GA,Lowndes County,Small metro,249,1493
+GA,Lumpkin County,Noncore,21,254
+GA,McDuffie County,Medium metro,10,206
+GA,Meriwether County,Large fringe metro,11,200
+GA,Mitchell County,Noncore,17,207
+GA,Monroe County,Small metro,33,312
+GA,Murray County,Small metro,20,323
+GA,Muscogee County,Medium metro,489,3537
+GA,Newton County,Large fringe metro,101,930
+GA,Oconee County,Small metro,36,432
+GA,Paulding County,Large fringe metro,101,965
+GA,Peach County,Small metro,12,221
+GA,Pickens County,Large fringe metro,56,470
+GA,Polk County,Micropolitan,10,369
+GA,Pulaski County,Small metro,45,155
+GA,Putnam County,Noncore,19,223
+GA,Rabun County,Noncore,20,230
+GA,Richmond County,Medium metro,775,4784
+GA,Rockdale County,Large fringe metro,122,1005
+GA,Spalding County,Large fringe metro,171,1408
+GA,Stephens County,Micropolitan,34,361
+GA,Sumter County,Micropolitan,61,422
+GA,Tattnall County,Noncore,22,203
+GA,Thomas County,Micropolitan,170,894
+GA,Tift County,Micropolitan,196,812
+GA,Toombs County,Micropolitan,111,627
+GA,Towns County,Noncore,15,184
+GA,Troup County,Micropolitan,181,1040
+GA,Union County,Noncore,44,408
+GA,Upson County,Micropolitan,127,669
+GA,Walker County,Medium metro,28,645
+GA,Walton County,Large fringe metro,142,1063
+GA,Ware County,Micropolitan,148,781
+GA,Washington County,Noncore,44,249
+GA,Wayne County,Micropolitan,54,398
+GA,White County,Noncore,15,248
+GA,Whitfield County,Small metro,192,1167
+GA,Worth County,Small metro,13,167
+HI,Hawaii County,Micropolitan,50,1940
+HI,Honolulu County,Medium metro,314,9193
+HI,Maui County,Small metro,28,1325
+IA,Adair County,Noncore,17,107
+IA,Allamakee County,Noncore,31,213
+IA,Appanoose County,Noncore,37,175
+IA,Benton County,Medium metro,36,198
+IA,Black Hawk County,Small metro,330,1831
+IA,Boone County,Micropolitan,14,259
+IA,Bremer County,Small metro,50,276
+IA,Buchanan County,Noncore,12,168
+IA,Buena Vista County,Micropolitan,25,178
+IA,Butler County,Noncore,15,140
+IA,Carroll County,Noncore,45,278
+IA,Cass County,Noncore,42,218
+IA,Cerro Gordo County,Micropolitan,133,881
+IA,Cherokee County,Noncore,29,187
+IA,Clarke County,Noncore,17,105
+IA,Clay County,Micropolitan,15,189
+IA,Clayton County,Noncore,45,198
+IA,Clinton County,Micropolitan,87,565
+IA,Crawford County,Noncore,30,189
+IA,Dallas County,Medium metro,70,520
+IA,Davis County,Micropolitan,17,74
+IA,Delaware County,Noncore,29,184
+IA,Des Moines County,Micropolitan,61,605
+IA,Dickinson County,Micropolitan,33,228
+IA,Dubuque County,Small metro,221,1215
+IA,Emmet County,Noncore,37,150
+IA,Fayette County,Noncore,21,236
+IA,Floyd County,Noncore,27,177
+IA,Franklin County,Noncore,11,112
+IA,Grundy County,Small metro,25,163
+IA,Guthrie County,Medium metro,18,112
+IA,Hamilton County,Noncore,35,176
+IA,Hancock County,Noncore,26,113
+IA,Hardin County,Noncore,20,189
+IA,Harrison County,Medium metro,53,232
+IA,Henry County,Noncore,28,229
+IA,Howard County,Noncore,19,119
+IA,Humboldt County,Noncore,19,89
+IA,Ida County,Noncore,30,119
+IA,Iowa County,Noncore,12,176
+IA,Jackson County,Noncore,23,225
+IA,Jasper County,Micropolitan,36,340
+IA,Jefferson County,Micropolitan,20,193
+IA,Johnson County,Small metro,259,2211
+IA,Jones County,Medium metro,29,184
+IA,Keokuk County,Noncore,16,107
+IA,Kossuth County,Noncore,44,182
+IA,Lee County,Micropolitan,32,426
+IA,Linn County,Medium metro,363,2533
+IA,Louisa County,Noncore,21,83
+IA,Lucas County,Noncore,10,109
+IA,Lyon County,Noncore,23,83
+IA,Madison County,Medium metro,10,116
+IA,Mahaska County,Micropolitan,45,271
+IA,Marion County,Noncore,50,350
+IA,Marshall County,Micropolitan,48,533
+IA,Mitchell County,Noncore,38,162
+IA,Monona County,Noncore,19,180
+IA,Monroe County,Noncore,23,115
+IA,Montgomery County,Noncore,31,189
+IA,Muscatine County,Micropolitan,60,406
+IA,O'Brien County,Noncore,47,225
+IA,Palo Alto County,Noncore,16,143
+IA,Plymouth County,Small metro,45,266
+IA,Pocahontas County,Noncore,15,91
+IA,Polk County,Medium metro,809,6145
+IA,Pottawattamie County,Medium metro,150,1195
+IA,Poweshiek County,Noncore,26,236
+IA,Ringgold County,Noncore,13,110
+IA,Sac County,Noncore,11,131
+IA,Scott County,Medium metro,242,2247
+IA,Shelby County,Noncore,28,175
+IA,Sioux County,Noncore,46,279
+IA,Story County,Small metro,84,731
+IA,Tama County,Noncore,37,149
+IA,Union County,Noncore,17,181
+IA,Van Buren County,Noncore,12,76
+IA,Wapello County,Micropolitan,71,433
+IA,Warren County,Medium metro,45,402
+IA,Washington County,Small metro,39,275
+IA,Wayne County,Noncore,18,96
+IA,Webster County,Micropolitan,105,674
+IA,Winnebago County,Noncore,17,103
+IA,Winneshiek County,Noncore,25,180
+IA,Woodbury County,Small metro,342,1632
+IA,Wright County,Noncore,16,156
+ID,Ada County,Medium metro,584,4847
+ID,Bannock County,Small metro,102,971
+ID,Bingham County,Micropolitan,29,401
+ID,Bonner County,Micropolitan,17,417
+ID,Bonneville County,Small metro,198,1464
+ID,Canyon County,Medium metro,216,1856
+ID,Gem County,Medium metro,11,230
+ID,Gooding County,Noncore,10,164
+ID,Idaho County,Noncore,12,167
+ID,Kootenai County,Small metro,178,2097
+ID,Madison County,Micropolitan,18,222
+ID,Minidoka County,Micropolitan,17,173
+ID,Nez Perce County,Small metro,46,630
+ID,Owyhee County,Medium metro,12,110
+ID,Shoshone County,Noncore,18,130
+ID,Twin Falls County,Micropolitan,176,1165
+ID,Washington County,Noncore,11,152
+IL,Adams County,Micropolitan,189,1268
+IL,Bond County,Large fringe metro,15,158
+IL,Boone County,Medium metro,37,402
+IL,Bureau County,Micropolitan,71,493
+IL,Carroll County,Noncore,12,143
+IL,Cass County,Noncore,20,97
+IL,Champaign County,Small metro,212,2198
+IL,Christian County,Micropolitan,41,401
+IL,Clark County,Noncore,21,177
+IL,Clay County,Noncore,23,151
+IL,Clinton County,Large fringe metro,19,364
+IL,Coles County,Micropolitan,95,727
+IL,Cook County,Large central metro,9029,57052
+IL,Crawford County,Noncore,26,183
+IL,Cumberland County,Micropolitan,13,91
+IL,DeKalb County,Large fringe metro,104,979
+IL,De Witt County,Small metro,17,162
+IL,DuPage County,Large fringe metro,1075,9051
+IL,Edgar County,Noncore,41,257
+IL,Effingham County,Micropolitan,59,458
+IL,Fayette County,Noncore,31,229
+IL,Ford County,Small metro,30,261
+IL,Franklin County,Noncore,32,408
+IL,Fulton County,Micropolitan,34,525
+IL,Greene County,Noncore,29,124
+IL,Grundy County,Large fringe metro,70,557
+IL,Hamilton County,Noncore,14,129
+IL,Hancock County,Micropolitan,25,216
+IL,Henderson County,Micropolitan,11,66
+IL,Henry County,Medium metro,47,543
+IL,Iroquois County,Noncore,23,353
+IL,Jackson County,Small metro,113,751
+IL,Jefferson County,Micropolitan,115,717
+IL,Jersey County,Large fringe metro,42,332
+IL,Jo Daviess County,Noncore,12,211
+IL,Kane County,Large fringe metro,656,4532
+IL,Kankakee County,Small metro,168,1558
+IL,Kendall County,Large fringe metro,13,448
+IL,Knox County,Micropolitan,139,851
+IL,Lake County,Large fringe metro,764,6766
+IL,LaSalle County,Micropolitan,173,1293
+IL,Lawrence County,Noncore,13,140
+IL,Lee County,Micropolitan,77,425
+IL,Livingston County,Micropolitan,57,492
+IL,Logan County,Micropolitan,33,385
+IL,McDonough County,Micropolitan,44,330
+IL,McHenry County,Large fringe metro,193,2079
+IL,McLean County,Small metro,204,1677
+IL,Macon County,Small metro,169,1570
+IL,Macoupin County,Large fringe metro,57,552
+IL,Madison County,Large fringe metro,368,3326
+IL,Marion County,Micropolitan,71,603
+IL,Mason County,Noncore,21,157
+IL,Massac County,Micropolitan,30,218
+IL,Menard County,Small metro,11,92
+IL,Mercer County,Medium metro,13,178
+IL,Monroe County,Large fringe metro,24,245
+IL,Montgomery County,Noncore,50,358
+IL,Morgan County,Micropolitan,81,497
+IL,Ogle County,Micropolitan,29,567
+IL,Peoria County,Medium metro,526,3780
+IL,Perry County,Noncore,39,242
+IL,Piatt County,Small metro,12,186
+IL,Pike County,Noncore,25,191
+IL,Randolph County,Noncore,67,393
+IL,Richland County,Noncore,42,292
+IL,Rock Island County,Medium metro,268,1996
+IL,St. Clair County,Large fringe metro,421,3198
+IL,Saline County,Noncore,44,411
+IL,Sangamon County,Small metro,371,3306
+IL,Schuyler County,Noncore,15,109
+IL,Stark County,Medium metro,12,70
+IL,Stephenson County,Micropolitan,85,718
+IL,Tazewell County,Medium metro,115,1255
+IL,Union County,Noncore,17,227
+IL,Vermilion County,Small metro,78,992
+IL,Warren County,Noncore,24,198
+IL,Washington County,Noncore,20,126
+IL,Wayne County,Noncore,29,179
+IL,White County,Noncore,22,215
+IL,Whiteside County,Micropolitan,163,851
+IL,Will County,Large fringe metro,717,5779
+IL,Williamson County,Small metro,114,1067
+IL,Winnebago County,Medium metro,512,4223
+IL,Woodford County,Medium metro,36,382
+IN,Adams County,Micropolitan,27,298
+IN,Allen County,Medium metro,788,5599
+IN,Bartholomew County,Small metro,168,1067
+IN,Blackford County,Noncore,11,143
+IN,Boone County,Large fringe metro,79,549
+IN,Brown County,Large fringe metro,18,150
+IN,Cass County,Micropolitan,56,397
+IN,Clark County,Large fringe metro,118,1232
+IN,Clay County,Small metro,17,238
+IN,Clinton County,Micropolitan,24,364
+IN,Daviess County,Micropolitan,45,353
+IN,Dearborn County,Large fringe metro,66,472
+IN,Decatur County,Micropolitan,58,319
+IN,De Kalb County,Micropolitan,68,500
+IN,Delaware County,Small metro,204,1829
+IN,Dubois County,Micropolitan,89,599
+IN,Elkhart County,Small metro,389,2258
+IN,Fayette County,Micropolitan,21,222
+IN,Floyd County,Large fringe metro,174,1279
+IN,Fountain County,Noncore,18,176
+IN,Fulton County,Noncore,22,220
+IN,Gibson County,Noncore,28,251
+IN,Grant County,Micropolitan,119,908
+IN,Greene County,Noncore,57,298
+IN,Hamilton County,Large fringe metro,307,2354
+IN,Hancock County,Large fringe metro,85,734
+IN,Harrison County,Large fringe metro,33,405
+IN,Hendricks County,Large fringe metro,294,1863
+IN,Henry County,Micropolitan,40,550
+IN,Howard County,Small metro,141,1228
+IN,Huntington County,Micropolitan,39,373
+IN,Jackson County,Micropolitan,61,532
+IN,Jasper County,Large fringe metro,19,279
+IN,Jefferson County,Micropolitan,46,388
+IN,Jennings County,Micropolitan,12,219
+IN,Johnson County,Large fringe metro,179,1390
+IN,Knox County,Micropolitan,124,669
+IN,Kosciusko County,Micropolitan,45,683
+IN,Lagrange County,Noncore,47,258
+IN,Lake County,Large fringe metro,849,6944
+IN,La Porte County,Small metro,146,1350
+IN,Lawrence County,Micropolitan,61,506
+IN,Madison County,Large fringe metro,227,1665
+IN,Marion County,Large central metro,1796,12877
+IN,Marshall County,Micropolitan,75,529
+IN,Martin County,Noncore,12,71
+IN,Miami County,Micropolitan,25,354
+IN,Monroe County,Small metro,203,1608
+IN,Montgomery County,Micropolitan,44,393
+IN,Morgan County,Large fringe metro,59,667
+IN,Newton County,Large fringe metro,19,133
+IN,Noble County,Micropolitan,45,440
+IN,Orange County,Noncore,25,203
+IN,Owen County,Small metro,29,220
+IN,Perry County,Noncore,20,183
+IN,Pike County,Micropolitan,22,134
+IN,Porter County,Large fringe metro,207,1948
+IN,Pulaski County,Noncore,27,156
+IN,Putnam County,Large fringe metro,26,368
+IN,Randolph County,Noncore,14,241
+IN,Ripley County,Noncore,39,352
+IN,St. Joseph County,Medium metro,420,3615
+IN,Scott County,Large fringe metro,17,289
+IN,Shelby County,Large fringe metro,73,517
+IN,Starke County,Noncore,18,204
+IN,Steuben County,Micropolitan,21,298
+IN,Sullivan County,Small metro,15,211
+IN,Tippecanoe County,Small metro,224,1842
+IN,Tipton County,Noncore,31,181
+IN,Vanderburgh County,Medium metro,441,3277
+IN,Vermillion County,Small metro,18,171
+IN,Vigo County,Small metro,248,1786
+IN,Wabash County,Micropolitan,50,481
+IN,Warrick County,Medium metro,201,1206
+IN,Wayne County,Micropolitan,210,1339
+IN,Wells County,Medium metro,42,330
+IN,White County,Noncore,22,256
+IN,Whitley County,Medium metro,17,294
+KS,Barton County,Micropolitan,21,291
+KS,Brown County,Noncore,20,130
+KS,Butler County,Medium metro,43,740
+KS,Cherokee County,Noncore,12,194
+KS,Clay County,Noncore,20,115
+KS,Cloud County,Noncore,21,144
+KS,Cowley County,Micropolitan,72,441
+KS,Crawford County,Micropolitan,74,576
+KS,Dickinson County,Noncore,36,237
+KS,Doniphan County,Small metro,14,80
+KS,Douglas County,Small metro,71,918
+KS,Ellis County,Micropolitan,120,496
+KS,Ellsworth County,Noncore,17,94
+KS,Finney County,Micropolitan,84,349
+KS,Ford County,Micropolitan,52,296
+KS,Franklin County,Micropolitan,20,255
+KS,Geary County,Micropolitan,27,188
+KS,Gove County,Noncore,19,52
+KS,Harper County,Noncore,13,90
+KS,Harvey County,Medium metro,58,486
+KS,Jefferson County,Small metro,20,151
+KS,Johnson County,Large fringe metro,697,5480
+KS,Kearny County,Micropolitan,10,39
+KS,Labette County,Micropolitan,39,286
+KS,Leavenworth County,Large fringe metro,33,574
+KS,Lyon County,Micropolitan,51,315
+KS,McPherson County,Micropolitan,50,417
+KS,Marshall County,Noncore,23,114
+KS,Miami County,Large fringe metro,15,260
+KS,Mitchell County,Noncore,13,106
+KS,Montgomery County,Micropolitan,54,440
+KS,Morris County,Noncore,15,81
+KS,Nemaha County,Noncore,45,189
+KS,Neosho County,Noncore,14,231
+KS,Ness County,Noncore,11,49
+KS,Norton County,Noncore,25,80
+KS,Phillips County,Noncore,16,68
+KS,Pottawatomie County,Small metro,23,166
+KS,Pratt County,Noncore,23,130
+KS,Reno County,Micropolitan,143,971
+KS,Riley County,Small metro,44,514
+KS,Rooks County,Noncore,11,49
+KS,Russell County,Noncore,14,108
+KS,Saline County,Micropolitan,144,865
+KS,Scott County,Noncore,19,59
+KS,Sedgwick County,Medium metro,840,7270
+KS,Seward County,Micropolitan,39,183
+KS,Shawnee County,Small metro,402,2924
+KS,Sumner County,Medium metro,24,261
+KS,Thomas County,Noncore,11,69
+KS,Wyandotte County,Large fringe metro,410,2522
+KY,Allen County,Small metro,14,164
+KY,Barren County,Micropolitan,94,721
+KY,Bell County,Micropolitan,39,354
+KY,Boone County,Large fringe metro,63,939
+KY,Boyd County,Medium metro,173,1381
+KY,Boyle County,Micropolitan,126,678
+KY,Caldwell County,Noncore,16,139
+KY,Calloway County,Micropolitan,40,440
+KY,Campbell County,Large fringe metro,173,951
+KY,Casey County,Noncore,13,162
+KY,Christian County,Medium metro,62,639
+KY,Clark County,Medium metro,29,407
+KY,Clay County,Noncore,18,224
+KY,Daviess County,Small metro,221,1634
+KY,Fayette County,Medium metro,445,5918
+KY,Floyd County,Noncore,44,532
+KY,Franklin County,Micropolitan,57,673
+KY,Garrard County,Noncore,10,138
+KY,Graves County,Micropolitan,83,519
+KY,Grayson County,Noncore,17,278
+KY,Greenup County,Medium metro,13,330
+KY,Hardin County,Small metro,133,1349
+KY,Harlan County,Noncore,30,447
+KY,Harrison County,Noncore,12,242
+KY,Hart County,Noncore,14,185
+KY,Henderson County,Medium metro,34,545
+KY,Hopkins County,Micropolitan,134,852
+KY,Jefferson County,Large central metro,1415,13024
+KY,Jessamine County,Medium metro,27,383
+KY,Kenton County,Large fringe metro,122,2063
+KY,Knox County,Micropolitan,21,339
+KY,Laurel County,Micropolitan,46,777
+KY,Lawrence County,Noncore,13,188
+KY,Lee County,Noncore,12,107
+KY,Letcher County,Noncore,21,241
+KY,Lewis County,Noncore,11,95
+KY,Lincoln County,Micropolitan,12,242
+KY,Logan County,Noncore,14,227
+KY,McCracken County,Micropolitan,207,1605
+KY,Madison County,Micropolitan,84,974
+KY,Marion County,Noncore,23,202
+KY,Marshall County,Noncore,17,352
+KY,Mason County,Micropolitan,44,400
+KY,Mercer County,Noncore,22,260
+KY,Monroe County,Noncore,22,114
+KY,Montgomery County,Micropolitan,22,318
+KY,Muhlenberg County,Noncore,19,317
+KY,Nelson County,Micropolitan,18,399
+KY,Ohio County,Noncore,12,256
+KY,Oldham County,Large fringe metro,31,360
+KY,Perry County,Noncore,86,1026
+KY,Pike County,Noncore,149,1522
+KY,Pulaski County,Micropolitan,90,1102
+KY,Rockcastle County,Micropolitan,24,249
+KY,Rowan County,Noncore,19,360
+KY,Russell County,Noncore,25,219
+KY,Scott County,Medium metro,22,400
+KY,Shelby County,Large fringe metro,26,303
+KY,Simpson County,Noncore,10,150
+KY,Spencer County,Large fringe metro,10,116
+KY,Taylor County,Micropolitan,19,305
+KY,Warren County,Small metro,301,2011
+KY,Washington County,Noncore,15,105
+KY,Wayne County,Noncore,21,203
+KY,Whitley County,Micropolitan,76,640
+LA,Acadia Parish,Medium metro,86,725
+LA,Allen Parish,Noncore,32,273
+LA,Ascension Parish,Medium metro,50,686
+LA,Avoyelles Parish,Noncore,37,519
+LA,Beauregard Parish,Micropolitan,38,349
+LA,Bienville Parish,Noncore,13,184
+LA,Bossier Parish,Medium metro,155,1218
+LA,Caddo Parish,Medium metro,941,5119
+LA,Calcasieu Parish,Small metro,303,2555
+LA,Claiborne Parish,Noncore,32,195
+LA,Concordia Parish,Micropolitan,15,224
+LA,De Soto Parish,Medium metro,15,198
+LA,East Baton Rouge Parish,Medium metro,1129,7168
+LA,East Feliciana Parish,Medium metro,23,181
+LA,Evangeline Parish,Noncore,48,417
+LA,Franklin Parish,Noncore,26,230
+LA,Grant Parish,Small metro,18,215
+LA,Iberia Parish,Medium metro,80,874
+LA,Iberville Parish,Medium metro,11,290
+LA,Jefferson Parish,Large fringe metro,1065,6700
+LA,Jefferson Davis Parish,Noncore,70,470
+LA,Lafayette Parish,Medium metro,436,3342
+LA,Lafourche Parish,Small metro,172,1130
+LA,LaSalle Parish,Noncore,21,201
+LA,Lincoln Parish,Micropolitan,76,575
+LA,Livingston Parish,Medium metro,27,872
+LA,Morehouse Parish,Micropolitan,17,349
+LA,Natchitoches Parish,Micropolitan,54,431
+LA,Orleans Parish,Large central metro,517,4982
+LA,Ouachita Parish,Small metro,502,2576
+LA,Pointe Coupee Parish,Medium metro,26,255
+LA,Rapides Parish,Small metro,413,2625
+LA,Red River Parish,Noncore,13,124
+LA,Sabine Parish,Noncore,19,247
+LA,St. Bernard Parish,Large fringe metro,22,302
+LA,St. Charles Parish,Large fringe metro,38,424
+LA,St. James Parish,Large fringe metro,21,169
+LA,St. John the Baptist Parish,Large fringe metro,35,317
+LA,St. Landry Parish,Micropolitan,175,1175
+LA,St. Martin Parish,Medium metro,27,458
+LA,St. Mary Parish,Micropolitan,76,574
+LA,St. Tammany Parish,Large fringe metro,449,3369
+LA,Tangipahoa Parish,Small metro,180,1576
+LA,Terrebonne Parish,Small metro,143,1343
+LA,Union Parish,Small metro,30,281
+LA,Vermilion Parish,Medium metro,32,622
+LA,Vernon Parish,Micropolitan,40,385
+LA,Washington Parish,Micropolitan,50,553
+LA,Webster Parish,Medium metro,45,569
+LA,West Carroll Parish,Noncore,17,112
+LA,Winn Parish,Noncore,28,183
+MA,Barnstable County,Small metro,259,3272
+MA,Berkshire County,Small metro,194,1848
+MA,Bristol County,Large fringe metro,990,6407
+MA,Essex County,Large fringe metro,1444,8850
+MA,Franklin County,Micropolitan,49,593
+MA,Hampden County,Medium metro,1019,6685
+MA,Hampshire County,Medium metro,166,1451
+MA,Middlesex County,Large fringe metro,2549,14110
+MA,Norfolk County,Large fringe metro,971,6662
+MA,Plymouth County,Large fringe metro,818,5552
+MA,Suffolk County,Large central metro,1748,10497
+MA,Worcester County,Medium metro,1524,9399
+MD,Allegany County,Small metro,227,1392
+MD,Anne Arundel County,Large fringe metro,595,5640
+MD,Baltimore County,Large fringe metro,1183,10386
+MD,Calvert County,Large fringe metro,56,754
+MD,Caroline County,Noncore,10,268
+MD,Carroll County,Large fringe metro,238,2029
+MD,Cecil County,Large fringe metro,123,1196
+MD,Charles County,Large fringe metro,126,1238
+MD,Dorchester County,Micropolitan,21,349
+MD,Frederick County,Large fringe metro,247,2310
+MD,Garrett County,Noncore,65,414
+MD,Harford County,Large fringe metro,196,2607
+MD,Howard County,Large fringe metro,177,2091
+MD,Kent County,Noncore,36,341
+MD,Montgomery County,Large fringe metro,1792,9361
+MD,Prince George's County,Large fringe metro,996,7086
+MD,St. Mary's County,Small metro,121,1003
+MD,Talbot County,Micropolitan,59,765
+MD,Washington County,Medium metro,289,2251
+MD,Wicomico County,Medium metro,240,1790
+MD,Worcester County,Medium metro,92,823
+MD,Baltimore city,Large central metro,1205,10933
+ME,Androscoggin County,Small metro,65,1601
+ME,Aroostook County,Noncore,43,969
+ME,Cumberland County,Medium metro,225,4405
+ME,Franklin County,Noncore,13,350
+ME,Hancock County,Noncore,26,638
+ME,Kennebec County,Micropolitan,49,1601
+ME,Oxford County,Noncore,31,599
+ME,Penobscot County,Small metro,109,2489
+ME,Somerset County,Noncore,24,576
+ME,Waldo County,Noncore,17,328
+ME,York County,Medium metro,101,1793
+MI,Allegan County,Micropolitan,51,1042
+MI,Alpena County,Micropolitan,55,476
+MI,Arenac County,Noncore,13,175
+MI,Baraga County,Noncore,24,102
+MI,Barry County,Large fringe metro,17,496
+MI,Bay County,Small metro,244,1821
+MI,Benzie County,Micropolitan,13,179
+MI,Berrien County,Small metro,209,2011
+MI,Branch County,Micropolitan,46,454
+MI,Calhoun County,Small metro,144,1896
+MI,Cass County,Medium metro,24,430
+MI,Cheboygan County,Noncore,27,280
+MI,Chippewa County,Micropolitan,17,359
+MI,Clare County,Noncore,40,420
+MI,Clinton County,Medium metro,22,500
+MI,Crawford County,Noncore,30,258
+MI,Delta County,Micropolitan,60,529
+MI,Dickinson County,Micropolitan,62,397
+MI,Eaton County,Medium metro,33,940
+MI,Emmet County,Noncore,70,722
+MI,Genesee County,Medium metro,636,6038
+MI,Gladwin County,Noncore,17,301
+MI,Gogebic County,Noncore,28,203
+MI,Grand Traverse County,Micropolitan,109,1663
+MI,Gratiot County,Micropolitan,87,592
+MI,Hillsdale County,Micropolitan,43,472
+MI,Houghton County,Micropolitan,27,403
+MI,Huron County,Noncore,29,396
+MI,Ingham County,Medium metro,345,3770
+MI,Ionia County,Micropolitan,28,444
+MI,Iosco County,Noncore,34,411
+MI,Iron County,Noncore,34,217
+MI,Isabella County,Micropolitan,34,669
+MI,Jackson County,Small metro,254,2268
+MI,Kalamazoo County,Medium metro,423,3702
+MI,Kent County,Large central metro,745,7361
+MI,Lapeer County,Large fringe metro,98,1006
+MI,Lenawee County,Micropolitan,64,1045
+MI,Livingston County,Large fringe metro,61,1510
+MI,Macomb County,Large fringe metro,1199,9772
+MI,Manistee County,Noncore,12,329
+MI,Marquette County,Micropolitan,83,935
+MI,Mason County,Micropolitan,20,375
+MI,Mecosta County,Micropolitan,20,487
+MI,Menominee County,Micropolitan,10,214
+MI,Midland County,Small metro,77,1174
+MI,Monroe County,Small metro,83,1420
+MI,Montcalm County,Large fringe metro,61,669
+MI,Muskegon County,Small metro,313,2364
+MI,Newaygo County,Noncore,21,520
+MI,Oakland County,Large fringe metro,2304,16169
+MI,Oceana County,Noncore,14,226
+MI,Ogemaw County,Noncore,18,325
+MI,Ontonagon County,Noncore,10,85
+MI,Otsego County,Noncore,11,305
+MI,Ottawa County,Large fringe metro,228,2347
+MI,Presque Isle County,Noncore,13,160
+MI,Roscommon County,Noncore,10,289
+MI,Saginaw County,Small metro,531,3390
+MI,St. Clair County,Large fringe metro,198,2098
+MI,St. Joseph County,Micropolitan,36,598
+MI,Sanilac County,Noncore,37,457
+MI,Shiawassee County,Micropolitan,44,815
+MI,Tuscola County,Noncore,33,505
+MI,Van Buren County,Medium metro,47,603
+MI,Washtenaw County,Medium metro,460,4572
+MI,Wayne County,Large central metro,3257,24150
+MI,Wexford County,Micropolitan,22,401
+MN,Aitkin County,Noncore,28,243
+MN,Anoka County,Large fringe metro,436,2748
+MN,Becker County,Noncore,34,410
+MN,Beltrami County,Micropolitan,67,519
+MN,Benton County,Small metro,57,425
+MN,Blue Earth County,Small metro,62,698
+MN,Brown County,Micropolitan,32,335
+MN,Carlton County,Medium metro,34,364
+MN,Carver County,Large fringe metro,37,589
+MN,Chippewa County,Noncore,26,160
+MN,Chisago County,Large fringe metro,33,510
+MN,Clay County,Small metro,52,400
+MN,Cottonwood County,Noncore,20,154
+MN,Crow Wing County,Micropolitan,75,750
+MN,Dakota County,Large fringe metro,235,2686
+MN,Douglas County,Micropolitan,57,516
+MN,Faribault County,Noncore,11,188
+MN,Freeborn County,Micropolitan,22,366
+MN,Goodhue County,Micropolitan,61,574
+MN,Hennepin County,Large central metro,1866,13335
+MN,Hubbard County,Noncore,32,230
+MN,Isanti County,Large fringe metro,20,312
+MN,Itasca County,Noncore,34,515
+MN,Kanabec County,Noncore,13,176
+MN,Kandiyohi County,Micropolitan,70,466
+MN,Kittson County,Noncore,21,64
+MN,Lac qui Parle County,Noncore,15,91
+MN,Lake County,Noncore,13,150
+MN,Lyon County,Micropolitan,42,251
+MN,McLeod County,Micropolitan,36,427
+MN,Martin County,Noncore,17,204
+MN,Meeker County,Noncore,30,225
+MN,Mille Lacs County,Large fringe metro,33,288
+MN,Morrison County,Noncore,35,341
+MN,Mower County,Micropolitan,27,358
+MN,Nicollet County,Small metro,31,223
+MN,Nobles County,Micropolitan,30,188
+MN,Olmsted County,Small metro,173,2394
+MN,Otter Tail County,Micropolitan,46,727
+MN,Pennington County,Noncore,12,128
+MN,Pine County,Noncore,16,252
+MN,Pipestone County,Noncore,15,106
+MN,Polk County,Small metro,51,353
+MN,Ramsey County,Large central metro,1065,6752
+MN,Redwood County,Noncore,21,170
+MN,Renville County,Noncore,35,163
+MN,Rice County,Micropolitan,60,578
+MN,Rock County,Noncore,10,134
+MN,Roseau County,Noncore,13,153
+MN,St. Louis County,Medium metro,363,3368
+MN,Scott County,Large fringe metro,75,815
+MN,Sherburne County,Large fringe metro,50,626
+MN,Stearns County,Small metro,309,2144
+MN,Steele County,Micropolitan,10,333
+MN,Swift County,Noncore,15,115
+MN,Todd County,Noncore,23,189
+MN,Wadena County,Noncore,16,218
+MN,Waseca County,Noncore,15,168
+MN,Washington County,Large fringe metro,186,1859
+MN,Winona County,Micropolitan,50,424
+MN,Wright County,Large fringe metro,77,814
+MN,Yellow Medicine County,Noncore,15,89
+MO,Adair County,Micropolitan,22,252
+MO,Andrew County,Small metro,10,143
+MO,Audrain County,Micropolitan,28,311
+MO,Barry County,Noncore,25,371
+MO,Bates County,Large fringe metro,18,199
+MO,Benton County,Noncore,15,278
+MO,Boone County,Small metro,314,2682
+MO,Buchanan County,Small metro,205,1480
+MO,Butler County,Micropolitan,69,846
+MO,Callaway County,Small metro,18,319
+MO,Camden County,Noncore,107,751
+MO,Cape Girardeau County,Small metro,227,1817
+MO,Carroll County,Noncore,20,101
+MO,Cass County,Large fringe metro,37,892
+MO,Chariton County,Noncore,14,121
+MO,Christian County,Medium metro,27,529
+MO,Clark County,Micropolitan,10,53
+MO,Clay County,Large fringe metro,395,2962
+MO,Clinton County,Large fringe metro,62,369
+MO,Cole County,Small metro,233,1212
+MO,Cooper County,Noncore,12,156
+MO,Crawford County,Noncore,35,343
+MO,Dade County,Noncore,18,84
+MO,Dallas County,Medium metro,21,209
+MO,Dent County,Noncore,12,216
+MO,Douglas County,Noncore,18,145
+MO,Dunklin County,Micropolitan,15,319
+MO,Franklin County,Large fringe metro,152,1166
+MO,Gasconade County,Noncore,38,246
+MO,Gentry County,Noncore,13,78
+MO,Greene County,Medium metro,820,5530
+MO,Grundy County,Noncore,22,129
+MO,Harrison County,Noncore,10,82
+MO,Henry County,Noncore,19,282
+MO,Hickory County,Noncore,16,115
+MO,Howell County,Micropolitan,90,734
+MO,Jackson County,Large central metro,864,9634
+MO,Jasper County,Small metro,86,1059
+MO,Jefferson County,Large fringe metro,166,1879
+MO,Johnson County,Micropolitan,52,483
+MO,Laclede County,Micropolitan,44,413
+MO,Lafayette County,Large fringe metro,30,334
+MO,Lawrence County,Noncore,53,477
+MO,Lincoln County,Large fringe metro,21,388
+MO,Linn County,Noncore,13,141
+MO,Livingston County,Noncore,35,189
+MO,Macon County,Noncore,17,249
+MO,Madison County,Noncore,14,163
+MO,Marion County,Micropolitan,71,485
+MO,Miller County,Noncore,16,261
+MO,Monroe County,Noncore,12,88
+MO,Montgomery County,Noncore,12,165
+MO,Morgan County,Noncore,18,250
+MO,New Madrid County,Noncore,16,215
+MO,Newton County,Small metro,317,1895
+MO,Nodaway County,Micropolitan,18,192
+MO,Pemiscot County,Noncore,17,228
+MO,Perry County,Noncore,11,199
+MO,Pettis County,Micropolitan,71,582
+MO,Phelps County,Micropolitan,101,704
+MO,Platte County,Large fringe metro,66,773
+MO,Polk County,Medium metro,66,456
+MO,Pulaski County,Micropolitan,14,268
+MO,Randolph County,Micropolitan,34,320
+MO,St. Charles County,Large fringe metro,484,3783
+MO,St. Clair County,Noncore,11,116
+MO,St. Francois County,Micropolitan,67,914
+MO,St. Louis County,Large fringe metro,2201,16084
+MO,Saline County,Micropolitan,23,244
+MO,Scotland County,Noncore,11,78
+MO,Scott County,Micropolitan,80,586
+MO,Stoddard County,Noncore,16,325
+MO,Taney County,Micropolitan,57,706
+MO,Texas County,Noncore,16,350
+MO,Vernon County,Noncore,29,236
+MO,Warren County,Large fringe metro,11,250
+MO,Wayne County,Noncore,10,138
+MO,Webster County,Medium metro,23,262
+MO,Wright County,Noncore,10,142
+MO,St. Louis city,Large central metro,538,5769
+MS,Adams County,Micropolitan,90,501
+MS,Alcorn County,Micropolitan,104,751
+MS,Amite County,Micropolitan,17,139
+MS,Attala County,Noncore,30,281
+MS,Bolivar County,Micropolitan,56,405
+MS,Calhoun County,Noncore,13,191
+MS,Chickasaw County,Noncore,11,135
+MS,Claiborne County,Micropolitan,11,80
+MS,Clarke County,Micropolitan,25,177
+MS,Clay County,Noncore,16,207
+MS,Coahoma County,Micropolitan,48,339
+MS,Copiah County,Medium metro,24,285
+MS,Covington County,Noncore,16,197
+MS,DeSoto County,Large fringe metro,359,2045
+MS,Forrest County,Small metro,374,1932
+MS,Franklin County,Noncore,12,96
+MS,George County,Noncore,29,270
+MS,Grenada County,Micropolitan,53,354
+MS,Hancock County,Medium metro,21,449
+MS,Harrison County,Medium metro,301,2983
+MS,Hinds County,Medium metro,965,5744
+MS,Holmes County,Noncore,19,173
+MS,Itawamba County,Micropolitan,13,210
+MS,Jackson County,Medium metro,229,1869
+MS,Jones County,Micropolitan,119,884
+MS,Lafayette County,Micropolitan,237,989
+MS,Lamar County,Small metro,107,666
+MS,Lauderdale County,Micropolitan,413,1842
+MS,Lawrence County,Noncore,10,125
+MS,Leake County,Noncore,31,217
+MS,Lee County,Micropolitan,476,2693
+MS,Leflore County,Micropolitan,129,632
+MS,Lincoln County,Micropolitan,83,522
+MS,Lowndes County,Micropolitan,201,1010
+MS,Madison County,Medium metro,109,1198
+MS,Marion County,Noncore,24,273
+MS,Marshall County,Large fringe metro,36,369
+MS,Monroe County,Noncore,83,476
+MS,Montgomery County,Noncore,21,147
+MS,Neshoba County,Noncore,53,401
+MS,Oktibbeha County,Micropolitan,77,412
+MS,Panola County,Noncore,41,328
+MS,Pearl River County,Micropolitan,52,687
+MS,Pike County,Micropolitan,95,674
+MS,Pontotoc County,Micropolitan,13,265
+MS,Prentiss County,Noncore,31,257
+MS,Rankin County,Medium metro,136,1286
+MS,Scott County,Noncore,14,260
+MS,Sharkey County,Noncore,10,57
+MS,Simpson County,Medium metro,62,324
+MS,Sunflower County,Micropolitan,53,367
+MS,Tallahatchie County,Noncore,12,129
+MS,Tate County,Large fringe metro,22,230
+MS,Tippah County,Noncore,31,246
+MS,Tishomingo County,Noncore,34,296
+MS,Union County,Noncore,60,287
+MS,Warren County,Micropolitan,146,773
+MS,Washington County,Micropolitan,147,885
+MS,Wayne County,Noncore,31,226
+MS,Webster County,Noncore,22,168
+MS,Wilkinson County,Noncore,10,95
+MS,Winston County,Noncore,44,248
+MS,Yazoo County,Medium metro,33,270
+MT,Cascade County,Small metro,206,1381
+MT,Custer County,Noncore,12,131
+MT,Dawson County,Noncore,24,126
+MT,Deer Lodge County,Noncore,12,143
+MT,Fergus County,Noncore,22,180
+MT,Flathead County,Micropolitan,109,1339
+MT,Gallatin County,Micropolitan,49,696
+MT,Glacier County,Noncore,11,103
+MT,Hill County,Noncore,42,190
+MT,Lake County,Noncore,17,295
+MT,Lewis and Clark County,Micropolitan,66,772
+MT,Missoula County,Small metro,113,1291
+MT,Phillips County,Noncore,10,44
+MT,Ravalli County,Noncore,34,509
+MT,Roosevelt County,Noncore,23,130
+MT,Silver Bow County,Micropolitan,76,497
+MT,Valley County,Noncore,11,88
+MT,Yellowstone County,Small metro,429,2628
+NC,Alamance County,Small metro,44,1580
+NC,Beaufort County,Micropolitan,39,417
+NC,Bertie County,Noncore,10,176
+NC,Brunswick County,Medium metro,30,1099
+NC,Buncombe County,Medium metro,185,3459
+NC,Burke County,Medium metro,69,890
+NC,Cabarrus County,Large fringe metro,137,1712
+NC,Caldwell County,Medium metro,23,781
+NC,Carteret County,Micropolitan,12,767
+NC,Catawba County,Medium metro,84,1668
+NC,Chatham County,Medium metro,53,728
+NC,Cherokee County,Noncore,16,276
+NC,Chowan County,Noncore,17,172
+NC,Cleveland County,Micropolitan,100,1136
+NC,Columbus County,Noncore,23,581
+NC,Craven County,Small metro,86,1116
+NC,Cumberland County,Medium metro,121,2490
+NC,Davidson County,Medium metro,29,1277
+NC,Duplin County,Noncore,29,392
+NC,Durham County,Medium metro,195,3181
+NC,Edgecombe County,Small metro,53,527
+NC,Forsyth County,Medium metro,245,4702
+NC,Franklin County,Large fringe metro,12,339
+NC,Gaston County,Large fringe metro,107,2086
+NC,Granville County,Micropolitan,15,411
+NC,Guilford County,Medium metro,330,4997
+NC,Halifax County,Micropolitan,23,498
+NC,Harnett County,Micropolitan,45,792
+NC,Haywood County,Medium metro,35,637
+NC,Henderson County,Medium metro,86,1296
+NC,Hertford County,Noncore,36,267
+NC,Hoke County,Medium metro,10,236
+NC,Iredell County,Large fringe metro,49,1461
+NC,Johnston County,Large fringe metro,39,1218
+NC,Lee County,Micropolitan,18,449
+NC,Lenoir County,Micropolitan,39,547
+NC,Lincoln County,Large fringe metro,28,621
+NC,McDowell County,Micropolitan,17,311
+NC,Mecklenburg County,Large central metro,517,7456
+NC,Moore County,Micropolitan,104,1296
+NC,Nash County,Small metro,86,956
+NC,New Hanover County,Medium metro,95,2688
+NC,Onslow County,Small metro,28,824
+NC,Orange County,Medium metro,110,1264
+NC,Pasquotank County,Micropolitan,36,478
+NC,Pitt County,Small metro,128,2204
+NC,Randolph County,Medium metro,22,981
+NC,Richmond County,Micropolitan,21,419
+NC,Robeson County,Micropolitan,77,1117
+NC,Rockingham County,Medium metro,25,861
+NC,Rowan County,Large fringe metro,113,1390
+NC,Rutherford County,Micropolitan,58,733
+NC,Sampson County,Noncore,11,399
+NC,Scotland County,Micropolitan,28,466
+NC,Stanly County,Micropolitan,26,518
+NC,Surry County,Micropolitan,39,901
+NC,Union County,Large fringe metro,70,1178
+NC,Vance County,Micropolitan,50,445
+NC,Wake County,Large central metro,376,5953
+NC,Watauga County,Micropolitan,10,310
+NC,Wayne County,Small metro,88,1295
+NC,Wilkes County,Micropolitan,23,537
+NC,Wilson County,Micropolitan,59,703
+ND,Adams County,Noncore,14,63
+ND,Barnes County,Noncore,25,139
+ND,Bottineau County,Noncore,13,52
+ND,Burleigh County,Small metro,272,1492
+ND,Cass County,Small metro,485,2673
+ND,Dickey County,Noncore,28,84
+ND,Foster County,Noncore,18,46
+ND,Grand Forks County,Small metro,121,844
+ND,Grant County,Noncore,10,29
+ND,LaMoure County,Noncore,13,44
+ND,McHenry County,Micropolitan,16,67
+ND,McLean County,Noncore,24,127
+ND,Morton County,Small metro,39,299
+ND,Nelson County,Noncore,13,63
+ND,Pembina County,Noncore,10,63
+ND,Pierce County,Noncore,23,56
+ND,Ramsey County,Noncore,21,144
+ND,Ransom County,Noncore,16,95
+ND,Renville County,Micropolitan,10,24
+ND,Stark County,Micropolitan,39,245
+ND,Stutsman County,Micropolitan,64,258
+ND,Traill County,Noncore,13,106
+ND,Walsh County,Noncore,15,127
+ND,Ward County,Micropolitan,202,935
+ND,Williams County,Micropolitan,18,193
+NE,Adams County,Micropolitan,65,399
+NE,Buffalo County,Micropolitan,128,685
+NE,Cedar County,Noncore,16,85
+NE,Cheyenne County,Noncore,13,98
+NE,Clay County,Noncore,10,65
+NE,Cuming County,Noncore,15,111
+NE,Dakota County,Small metro,21,133
+NE,Dawes County,Noncore,17,102
+NE,Dawson County,Micropolitan,30,238
+NE,Dodge County,Micropolitan,62,506
+NE,Douglas County,Medium metro,884,6731
+NE,Fillmore County,Noncore,12,69
+NE,Gage County,Micropolitan,20,283
+NE,Hall County,Small metro,125,694
+NE,Hamilton County,Small metro,21,92
+NE,Howard County,Small metro,12,84
+NE,Lancaster County,Medium metro,356,3485
+NE,Lincoln County,Micropolitan,81,545
+NE,Madison County,Micropolitan,79,508
+NE,Morrill County,Noncore,11,74
+NE,Nemaha County,Noncore,16,92
+NE,Nuckolls County,Noncore,12,65
+NE,Perkins County,Noncore,11,41
+NE,Phelps County,Noncore,11,117
+NE,Pierce County,Micropolitan,14,73
+NE,Platte County,Micropolitan,40,296
+NE,Polk County,Noncore,16,91
+NE,Red Willow County,Noncore,12,137
+NE,Richardson County,Noncore,12,125
+NE,Sarpy County,Medium metro,59,1030
+NE,Scotts Bluff County,Micropolitan,111,600
+NE,Seward County,Medium metro,14,141
+NE,Sheridan County,Noncore,17,92
+NE,Washington County,Medium metro,10,167
+NH,Belknap County,Micropolitan,90,806
+NH,Cheshire County,Micropolitan,30,817
+NH,Coos County,Micropolitan,32,486
+NH,Grafton County,Micropolitan,26,1629
+NH,Hillsborough County,Medium metro,581,4407
+NH,Merrimack County,Micropolitan,109,1853
+NH,Rockingham County,Large fringe metro,177,2759
+NH,Strafford County,Large fringe metro,65,1395
+NH,Sullivan County,Micropolitan,16,387
+NJ,Atlantic County,Medium metro,439,3696
+NJ,Bergen County,Large fringe metro,2694,11181
+NJ,Burlington County,Large fringe metro,649,4527
+NJ,Camden County,Large fringe metro,1026,7787
+NJ,Cape May County,Small metro,129,1370
+NJ,Cumberland County,Small metro,289,2014
+NJ,Essex County,Large central metro,2569,10168
+NJ,Gloucester County,Large fringe metro,451,3344
+NJ,Hudson County,Large central metro,1391,5186
+NJ,Hunterdon County,Large fringe metro,147,1032
+NJ,Mercer County,Medium metro,713,3821
+NJ,Middlesex County,Large fringe metro,2015,9366
+NJ,Monmouth County,Large fringe metro,1329,8221
+NJ,Morris County,Large fringe metro,1333,6552
+NJ,Ocean County,Large fringe metro,1399,8735
+NJ,Passaic County,Large fringe metro,1331,5298
+NJ,Salem County,Large fringe metro,93,815
+NJ,Somerset County,Large fringe metro,547,2937
+NJ,Sussex County,Large fringe metro,202,1445
+NJ,Union County,Large central metro,1319,5961
+NJ,Warren County,Medium metro,173,1199
+NM,Bernalillo County,Medium metro,1286,9286
+NM,Chaves County,Micropolitan,121,810
+NM,Cibola County,Micropolitan,47,271
+NM,Colfax County,Noncore,29,166
+NM,Curry County,Micropolitan,51,442
+NM,Dona Ana County,Small metro,339,2412
+NM,Eddy County,Micropolitan,57,545
+NM,Grant County,Micropolitan,21,375
+NM,Lea County,Micropolitan,67,553
+NM,Lincoln County,Noncore,13,177
+NM,Luna County,Micropolitan,22,273
+NM,McKinley County,Micropolitan,166,717
+NM,Otero County,Micropolitan,23,639
+NM,Rio Arriba County,Micropolitan,30,383
+NM,Roosevelt County,Micropolitan,16,134
+NM,Sandoval County,Medium metro,311,1724
+NM,San Juan County,Small metro,375,1515
+NM,Santa Fe County,Small metro,144,1617
+NM,Sierra County,Noncore,41,263
+NM,Socorro County,Noncore,16,149
+NM,Taos County,Micropolitan,34,334
+NM,Valencia County,Medium metro,21,599
+NV,Churchill County,Micropolitan,54,335
+NV,Clark County,Large central metro,3606,24425
+NV,Douglas County,Micropolitan,28,471
+NV,Elko County,Micropolitan,25,352
+NV,Lyon County,Micropolitan,11,497
+NV,Nye County,Micropolitan,13,620
+NV,Washoe County,Medium metro,702,6040
+NV,Carson City,Small metro,157,1370
+NY,Albany County,Medium metro,549,4777
+NY,Allegany County,Noncore,62,493
+NY,Bronx County,Large central metro,4918,18422
+NY,Broome County,Small metro,371,2961
+NY,Cattaraugus County,Micropolitan,63,903
+NY,Cayuga County,Micropolitan,85,875
+NY,Chautauqua County,Micropolitan,96,1444
+NY,Chemung County,Small metro,145,1190
+NY,Chenango County,Noncore,53,590
+NY,Clinton County,Micropolitan,25,942
+NY,Columbia County,Micropolitan,88,724
+NY,Cortland County,Micropolitan,59,511
+NY,Delaware County,Noncore,21,478
+NY,Dutchess County,Large fringe metro,452,3431
+NY,Erie County,Large central metro,1863,13319
+NY,Essex County,Noncore,13,411
+NY,Franklin County,Micropolitan,12,451
+NY,Fulton County,Micropolitan,66,612
+NY,Genesee County,Micropolitan,112,715
+NY,Greene County,Noncore,11,407
+NY,Herkimer County,Medium metro,48,561
+NY,Jefferson County,Small metro,54,998
+NY,Kings County,Large central metro,7202,25003
+NY,Lewis County,Noncore,15,214
+NY,Livingston County,Large fringe metro,41,445
+NY,Madison County,Medium metro,82,682
+NY,Monroe County,Large central metro,1283,10273
+NY,Montgomery County,Micropolitan,93,764
+NY,Nassau County,Large fringe metro,4055,17341
+NY,New York County,Large central metro,4829,20153
+NY,Niagara County,Large fringe metro,237,2677
+NY,Oneida County,Medium metro,498,3507
+NY,Onondaga County,Medium metro,834,6853
+NY,Ontario County,Large fringe metro,120,1264
+NY,Orange County,Large fringe metro,709,3813
+NY,Orleans County,Large fringe metro,54,371
+NY,Oswego County,Medium metro,68,912
+NY,Otsego County,Micropolitan,71,974
+NY,Putnam County,Large fringe metro,85,671
+NY,Queens County,Large central metro,6350,21335
+NY,Rensselaer County,Medium metro,117,1711
+NY,Richmond County,Large central metro,1370,5448
+NY,Rockland County,Large fringe metro,853,3215
+NY,St. Lawrence County,Micropolitan,71,1094
+NY,Saratoga County,Medium metro,103,1790
+NY,Schenectady County,Medium metro,132,1923
+NY,Seneca County,Micropolitan,31,256
+NY,Steuben County,Micropolitan,135,1160
+NY,Suffolk County,Large fringe metro,3776,17753
+NY,Sullivan County,Noncore,64,742
+NY,Tioga County,Small metro,47,336
+NY,Tompkins County,Small metro,46,783
+NY,Ulster County,Small metro,151,1662
+NY,Warren County,Small metro,83,1140
+NY,Washington County,Small metro,38,619
+NY,Wayne County,Large fringe metro,52,743
+NY,Westchester County,Large fringe metro,2498,10240
+NY,Wyoming County,Noncore,30,396
+NY,Yates County,Large fringe metro,21,307
+OH,Adams County,Noncore,15,338
+OH,Allen County,Small metro,326,1869
+OH,Ashland County,Micropolitan,83,629
+OH,Ashtabula County,Micropolitan,137,1203
+OH,Athens County,Micropolitan,35,524
+OH,Auglaize County,Micropolitan,63,522
+OH,Belmont County,Small metro,57,638
+OH,Brown County,Large fringe metro,18,449
+OH,Butler County,Large fringe metro,441,3934
+OH,Champaign County,Micropolitan,21,353
+OH,Clark County,Small metro,224,2018
+OH,Clermont County,Large fringe metro,107,1462
+OH,Clinton County,Micropolitan,41,445
+OH,Columbiana County,Micropolitan,166,1291
+OH,Coshocton County,Micropolitan,26,388
+OH,Crawford County,Micropolitan,73,583
+OH,Cuyahoga County,Large central metro,2346,20690
+OH,Darke County,Micropolitan,86,641
+OH,Defiance County,Micropolitan,79,694
+OH,Delaware County,Large fringe metro,75,1102
+OH,Erie County,Micropolitan,177,1372
+OH,Fairfield County,Large fringe metro,160,1688
+OH,Fayette County,Micropolitan,31,356
+OH,Franklin County,Large central metro,1985,16877
+OH,Fulton County,Medium metro,34,333
+OH,Gallia County,Micropolitan,63,504
+OH,Geauga County,Large fringe metro,158,1101
+OH,Greene County,Medium metro,204,1558
+OH,Guernsey County,Micropolitan,22,444
+OH,Hamilton County,Large central metro,1407,12748
+OH,Hancock County,Micropolitan,174,1167
+OH,Hardin County,Noncore,24,269
+OH,Harrison County,Noncore,22,197
+OH,Henry County,Noncore,33,207
+OH,Highland County,Noncore,38,462
+OH,Hocking County,Large fringe metro,25,229
+OH,Holmes County,Noncore,84,417
+OH,Huron County,Micropolitan,78,659
+OH,Jackson County,Micropolitan,30,424
+OH,Jefferson County,Small metro,107,997
+OH,Knox County,Micropolitan,76,720
+OH,Lake County,Large fringe metro,245,2466
+OH,Lawrence County,Medium metro,21,484
+OH,Licking County,Large fringe metro,160,1836
+OH,Logan County,Micropolitan,53,497
+OH,Lorain County,Large fringe metro,371,3368
+OH,Lucas County,Medium metro,1007,7180
+OH,Madison County,Large fringe metro,21,349
+OH,Mahoning County,Medium metro,653,4562
+OH,Marion County,Micropolitan,178,938
+OH,Medina County,Large fringe metro,134,1543
+OH,Meigs County,Noncore,11,250
+OH,Mercer County,Micropolitan,66,439
+OH,Miami County,Medium metro,120,1229
+OH,Monroe County,Noncore,10,129
+OH,Montgomery County,Medium metro,1310,9878
+OH,Morgan County,Noncore,23,182
+OH,Morrow County,Large fringe metro,17,278
+OH,Muskingum County,Micropolitan,160,1439
+OH,Noble County,Noncore,30,116
+OH,Ottawa County,Micropolitan,35,393
+OH,Paulding County,Noncore,19,157
+OH,Perry County,Large fringe metro,17,296
+OH,Pickaway County,Large fringe metro,70,544
+OH,Portage County,Medium metro,126,1549
+OH,Preble County,Noncore,26,338
+OH,Putnam County,Noncore,48,295
+OH,Richland County,Small metro,191,1811
+OH,Ross County,Micropolitan,140,1230
+OH,Sandusky County,Micropolitan,74,645
+OH,Scioto County,Micropolitan,119,1460
+OH,Seneca County,Micropolitan,74,596
+OH,Shelby County,Micropolitan,45,472
+OH,Stark County,Medium metro,892,5907
+OH,Summit County,Medium metro,873,7730
+OH,Trumbull County,Medium metro,316,2615
+OH,Tuscarawas County,Micropolitan,221,1404
+OH,Union County,Large fringe metro,27,421
+OH,Van Wert County,Micropolitan,45,287
+OH,Warren County,Large fringe metro,221,2260
+OH,Washington County,Micropolitan,142,1055
+OH,Wayne County,Micropolitan,180,1355
+OH,Williams County,Noncore,58,338
+OH,Wood County,Medium metro,123,1430
+OH,Wyandot County,Noncore,37,279
+OK,Adair County,Noncore,10,189
+OK,Atoka County,Noncore,12,152
+OK,Beckham County,Micropolitan,54,294
+OK,Blaine County,Noncore,11,111
+OK,Bryan County,Micropolitan,83,579
+OK,Caddo County,Noncore,34,304
+OK,Canadian County,Large fringe metro,72,876
+OK,Carter County,Micropolitan,73,683
+OK,Cherokee County,Micropolitan,82,577
+OK,Choctaw County,Noncore,12,202
+OK,Cleveland County,Large fringe metro,332,2440
+OK,Comanche County,Small metro,151,1367
+OK,Craig County,Noncore,10,175
+OK,Creek County,Medium metro,41,656
+OK,Custer County,Micropolitan,61,367
+OK,Delaware County,Noncore,75,568
+OK,Garfield County,Micropolitan,166,934
+OK,Garvin County,Noncore,22,296
+OK,Grady County,Large fringe metro,57,534
+OK,Hughes County,Noncore,15,172
+OK,Jackson County,Micropolitan,57,286
+OK,Kay County,Micropolitan,83,588
+OK,Kingfisher County,Noncore,21,137
+OK,Kiowa County,Noncore,18,136
+OK,Le Flore County,Medium metro,16,476
+OK,Lincoln County,Large fringe metro,24,303
+OK,Logan County,Large fringe metro,31,291
+OK,Love County,Noncore,13,122
+OK,McClain County,Large fringe metro,26,310
+OK,McCurtain County,Noncore,31,370
+OK,Major County,Noncore,18,106
+OK,Mayes County,Noncore,23,357
+OK,Murray County,Noncore,14,197
+OK,Muskogee County,Micropolitan,157,1172
+OK,Oklahoma County,Large central metro,1701,12776
+OK,Okmulgee County,Medium metro,27,394
+OK,Osage County,Medium metro,17,305
+OK,Ottawa County,Micropolitan,41,365
+OK,Payne County,Micropolitan,56,615
+OK,Pittsburg County,Micropolitan,99,700
+OK,Pontotoc County,Micropolitan,82,501
+OK,Pottawatomie County,Micropolitan,109,991
+OK,Rogers County,Medium metro,61,860
+OK,Seminole County,Noncore,15,273
+OK,Sequoyah County,Medium metro,21,418
+OK,Stephens County,Micropolitan,77,596
+OK,Texas County,Micropolitan,17,113
+OK,Tulsa County,Medium metro,1467,10434
+OK,Wagoner County,Medium metro,16,431
+OK,Washington County,Micropolitan,131,892
+OK,Washita County,Noncore,12,116
+OK,Woods County,Noncore,14,89
+OK,Woodward County,Micropolitan,41,219
+OR,Benton County,Small metro,26,752
+OR,Clackamas County,Large fringe metro,149,3913
+OR,Coos County,Micropolitan,16,953
+OR,Deschutes County,Small metro,82,1966
+OR,Douglas County,Micropolitan,32,1683
+OR,Hood River County,Micropolitan,19,203
+OR,Jackson County,Small metro,92,2952
+OR,Josephine County,Small metro,41,1352
+OR,Klamath County,Micropolitan,41,952
+OR,Lane County,Medium metro,98,4527
+OR,Lincoln County,Micropolitan,13,563
+OR,Linn County,Small metro,38,1513
+OR,Malheur County,Micropolitan,16,300
+OR,Marion County,Medium metro,210,3348
+OR,Multnomah County,Large central metro,595,8191
+OR,Polk County,Medium metro,16,655
+OR,Umatilla County,Micropolitan,54,717
+OR,Wasco County,Micropolitan,25,360
+OR,Washington County,Large fringe metro,245,4189
+OR,Yamhill County,Large fringe metro,42,1039
+PA,Adams County,Small metro,119,1062
+PA,Allegheny County,Large central metro,2085,20609
+PA,Armstrong County,Large fringe metro,73,768
+PA,Beaver County,Large fringe metro,284,2366
+PA,Bedford County,Noncore,61,518
+PA,Berks County,Medium metro,770,4915
+PA,Blair County,Small metro,344,2512
+PA,Bradford County,Micropolitan,116,1095
+PA,Bucks County,Large fringe metro,1013,7553
+PA,Butler County,Large fringe metro,362,2504
+PA,Cambria County,Small metro,357,2342
+PA,Carbon County,Medium metro,82,770
+PA,Centre County,Small metro,210,1345
+PA,Chester County,Large fringe metro,779,5325
+PA,Clarion County,Noncore,62,469
+PA,Clearfield County,Micropolitan,112,1163
+PA,Clinton County,Micropolitan,19,310
+PA,Columbia County,Small metro,60,592
+PA,Crawford County,Micropolitan,123,1096
+PA,Cumberland County,Medium metro,533,3369
+PA,Dauphin County,Medium metro,578,4331
+PA,Delaware County,Large fringe metro,1114,6498
+PA,Elk County,Noncore,27,330
+PA,Erie County,Medium metro,433,4201
+PA,Fayette County,Large fringe metro,210,1741
+PA,Forest County,Noncore,14,81
+PA,Franklin County,Small metro,304,2004
+PA,Greene County,Noncore,18,399
+PA,Huntingdon County,Micropolitan,72,460
+PA,Indiana County,Micropolitan,119,1030
+PA,Jefferson County,Noncore,69,553
+PA,Juniata County,Noncore,46,273
+PA,Lackawanna County,Medium metro,422,3703
+PA,Lancaster County,Medium metro,905,6593
+PA,Lawrence County,Micropolitan,135,1290
+PA,Lebanon County,Small metro,210,1858
+PA,Lehigh County,Medium metro,1109,6313
+PA,Luzerne County,Medium metro,653,5119
+PA,Lycoming County,Small metro,273,1806
+PA,Mc Kean County,Micropolitan,53,507
+PA,Mercer County,Medium metro,214,1707
+PA,Mifflin County,Micropolitan,174,785
+PA,Monroe County,Small metro,232,1752
+PA,Montgomery County,Large fringe metro,1902,11081
+PA,Montour County,Small metro,306,1648
+PA,Northampton County,Medium metro,460,3396
+PA,Northumberland County,Micropolitan,199,1117
+PA,Perry County,Medium metro,33,382
+PA,Philadelphia County,Large central metro,2773,20226
+PA,Pike County,Large fringe metro,17,372
+PA,Potter County,Noncore,11,210
+PA,Schuylkill County,Micropolitan,259,2012
+PA,Snyder County,Micropolitan,17,286
+PA,Somerset County,Micropolitan,173,1154
+PA,Susquehanna County,Noncore,43,479
+PA,Tioga County,Noncore,72,451
+PA,Union County,Micropolitan,112,609
+PA,Venango County,Micropolitan,72,698
+PA,Warren County,Micropolitan,71,535
+PA,Washington County,Large fringe metro,216,2947
+PA,Wayne County,Noncore,56,674
+PA,Westmoreland County,Large fringe metro,490,4573
+PA,Wyoming County,Medium metro,26,208
+PA,York County,Medium metro,645,5285
+RI,Bristol County,Large fringe metro,69,445
+RI,Kent County,Large fringe metro,252,1908
+RI,Newport County,Large fringe metro,20,672
+RI,Providence County,Large central metro,1764,8720
+RI,Washington County,Large fringe metro,120,1292
+SC,Abbeville County,Micropolitan,10,242
+SC,Aiken County,Medium metro,150,1981
+SC,Anderson County,Medium metro,343,2977
+SC,Barnwell County,Noncore,14,195
+SC,Beaufort County,Small metro,119,1791
+SC,Berkeley County,Medium metro,81,1620
+SC,Calhoun County,Medium metro,15,147
+SC,Charleston County,Medium metro,541,5707
+SC,Cherokee County,Micropolitan,20,544
+SC,Chester County,Large fringe metro,27,376
+SC,Chesterfield County,Noncore,45,490
+SC,Clarendon County,Noncore,36,334
+SC,Colleton County,Noncore,64,620
+SC,Darlington County,Small metro,100,715
+SC,Dillon County,Noncore,31,378
+SC,Dorchester County,Medium metro,84,1065
+SC,Fairfield County,Medium metro,27,256
+SC,Florence County,Small metro,553,3566
+SC,Georgetown County,Micropolitan,140,1139
+SC,Greenville County,Medium metro,705,6414
+SC,Greenwood County,Micropolitan,171,1290
+SC,Hampton County,Noncore,26,192
+SC,Horry County,Medium metro,421,4840
+SC,Jasper County,Small metro,36,349
+SC,Kershaw County,Medium metro,55,705
+SC,Lancaster County,Large fringe metro,91,916
+SC,Laurens County,Medium metro,73,832
+SC,Lee County,Noncore,12,141
+SC,Lexington County,Medium metro,324,3323
+SC,Marion County,Noncore,42,369
+SC,Newberry County,Micropolitan,65,476
+SC,Oconee County,Micropolitan,86,1071
+SC,Orangeburg County,Micropolitan,170,1299
+SC,Pickens County,Medium metro,107,1122
+SC,Richland County,Medium metro,512,4907
+SC,Saluda County,Medium metro,13,182
+SC,Spartanburg County,Medium metro,655,4640
+SC,Sumter County,Small metro,126,1337
+SC,Williamsburg County,Noncore,24,308
+SC,York County,Large fringe metro,166,2584
+SD,Beadle County,Micropolitan,30,183
+SD,Bon Homme County,Noncore,14,90
+SD,Brookings County,Micropolitan,30,215
+SD,Brown County,Micropolitan,103,547
+SD,Butte County,Noncore,15,83
+SD,Codington County,Micropolitan,62,337
+SD,Davison County,Micropolitan,59,276
+SD,Day County,Noncore,23,94
+SD,Grant County,Noncore,34,108
+SD,Gregory County,Noncore,23,74
+SD,Hamlin County,Noncore,37,102
+SD,Hughes County,Micropolitan,36,223
+SD,Hutchinson County,Noncore,18,106
+SD,Jerauld County,Noncore,15,34
+SD,Lake County,Noncore,14,78
+SD,Lawrence County,Micropolitan,33,248
+SD,Lincoln County,Small metro,45,310
+SD,McCook County,Small metro,24,75
+SD,Meade County,Small metro,35,240
+SD,Minnehaha County,Small metro,699,3309
+SD,Moody County,Noncore,10,61
+SD,Pennington County,Small metro,199,1555
+SD,Roberts County,Noncore,23,99
+SD,Spink County,Noncore,22,89
+SD,Turner County,Small metro,38,132
+SD,Walworth County,Noncore,11,68
+SD,Yankton County,Micropolitan,61,364
+TN,Anderson County,Medium metro,146,1415
+TN,Bedford County,Micropolitan,43,447
+TN,Benton County,Noncore,10,185
+TN,Blount County,Medium metro,139,1701
+TN,Bradley County,Small metro,110,1380
+TN,Campbell County,Medium metro,25,608
+TN,Cannon County,Large fringe metro,14,158
+TN,Carroll County,Noncore,56,466
+TN,Carter County,Small metro,96,839
+TN,Cheatham County,Large fringe metro,10,358
+TN,Chester County,Small metro,12,147
+TN,Claiborne County,Noncore,34,445
+TN,Clay County,Noncore,18,106
+TN,Cocke County,Micropolitan,67,591
+TN,Coffee County,Micropolitan,67,763
+TN,Crockett County,Small metro,24,192
+TN,Cumberland County,Micropolitan,89,1050
+TN,Davidson County,Large central metro,1527,11965
+TN,DeKalb County,Noncore,22,260
+TN,Dickson County,Large fringe metro,125,736
+TN,Dyer County,Micropolitan,80,616
+TN,Fayette County,Large fringe metro,18,307
+TN,Fentress County,Noncore,16,207
+TN,Franklin County,Micropolitan,60,613
+TN,Gibson County,Noncore,49,717
+TN,Giles County,Noncore,48,438
+TN,Grainger County,Medium metro,16,251
+TN,Greene County,Micropolitan,72,967
+TN,Hamblen County,Small metro,127,1101
+TN,Hamilton County,Medium metro,660,6781
+TN,Hardeman County,Noncore,19,255
+TN,Hardin County,Noncore,26,394
+TN,Hawkins County,Medium metro,15,556
+TN,Haywood County,Noncore,12,172
+TN,Henderson County,Noncore,34,344
+TN,Henry County,Micropolitan,43,549
+TN,Jefferson County,Small metro,80,773
+TN,Johnson County,Noncore,16,172
+TN,Knox County,Medium metro,825,8338
+TN,Lawrence County,Micropolitan,36,550
+TN,Lewis County,Noncore,10,149
+TN,Lincoln County,Noncore,31,438
+TN,Loudon County,Medium metro,25,545
+TN,McMinn County,Micropolitan,52,775
+TN,McNairy County,Noncore,15,308
+TN,Macon County,Large fringe metro,14,232
+TN,Madison County,Small metro,572,2709
+TN,Marion County,Medium metro,15,319
+TN,Marshall County,Micropolitan,17,323
+TN,Maury County,Large fringe metro,217,1529
+TN,Monroe County,Noncore,41,592
+TN,Montgomery County,Medium metro,146,1717
+TN,Obion County,Micropolitan,64,452
+TN,Overton County,Micropolitan,38,334
+TN,Perry County,Noncore,14,90
+TN,Putnam County,Micropolitan,209,1511
+TN,Rhea County,Micropolitan,39,426
+TN,Roane County,Medium metro,70,790
+TN,Robertson County,Large fringe metro,60,783
+TN,Rutherford County,Large fringe metro,517,3428
+TN,Scott County,Noncore,12,233
+TN,Sevier County,Micropolitan,106,1171
+TN,Shelby County,Large central metro,1450,13426
+TN,Stewart County,Noncore,10,101
+TN,Sullivan County,Medium metro,443,3984
+TN,Sumner County,Large fringe metro,269,2017
+TN,Tipton County,Large fringe metro,34,481
+TN,Unicoi County,Small metro,16,274
+TN,Warren County,Micropolitan,46,511
+TN,Washington County,Small metro,374,2959
+TN,Weakley County,Micropolitan,21,386
+TN,White County,Noncore,21,343
+TN,Williamson County,Large fringe metro,191,1551
+TN,Wilson County,Large fringe metro,121,1262
+TX,Anderson County,Micropolitan,97,693
+TX,Andrews County,Micropolitan,21,118
+TX,Angelina County,Micropolitan,226,1379
+TX,Atascosa County,Large fringe metro,78,484
+TX,Bastrop County,Large fringe metro,11,652
+TX,Bee County,Micropolitan,28,263
+TX,Bell County,Medium metro,396,3695
+TX,Bexar County,Large central metro,3472,21009
+TX,Bowie County,Small metro,324,1947
+TX,Brazoria County,Large fringe metro,274,2620
+TX,Brazos County,Small metro,347,2012
+TX,Brown County,Micropolitan,106,656
+TX,Burnet County,Noncore,61,565
+TX,Caldwell County,Large fringe metro,30,327
+TX,Calhoun County,Micropolitan,12,185
+TX,Callahan County,Small metro,10,140
+TX,Cameron County,Medium metro,1442,4923
+TX,Camp County,Noncore,11,149
+TX,Cass County,Noncore,24,409
+TX,Chambers County,Large fringe metro,14,279
+TX,Cherokee County,Micropolitan,80,542
+TX,Coleman County,Noncore,17,141
+TX,Collin County,Large central metro,1049,7868
+TX,Colorado County,Noncore,14,238
+TX,Comal County,Large fringe metro,269,1786
+TX,Comanche County,Noncore,30,197
+TX,Cooke County,Micropolitan,33,414
+TX,Coryell County,Medium metro,23,437
+TX,Crane County,Noncore,12,57
+TX,Dallas County,Large central metro,2995,22330
+TX,Dawson County,Micropolitan,24,129
+TX,Deaf Smith County,Micropolitan,25,141
+TX,Denton County,Large fringe metro,662,5316
+TX,DeWitt County,Noncore,42,239
+TX,Eastland County,Noncore,12,243
+TX,Ector County,Small metro,407,1940
+TX,Ellis County,Large fringe metro,195,1529
+TX,El Paso County,Medium metro,2420,9441
+TX,Erath County,Micropolitan,32,326
+TX,Fannin County,Noncore,38,372
+TX,Fayette County,Noncore,16,327
+TX,Floyd County,Noncore,22,79
+TX,Fort Bend County,Large fringe metro,477,4409
+TX,Freestone County,Noncore,18,215
+TX,Frio County,Noncore,17,161
+TX,Galveston County,Large fringe metro,464,3380
+TX,Gillespie County,Micropolitan,43,425
+TX,Gonzales County,Noncore,22,201
+TX,Gray County,Micropolitan,44,267
+TX,Grayson County,Small metro,393,2334
+TX,Gregg County,Small metro,410,2425
+TX,Grimes County,Noncore,12,215
+TX,Guadalupe County,Large fringe metro,121,1194
+TX,Hale County,Micropolitan,95,354
+TX,Hamilton County,Noncore,19,123
+TX,Hardin County,Medium metro,19,410
+TX,Harris County,Large central metro,5057,39445
+TX,Harrison County,Micropolitan,36,523
+TX,Haskell County,Noncore,10,72
+TX,Hays County,Large fringe metro,131,1492
+TX,Henderson County,Micropolitan,83,1055
+TX,Hidalgo County,Medium metro,2367,8086
+TX,Hill County,Noncore,31,390
+TX,Hockley County,Micropolitan,41,199
+TX,Hood County,Large fringe metro,86,825
+TX,Hopkins County,Micropolitan,115,587
+TX,Houston County,Noncore,11,267
+TX,Howard County,Micropolitan,53,416
+TX,Hunt County,Large fringe metro,123,1095
+TX,Hutchinson County,Micropolitan,30,219
+TX,Jasper County,Noncore,20,421
+TX,Jefferson County,Medium metro,493,3991
+TX,Jim Wells County,Micropolitan,40,355
+TX,Johnson County,Large fringe metro,99,1276
+TX,Karnes County,Noncore,18,136
+TX,Kaufman County,Large fringe metro,71,947
+TX,Kendall County,Large fringe metro,31,433
+TX,Kerr County,Micropolitan,70,885
+TX,Kleberg County,Micropolitan,53,304
+TX,Knox County,Noncore,11,61
+TX,Lamar County,Micropolitan,168,956
+TX,Lamb County,Noncore,35,159
+TX,Lavaca County,Noncore,43,261
+TX,Lee County,Noncore,10,139
+TX,Liberty County,Large fringe metro,41,603
+TX,Limestone County,Noncore,29,304
+TX,Llano County,Noncore,26,311
+TX,Lubbock County,Medium metro,1322,5361
+TX,McLennan County,Medium metro,533,3388
+TX,Matagorda County,Micropolitan,54,368
+TX,Maverick County,Micropolitan,133,523
+TX,Medina County,Large fringe metro,15,377
+TX,Midland County,Small metro,293,1531
+TX,Milam County,Noncore,13,200
+TX,Montague County,Noncore,26,275
+TX,Montgomery County,Large fringe metro,749,6579
+TX,Moore County,Micropolitan,43,143
+TX,Nacogdoches County,Micropolitan,180,931
+TX,Navarro County,Micropolitan,80,571
+TX,Newton County,Medium metro,10,122
+TX,Nolan County,Micropolitan,41,217
+TX,Nueces County,Medium metro,831,4896
+TX,Ochiltree County,Noncore,13,74
+TX,Orange County,Medium metro,12,687
+TX,Palo Pinto County,Micropolitan,41,379
+TX,Panola County,Noncore,20,289
+TX,Parker County,Large fringe metro,80,1097
+TX,Parmer County,Noncore,23,77
+TX,Polk County,Noncore,43,649
+TX,Potter County,Medium metro,788,3083
+TX,Randall County,Medium metro,66,838
+TX,Reeves County,Micropolitan,15,122
+TX,Rockwall County,Large fringe metro,195,1095
+TX,Runnels County,Noncore,25,147
+TX,Rusk County,Small metro,33,490
+TX,Sabine County,Noncore,10,143
+TX,San Augustine County,Noncore,17,141
+TX,San Patricio County,Medium metro,21,475
+TX,Scurry County,Micropolitan,36,172
+TX,Smith County,Small metro,823,4921
+TX,Somervell County,Large fringe metro,17,121
+TX,Starr County,Micropolitan,80,394
+TX,Tarrant County,Large central metro,3108,20672
+TX,Taylor County,Small metro,490,2349
+TX,Terry County,Noncore,19,139
+TX,Titus County,Micropolitan,59,421
+TX,Tom Green County,Small metro,339,1766
+TX,Travis County,Large central metro,975,8457
+TX,Tyler County,Noncore,16,256
+TX,Upshur County,Small metro,15,361
+TX,Uvalde County,Micropolitan,36,303
+TX,Val Verde County,Micropolitan,96,406
+TX,Van Zandt County,Noncore,34,539
+TX,Victoria County,Small metro,302,1439
+TX,Walker County,Micropolitan,60,571
+TX,Waller County,Large fringe metro,12,283
+TX,Washington County,Micropolitan,51,394
+TX,Webb County,Medium metro,660,2383
+TX,Wharton County,Micropolitan,43,403
+TX,Wichita County,Small metro,383,2161
+TX,Wilbarger County,Micropolitan,41,188
+TX,Williamson County,Large fringe metro,483,4350
+TX,Wilson County,Large fringe metro,27,430
+TX,Wise County,Large fringe metro,122,811
+TX,Wood County,Noncore,28,504
+TX,Young County,Noncore,26,297
+UT,Box Elder County,Medium metro,10,445
+UT,Cache County,Small metro,27,656
+UT,Davis County,Medium metro,123,2202
+UT,Iron County,Micropolitan,13,381
+UT,Salt Lake County,Large central metro,924,9668
+UT,San Juan County,Noncore,14,106
+UT,Tooele County,Large fringe metro,16,397
+UT,Uintah County,Micropolitan,11,272
+UT,Utah County,Medium metro,331,3516
+UT,Washington County,Small metro,223,2165
+UT,Weber County,Medium metro,192,2503
+VA,Accomack County,Noncore,29,477
+VA,Albemarle County,Small metro,82,1263
+VA,Alleghany County,Noncore,27,270
+VA,Amelia County,Large fringe metro,13,155
+VA,Amherst County,Medium metro,10,210
+VA,Arlington County,Large central metro,277,1762
+VA,Augusta County,Small metro,122,1120
+VA,Bedford County,Medium metro,18,765
+VA,Buchanan County,Noncore,12,227
+VA,Campbell County,Medium metro,15,473
+VA,Caroline County,Large fringe metro,11,234
+VA,Carroll County,Noncore,26,306
+VA,Chesterfield County,Large fringe metro,236,3025
+VA,Culpeper County,Large fringe metro,49,478
+VA,Fairfax County,Large fringe metro,834,6658
+VA,Fauquier County,Large fringe metro,39,585
+VA,Floyd County,Small metro,14,151
+VA,Franklin County,Medium metro,29,575
+VA,Frederick County,Small metro,17,506
+VA,Gloucester County,Large fringe metro,43,585
+VA,Grayson County,Noncore,13,160
+VA,Halifax County,Noncore,73,553
+VA,Hanover County,Large fringe metro,208,1728
+VA,Henrico County,Large fringe metro,481,4320
+VA,Henry County,Micropolitan,16,449
+VA,Isle of Wight County,Large fringe metro,10,284
+VA,James City County,Large fringe metro,32,885
+VA,Lee County,Noncore,16,215
+VA,Loudoun County,Large fringe metro,237,2206
+VA,Mecklenburg County,Noncore,46,541
+VA,Middlesex County,Noncore,14,165
+VA,Montgomery County,Small metro,87,904
+VA,Northampton County,Noncore,15,150
+VA,Nottoway County,Noncore,10,190
+VA,Page County,Noncore,39,300
+VA,Patrick County,Noncore,17,195
+VA,Pittsylvania County,Micropolitan,19,476
+VA,Prince Edward County,Noncore,21,315
+VA,Prince William County,Large fringe metro,253,2162
+VA,Pulaski County,Small metro,44,453
+VA,Roanoke County,Medium metro,39,733
+VA,Rockbridge County,Noncore,15,215
+VA,Rockingham County,Small metro,133,1040
+VA,Scott County,Medium metro,15,234
+VA,Shenandoah County,Noncore,72,549
+VA,Smyth County,Noncore,36,418
+VA,Southampton County,Noncore,15,138
+VA,Spotsylvania County,Large fringe metro,42,879
+VA,Stafford County,Large fringe metro,12,623
+VA,Tazewell County,Micropolitan,36,628
+VA,Warren County,Large fringe metro,23,351
+VA,Washington County,Medium metro,98,834
+VA,Wise County,Micropolitan,55,409
+VA,Wythe County,Noncore,44,454
+VA,York County,Large fringe metro,43,603
+VA,Alexandria city,Large central metro,161,1070
+VA,Bristol city,Medium metro,22,254
+VA,Buena Vista city,Noncore,11,72
+VA,Charlottesville city,Small metro,123,1293
+VA,Chesapeake city,Large fringe metro,150,2120
+VA,Colonial Heights city,Large fringe metro,22,263
+VA,Danville city,Micropolitan,105,957
+VA,Emporia city,Noncore,23,129
+VA,Fairfax city,Large fringe metro,20,262
+VA,Franklin city,Noncore,38,190
+VA,Fredericksburg city,Large fringe metro,105,1048
+VA,Galax city,Noncore,54,220
+VA,Hampton city,Large fringe metro,96,1436
+VA,Harrisonburg city,Small metro,39,326
+VA,Hopewell city,Large fringe metro,53,428
+VA,Lexington city,Noncore,27,169
+VA,Lynchburg city,Medium metro,293,1998
+VA,Manassas city,Large fringe metro,151,630
+VA,Martinsville city,Micropolitan,96,537
+VA,Newport News city,Large fringe metro,194,2425
+VA,Norfolk city,Large central metro,237,3322
+VA,Petersburg city,Large fringe metro,120,965
+VA,Portsmouth city,Large fringe metro,122,1305
+VA,Richmond city,Large central metro,283,3801
+VA,Roanoke city,Medium metro,294,2870
+VA,Salem city,Medium metro,125,1076
+VA,Staunton city,Small metro,16,319
+VA,Suffolk city,Large fringe metro,170,1136
+VA,Virginia Beach city,Large central metro,206,3780
+VA,Waynesboro city,Small metro,11,201
+VA,Winchester city,Small metro,161,1341
+VT,Chittenden County,Small metro,94,1891
+VT,Franklin County,Small metro,27,426
+VT,Washington County,Micropolitan,11,642
+WA,Asotin County,Small metro,21,264
+WA,Benton County,Medium metro,253,2275
+WA,Chelan County,Small metro,98,1096
+WA,Clark County,Large fringe metro,193,4588
+WA,Cowlitz County,Small metro,21,1382
+WA,Franklin County,Medium metro,80,397
+WA,Grant County,Micropolitan,58,696
+WA,Grays Harbor County,Micropolitan,25,827
+WA,Island County,Micropolitan,27,613
+WA,King County,Large central metro,1261,16650
+WA,Kitsap County,Medium metro,52,2335
+WA,Kittitas County,Micropolitan,25,319
+WA,Lewis County,Micropolitan,24,915
+WA,Mason County,Micropolitan,15,606
+WA,Okanogan County,Noncore,25,391
+WA,Pierce County,Large fringe metro,464,8611
+WA,Skagit County,Small metro,54,1466
+WA,Snohomish County,Large fringe metro,410,6348
+WA,Spokane County,Medium metro,538,6490
+WA,Stevens County,Medium metro,12,360
+WA,Thurston County,Medium metro,79,2833
+WA,Walla Walla County,Small metro,57,755
+WA,Whatcom County,Small metro,93,2107
+WA,Whitman County,Micropolitan,31,307
+WA,Yakima County,Small metro,347,2534
+WI,Ashland County,Noncore,19,201
+WI,Barron County,Noncore,56,561
+WI,Brown County,Medium metro,415,3364
+WI,Burnett County,Noncore,14,144
+WI,Calumet County,Small metro,23,320
+WI,Chippewa County,Small metro,59,578
+WI,Clark County,Noncore,33,320
+WI,Columbia County,Medium metro,43,590
+WI,Dane County,Medium metro,446,5475
+WI,Dodge County,Micropolitan,160,1149
+WI,Door County,Noncore,22,355
+WI,Douglas County,Medium metro,54,388
+WI,Dunn County,Micropolitan,18,319
+WI,Eau Claire County,Small metro,176,1559
+WI,Fond du Lac County,Small metro,129,1244
+WI,Grant County,Micropolitan,54,516
+WI,Green County,Medium metro,20,417
+WI,Green Lake County,Noncore,15,261
+WI,Iowa County,Medium metro,11,197
+WI,Iron County,Noncore,31,98
+WI,Jackson County,Noncore,13,220
+WI,Jefferson County,Micropolitan,69,802
+WI,Juneau County,Noncore,13,236
+WI,Kenosha County,Large fringe metro,336,1961
+WI,Kewaunee County,Medium metro,18,154
+WI,La Crosse County,Small metro,189,1827
+WI,Langlade County,Noncore,29,226
+WI,Lincoln County,Micropolitan,60,369
+WI,Manitowoc County,Micropolitan,65,915
+WI,Marathon County,Small metro,289,1931
+WI,Marinette County,Micropolitan,65,628
+WI,Marquette County,Noncore,12,155
+WI,Milwaukee County,Large central metro,1251,12109
+WI,Monroe County,Noncore,31,493
+WI,Oconto County,Medium metro,25,346
+WI,Oneida County,Noncore,61,624
+WI,Outagamie County,Small metro,295,2132
+WI,Ozaukee County,Large fringe metro,174,1379
+WI,Pierce County,Large fringe metro,26,275
+WI,Polk County,Noncore,33,459
+WI,Portage County,Micropolitan,49,555
+WI,Racine County,Small metro,281,2139
+WI,Richland County,Noncore,11,199
+WI,Rock County,Small metro,167,2012
+WI,Rusk County,Noncore,13,156
+WI,St. Croix County,Large fringe metro,45,708
+WI,Sauk County,Micropolitan,46,717
+WI,Sawyer County,Noncore,15,233
+WI,Shawano County,Micropolitan,55,493
+WI,Sheboygan County,Small metro,170,1435
+WI,Taylor County,Noncore,32,179
+WI,Trempealeau County,Noncore,29,254
+WI,Vernon County,Noncore,33,351
+WI,Vilas County,Noncore,14,227
+WI,Walworth County,Micropolitan,113,1042
+WI,Washburn County,Noncore,11,211
+WI,Washington County,Large fringe metro,112,1315
+WI,Waukesha County,Large fringe metro,568,4490
+WI,Waupaca County,Noncore,111,746
+WI,Winnebago County,Small metro,221,2120
+WI,Wood County,Micropolitan,155,1481
+WV,Berkeley County,Medium metro,79,1119
+WV,Boone County,Small metro,10,223
+WV,Brooke County,Small metro,97,492
+WV,Cabell County,Medium metro,210,2382
+WV,Fayette County,Small metro,23,410
+WV,Grant County,Noncore,12,167
+WV,Greenbrier County,Noncore,56,537
+WV,Hampshire County,Small metro,14,214
+WV,Hancock County,Small metro,26,271
+WV,Harrison County,Micropolitan,76,1092
+WV,Jackson County,Noncore,19,252
+WV,Jefferson County,Large fringe metro,19,632
+WV,Kanawha County,Small metro,350,3718
+WV,Logan County,Micropolitan,47,489
+WV,Marshall County,Small metro,56,351
+WV,Mason County,Micropolitan,13,228
+WV,Mercer County,Micropolitan,75,922
+WV,Mineral County,Small metro,38,251
+WV,Monongalia County,Small metro,240,2100
+WV,Ohio County,Small metro,177,1237
+WV,Preston County,Small metro,23,299
+WV,Putnam County,Medium metro,57,478
+WV,Raleigh County,Small metro,66,1562
+WV,Randolph County,Micropolitan,19,397
+WV,Taylor County,Micropolitan,11,181
+WV,Upshur County,Noncore,13,238
+WV,Wayne County,Medium metro,21,305
+WV,Wetzel County,Noncore,10,153
+WV,Wood County,Small metro,130,1237
+WY,Albany County,Micropolitan,10,237
+WY,Big Horn County,Noncore,18,124
+WY,Campbell County,Micropolitan,38,332
+WY,Converse County,Noncore,15,125
+WY,Fremont County,Micropolitan,46,474
+WY,Goshen County,Noncore,16,154
+WY,Laramie County,Small metro,102,1086
+WY,Natrona County,Small metro,164,1172
+WY,Park County,Noncore,19,342
+WY,Sheridan County,Micropolitan,22,345
+WY,Sweetwater County,Micropolitan,29,384
+WY,Washakie County,Noncore,20,99
